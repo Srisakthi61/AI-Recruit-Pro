@@ -46,7 +46,21 @@ const CandidateDetailModal = ({
   } = parsed;
 
   const originalFileName = candidateProfile.originalFileName || 'resume.pdf';
-  const fileUrl = candidateProfile.fileUrl || '';
+  const rawFileUrl = candidateProfile.fileUrl || '';
+
+  // Resolve download URL: in production on Vercel, prepend the Render backend origin from VITE_API_URL if relative
+  const getDownloadUrl = (url) => {
+    if (!url) return '';
+    if (url.startsWith('http://') || url.startsWith('https://')) return url;
+    const apiUrl = import.meta.env.VITE_API_URL;
+    if (apiUrl && apiUrl.startsWith('http')) {
+      const backendOrigin = apiUrl.replace(/\/api\/?$/, '');
+      return `${backendOrigin}${url.startsWith('/') ? '' : '/'}${url}`;
+    }
+    return url;
+  };
+
+  const fileUrl = getDownloadUrl(rawFileUrl);
 
   return (
     <div className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-[#202925]/60 backdrop-blur-sm animate-in fade-in duration-200">
