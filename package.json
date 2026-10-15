@@ -1,0 +1,16 @@
+{
+  "name": "ai-recruit-pro-monorepo",
+  "version": "1.0.0",
+  "description": "AI-Assisted Recruitment System - AI Recruit Pro",
+  "scripts": {
+    "server": "npm.cmd --prefix server start",
+    "client": "npm.cmd --prefix client run dev",
+    "dev": "concurrently -n \"SERVER,CLIENT\" -c \"blue,green\" \"node server/src/server.js\" \"npm.cmd --prefix client run dev\"",
+    "seed": "node server/seed.js",
+    "test": "node server/test/api.test.js",
+    "install:all": "npm.cmd install && npm.cmd --prefix server install && npm.cmd --prefix client install"
+  },
+  "devDependencies": {
+    "concurrently": "^9.1.2"
+  }
+}

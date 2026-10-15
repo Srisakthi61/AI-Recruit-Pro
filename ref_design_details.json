@@ -1,0 +1,4734 @@
+[
+  {
+    "slide": 1,
+    "shapes": [
+      {
+        "name": "Text 0",
+        "type": "TEXT_BOX (17)",
+        "left": 1097280,
+        "top": 457200,
+        "width": 5486400,
+        "height": 274320,
+        "fill_type": "BACKGROUND (5)",
+        "text_frame": [
+          {
+            "text": "AGENDA",
+            "runs": [
+              {
+                "text": "AGENDA",
+                "font": "Calibri",
+                "size": 12.0,
+                "bold": true,
+                "color": "00A896"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Text 1",
+        "type": "TEXT_BOX (17)",
+        "left": 1097280,
+        "top": 713232,
+        "width": 10058400,
+        "height": 548640,
+        "fill_type": "BACKGROUND (5)",
+        "text_frame": [
+          {
+            "text": "Scope of This Review",
+            "runs": [
+              {
+                "text": "Scope of This Review",
+                "font": "Cambria",
+                "size": 28.0,
+                "bold": true,
+                "color": "1B2A2E"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Shape 2",
+        "type": "AUTO_SHAPE (1)",
+        "left": 1097280,
+        "top": 1371600,
+        "width": 10607040,
+        "height": 0,
+        "fill_type": "BACKGROUND (5)",
+        "line_color": "D7E7E5",
+        "text_frame": []
+      },
+      {
+        "name": "Shape 6",
+        "type": "AUTO_SHAPE (1)",
+        "left": 998144,
+        "top": 1700059,
+        "width": 5029200,
+        "height": 3713907,
+        "fill_type": "SOLID (1)",
+        "fill_color": "028090",
+        "text_frame": []
+      },
+      {
+        "name": "Text 8",
+        "type": "TEXT_BOX (17)",
+        "left": 1371600,
+        "top": 2130643,
+        "width": 4572000,
+        "height": 2814903,
+        "fill_type": "BACKGROUND (5)",
+        "text_frame": [
+          {
+            "text": "Requirements (Functional & Non-Functional)",
+            "runs": [
+              {
+                "text": "Requirements (Functional & Non-Functional)",
+                "font": "Calibri",
+                "size": 14.0,
+                "color": "FFFFFF"
+              }
+            ]
+          },
+          {
+            "text": "Detailed System Architecture",
+            "runs": [
+              {
+                "text": "Detailed System Architecture",
+                "font": "Calibri",
+                "size": 14.0,
+                "color": "FFFFFF"
+              }
+            ]
+          },
+          {
+            "text": "Use Case & ER Diagrams",
+            "runs": [
+              {
+                "text": "Use Case & ER Diagrams",
+                "font": "Calibri",
+                "size": 14.0,
+                "color": "FFFFFF"
+              }
+            ]
+          },
+          {
+            "text": "Module Description & Tech Stack",
+            "runs": [
+              {
+                "text": "Module Description & Tech Stack",
+                "font": "Calibri",
+                "size": 14.0,
+                "color": "FFFFFF"
+              }
+            ]
+          },
+          {
+            "text": "UI Design, Frontend & Backend Build",
+            "runs": [
+              {
+                "text": "UI Design, Frontend & Backend Build",
+                "font": "Calibri",
+                "size": 14.0,
+                "color": "FFFFFF"
+              }
+            ]
+          },
+          {
+            "text": "Database & API Integration",
+            "runs": [
+              {
+                "text": "Database & API Integration",
+                "font": "Calibri",
+                "size": 14.0,
+                "color": "FFFFFF"
+              }
+            ]
+          },
+          {
+            "text": "Progress (70%), Screenshots & Challenges",
+            "runs": [
+              {
+                "text": "Progress (70%), Screenshots & Challenges",
+                "font": "Calibri",
+                "size": 14.0,
+                "color": "FFFFFF"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Text 9",
+        "type": "TEXT_BOX (17)",
+        "left": 457200,
+        "top": 6473952,
+        "width": 5486400,
+        "height": 274320,
+        "fill_type": "BACKGROUND (5)",
+        "text_frame": [
+          {
+            "text": "Agenda",
+            "runs": [
+              {
+                "text": "Agenda",
+                "font": "Calibri",
+                "size": 10.0,
+                "color": "7A8F8C"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Text 10",
+        "type": "TEXT_BOX (17)",
+        "left": 6245352,
+        "top": 6473952,
+        "width": 5486400,
+        "height": 274320,
+        "fill_type": "BACKGROUND (5)",
+        "text_frame": [
+          {
+            "text": "Review 1 & 2  |  MERN Stack Project",
+            "runs": [
+              {
+                "text": "Review 1 & 2  |  MERN Stack Project",
+                "font": "Calibri",
+                "size": 10.0,
+                "color": "7A8F8C"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slide": 2,
+    "shapes": [
+      {
+        "name": "Shape 0",
+        "type": "AUTO_SHAPE (1)",
+        "left": 457200,
+        "top": 457200,
+        "width": 502920,
+        "height": 502920,
+        "fill_type": "SOLID (1)",
+        "fill_color": "00A896",
+        "text_frame": []
+      },
+      {
+        "name": "Text 1",
+        "type": "TEXT_BOX (17)",
+        "left": 457200,
+        "top": 457200,
+        "width": 502920,
+        "height": 502920,
+        "fill_type": "BACKGROUND (5)",
+        "text_frame": [
+          {
+            "text": "01",
+            "runs": [
+              {
+                "text": "01",
+                "font": "Calibri",
+                "size": 14.0,
+                "bold": true,
+                "color": "FFFFFF"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Text 2",
+        "type": "TEXT_BOX (17)",
+        "left": 1097280,
+        "top": 457200,
+        "width": 5486400,
+        "height": 274320,
+        "fill_type": "BACKGROUND (5)",
+        "text_frame": [
+          {
+            "text": "REQUIREMENTS",
+            "runs": [
+              {
+                "text": "REQUIREMENTS",
+                "font": "Calibri",
+                "size": 12.0,
+                "bold": true,
+                "color": "00A896"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Text 3",
+        "type": "TEXT_BOX (17)",
+        "left": 1097280,
+        "top": 713232,
+        "width": 10515600,
+        "height": 548640,
+        "fill_type": "BACKGROUND (5)",
+        "text_frame": [
+          {
+            "text": "Functional & Non-Functional Requirements",
+            "runs": [
+              {
+                "text": "Functional & Non-Functional Requirements",
+                "font": "Cambria",
+                "size": 28.0,
+                "bold": true,
+                "color": "1B2A2E"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Shape 4",
+        "type": "AUTO_SHAPE (1)",
+        "left": 1097280,
+        "top": 1371600,
+        "width": 10607040,
+        "height": 0,
+        "fill_type": "BACKGROUND (5)",
+        "line_color": "D7E7E5",
+        "text_frame": []
+      },
+      {
+        "name": "Shape 5",
+        "type": "AUTO_SHAPE (1)",
+        "left": 1097280,
+        "top": 1737360,
+        "width": 5029200,
+        "height": 4114800,
+        "fill_type": "SOLID (1)",
+        "fill_color": "F4FAF9",
+        "line_color": "D7E7E5",
+        "text_frame": []
+      },
+      {
+        "name": "Text 6",
+        "type": "TEXT_BOX (17)",
+        "left": 1371600,
+        "top": 1920240,
+        "width": 4572000,
+        "height": 365760,
+        "fill_type": "BACKGROUND (5)",
+        "text_frame": [
+          {
+            "text": "Functional Requirements",
+            "runs": [
+              {
+                "text": "Functional Requirements",
+                "font": "Cambria",
+                "size": 16.0,
+                "bold": true,
+                "color": "028090"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Text 7",
+        "type": "TEXT_BOX (17)",
+        "left": 1371600,
+        "top": 2423160,
+        "width": 4572000,
+        "height": 3291840,
+        "fill_type": "BACKGROUND (5)",
+        "text_frame": [
+          {
+            "text": "User registration & authentication",
+            "runs": [
+              {
+                "text": "User registration & authentication",
+                "font": "Calibri",
+                "size": 13.5,
+                "color": "1B2A2E"
+              }
+            ]
+          },
+          {
+            "text": "Role-based dashboards",
+            "runs": [
+              {
+                "text": "Role-based dashboards",
+                "font": "Calibri",
+                "size": 13.5,
+                "color": "1B2A2E"
+              }
+            ]
+          },
+          {
+            "text": "Core feature: [add/search/manage records]",
+            "runs": [
+              {
+                "text": "Core feature: [add/search/manage records]",
+                "font": "Calibri",
+                "size": 13.5,
+                "color": "1B2A2E"
+              }
+            ]
+          },
+          {
+            "text": "CRUD operations via REST APIs",
+            "runs": [
+              {
+                "text": "CRUD operations via REST APIs",
+                "font": "Calibri",
+                "size": 13.5,
+                "color": "1B2A2E"
+              }
+            ]
+          },
+          {
+            "text": "Search, filter & sort functionality",
+            "runs": [
+              {
+                "text": "Search, filter & sort functionality",
+                "font": "Calibri",
+                "size": 13.5,
+                "color": "1B2A2E"
+              }
+            ]
+          },
+          {
+            "text": "Notifications / status updates",
+            "runs": [
+              {
+                "text": "Notifications / status updates",
+                "font": "Calibri",
+                "size": 13.5,
+                "color": "1B2A2E"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Shape 8",
+        "type": "AUTO_SHAPE (1)",
+        "left": 6400800,
+        "top": 1737360,
+        "width": 5029200,
+        "height": 4114800,
+        "fill_type": "SOLID (1)",
+        "fill_color": "F4FAF9",
+        "line_color": "D7E7E5",
+        "text_frame": []
+      },
+      {
+        "name": "Text 9",
+        "type": "TEXT_BOX (17)",
+        "left": 6675120,
+        "top": 1920240,
+        "width": 4572000,
+        "height": 365760,
+        "fill_type": "BACKGROUND (5)",
+        "text_frame": [
+          {
+            "text": "Non-Functional Requirements",
+            "runs": [
+              {
+                "text": "Non-Functional Requirements",
+                "font": "Cambria",
+                "size": 16.0,
+                "bold": true,
+                "color": "028090"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Text 10",
+        "type": "TEXT_BOX (17)",
+        "left": 6675120,
+        "top": 2423160,
+        "width": 4572000,
+        "height": 3291840,
+        "fill_type": "BACKGROUND (5)",
+        "text_frame": [
+          {
+            "text": "Performance: response < 2 seconds",
+            "runs": [
+              {
+                "text": "Performance: response < 2 seconds",
+                "font": "Calibri",
+                "size": 13.5,
+                "color": "1B2A2E"
+              }
+            ]
+          },
+          {
+            "text": "Scalability: handle concurrent users",
+            "runs": [
+              {
+                "text": "Scalability: handle concurrent users",
+                "font": "Calibri",
+                "size": 13.5,
+                "color": "1B2A2E"
+              }
+            ]
+          },
+          {
+            "text": "Security: JWT auth, password hashing",
+            "runs": [
+              {
+                "text": "Security: JWT auth, password hashing",
+                "font": "Calibri",
+                "size": 13.5,
+                "color": "1B2A2E"
+              }
+            ]
+          },
+          {
+            "text": "Usability: responsive, mobile-friendly UI",
+            "runs": [
+              {
+                "text": "Usability: responsive, mobile-friendly UI",
+                "font": "Calibri",
+                "size": 13.5,
+                "color": "1B2A2E"
+              }
+            ]
+          },
+          {
+            "text": "Availability & reliable data storage",
+            "runs": [
+              {
+                "text": "Availability & reliable data storage",
+                "font": "Calibri",
+                "size": 13.5,
+                "color": "1B2A2E"
+              }
+            ]
+          },
+          {
+            "text": "Maintainability: modular MERN codebase",
+            "runs": [
+              {
+                "text": "Maintainability: modular MERN codebase",
+                "font": "Calibri",
+                "size": 13.5,
+                "color": "1B2A2E"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Text 11",
+        "type": "TEXT_BOX (17)",
+        "left": 457200,
+        "top": 6473952,
+        "width": 5486400,
+        "height": 274320,
+        "fill_type": "BACKGROUND (5)",
+        "text_frame": [
+          {
+            "text": "Requirements",
+            "runs": [
+              {
+                "text": "Requirements",
+                "font": "Calibri",
+                "size": 10.0,
+                "color": "7A8F8C"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Text 12",
+        "type": "TEXT_BOX (17)",
+        "left": 6245352,
+        "top": 6473952,
+        "width": 5486400,
+        "height": 274320,
+        "fill_type": "BACKGROUND (5)",
+        "text_frame": [
+          {
+            "text": "Review 1 & 2  |  MERN Stack Project",
+            "runs": [
+              {
+                "text": "Review 1 & 2  |  MERN Stack Project",
+                "font": "Calibri",
+                "size": 10.0,
+                "color": "7A8F8C"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slide": 3,
+    "shapes": [
+      {
+        "name": "Shape 0",
+        "type": "AUTO_SHAPE (1)",
+        "left": 457200,
+        "top": 457200,
+        "width": 502920,
+        "height": 502920,
+        "fill_type": "SOLID (1)",
+        "fill_color": "00A896",
+        "text_frame": []
+      },
+      {
+        "name": "Text 1",
+        "type": "TEXT_BOX (17)",
+        "left": 457200,
+        "top": 457200,
+        "width": 502920,
+        "height": 502920,
+        "fill_type": "BACKGROUND (5)",
+        "text_frame": [
+          {
+            "text": "02",
+            "runs": [
+              {
+                "text": "02",
+                "font": "Calibri",
+                "size": 14.0,
+                "bold": true,
+                "color": "FFFFFF"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Text 2",
+        "type": "TEXT_BOX (17)",
+        "left": 1097280,
+        "top": 457200,
+        "width": 5486400,
+        "height": 274320,
+        "fill_type": "BACKGROUND (5)",
+        "text_frame": [
+          {
+            "text": "ARCHITECTURE",
+            "runs": [
+              {
+                "text": "ARCHITECTURE",
+                "font": "Calibri",
+                "size": 12.0,
+                "bold": true,
+                "color": "00A896"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Text 3",
+        "type": "TEXT_BOX (17)",
+        "left": 1097280,
+        "top": 713232,
+        "width": 10515600,
+        "height": 548640,
+        "fill_type": "BACKGROUND (5)",
+        "text_frame": [
+          {
+            "text": "System Architecture (Detailed)",
+            "runs": [
+              {
+                "text": "System Architecture (Detailed)",
+                "font": "Cambria",
+                "size": 28.0,
+                "bold": true,
+                "color": "1B2A2E"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Shape 4",
+        "type": "AUTO_SHAPE (1)",
+        "left": 1097280,
+        "top": 1371600,
+        "width": 10607040,
+        "height": 0,
+        "fill_type": "BACKGROUND (5)",
+        "line_color": "D7E7E5",
+        "text_frame": []
+      },
+      {
+        "name": "Shape 5",
+        "type": "AUTO_SHAPE (1)",
+        "left": 1097280,
+        "top": 2377440,
+        "width": 3017520,
+        "height": 1828800,
+        "fill_type": "SOLID (1)",
+        "fill_color": "00A896",
+        "text_frame": []
+      },
+      {
+        "name": "Text 6",
+        "type": "TEXT_BOX (17)",
+        "left": 1280160,
+        "top": 2606040,
+        "width": 2651760,
+        "height": 365760,
+        "fill_type": "BACKGROUND (5)",
+        "text_frame": [
+          {
+            "text": "CLIENT TIER",
+            "runs": [
+              {
+                "text": "CLIENT TIER",
+                "font": "Cambria",
+                "size": 15.0,
+                "bold": true,
+                "color": "FFFFFF"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Text 7",
+        "type": "TEXT_BOX (17)",
+        "left": 1280160,
+        "top": 3063240,
+        "width": 2651760,
+        "height": 1005840,
+        "fill_type": "BACKGROUND (5)",
+        "text_frame": [
+          {
+            "text": "React.js, Redux/Context,",
+            "runs": [
+              {
+                "text": "React.js, Redux/Context,",
+                "font": "Calibri",
+                "size": 11.5,
+                "color": "FFFFFF"
+              }
+            ]
+          },
+          {
+            "text": "Axios, Tailwind/CSS",
+            "runs": [
+              {
+                "text": "Axios, Tailwind/CSS",
+                "font": "Calibri",
+                "size": 11.5,
+                "color": "FFFFFF"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Text 8",
+        "type": "TEXT_BOX (17)",
+        "left": 4114800,
+        "top": 3017520,
+        "width": 502920,
+        "height": 548640,
+        "fill_type": "BACKGROUND (5)",
+        "text_frame": [
+          {
+            "text": "\u21c4",
+            "runs": [
+              {
+                "text": "\u21c4",
+                "font": "Calibri",
+                "size": 22.0,
+                "bold": true,
+                "color": "1B2A2E"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Shape 9",
+        "type": "AUTO_SHAPE (1)",
+        "left": 4617720,
+        "top": 2377440,
+        "width": 3017520,
+        "height": 1828800,
+        "fill_type": "SOLID (1)",
+        "fill_color": "028090",
+        "text_frame": []
+      },
+      {
+        "name": "Text 10",
+        "type": "TEXT_BOX (17)",
+        "left": 4800600,
+        "top": 2606040,
+        "width": 2651760,
+        "height": 365760,
+        "fill_type": "BACKGROUND (5)",
+        "text_frame": [
+          {
+            "text": "APPLICATION TIER",
+            "runs": [
+              {
+                "text": "APPLICATION TIER",
+                "font": "Cambria",
+                "size": 15.0,
+                "bold": true,
+                "color": "FFFFFF"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Text 11",
+        "type": "TEXT_BOX (17)",
+        "left": 4800600,
+        "top": 3063240,
+        "width": 2651760,
+        "height": 1005840,
+        "fill_type": "BACKGROUND (5)",
+        "text_frame": [
+          {
+            "text": "Node.js + Express.js",
+            "runs": [
+              {
+                "text": "Node.js + Express.js",
+                "font": "Calibri",
+                "size": 11.5,
+                "color": "FFFFFF"
+              }
+            ]
+          },
+          {
+            "text": "REST API, Middleware, JWT Auth",
+            "runs": [
+              {
+                "text": "REST API, Middleware, JWT Auth",
+                "font": "Calibri",
+                "size": 11.5,
+                "color": "FFFFFF"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Text 12",
+        "type": "TEXT_BOX (17)",
+        "left": 7635240,
+        "top": 3017520,
+        "width": 502920,
+        "height": 548640,
+        "fill_type": "BACKGROUND (5)",
+        "text_frame": [
+          {
+            "text": "\u21c4",
+            "runs": [
+              {
+                "text": "\u21c4",
+                "font": "Calibri",
+                "size": 22.0,
+                "bold": true,
+                "color": "1B2A2E"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Shape 13",
+        "type": "AUTO_SHAPE (1)",
+        "left": 8138160,
+        "top": 2377440,
+        "width": 3017520,
+        "height": 1828800,
+        "fill_type": "SOLID (1)",
+        "fill_color": "1B2A2E",
+        "text_frame": []
+      },
+      {
+        "name": "Text 14",
+        "type": "TEXT_BOX (17)",
+        "left": 8321040,
+        "top": 2606040,
+        "width": 2651760,
+        "height": 365760,
+        "fill_type": "BACKGROUND (5)",
+        "text_frame": [
+          {
+            "text": "DATA TIER",
+            "runs": [
+              {
+                "text": "DATA TIER",
+                "font": "Cambria",
+                "size": 15.0,
+                "bold": true,
+                "color": "FFFFFF"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Text 15",
+        "type": "TEXT_BOX (17)",
+        "left": 8321040,
+        "top": 3063240,
+        "width": 2651760,
+        "height": 1005840,
+        "fill_type": "BACKGROUND (5)",
+        "text_frame": [
+          {
+            "text": "MongoDB + Mongoose",
+            "runs": [
+              {
+                "text": "MongoDB + Mongoose",
+                "font": "Calibri",
+                "size": 11.5,
+                "color": "FFFFFF"
+              }
+            ]
+          },
+          {
+            "text": "Collections & Schemas",
+            "runs": [
+              {
+                "text": "Collections & Schemas",
+                "font": "Calibri",
+                "size": 11.5,
+                "color": "FFFFFF"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Text 16",
+        "type": "TEXT_BOX (17)",
+        "left": 1097280,
+        "top": 4572000,
+        "width": 9966960,
+        "height": 548640,
+        "fill_type": "BACKGROUND (5)",
+        "text_frame": [
+          {
+            "text": "HTTP / HTTPS requests flow from the client, through Express REST endpoints, to MongoDB \u2014 with JSON responses returned along the same path.",
+            "runs": [
+              {
+                "text": "HTTP / HTTPS requests flow from the client, through Express REST endpoints, to MongoDB \u2014 with JSON responses returned along the same path.",
+                "font": "Calibri",
+                "size": 13.0,
+                "color": "3E5C58"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Shape 17",
+        "type": "AUTO_SHAPE (1)",
+        "left": 1097280,
+        "top": 5257800,
+        "width": 9966960,
+        "height": 777240,
+        "fill_type": "SOLID (1)",
+        "fill_color": "F4FAF9",
+        "line_color": "D7E7E5",
+        "text_frame": []
+      },
+      {
+        "name": "Text 18",
+        "type": "TEXT_BOX (17)",
+        "left": 1325880,
+        "top": 5257800,
+        "width": 9509760,
+        "height": 777240,
+        "fill_type": "BACKGROUND (5)",
+        "text_frame": [
+          {
+            "text": "Update this slide with your own architecture diagram (draw.io / Lucidchart export) showing your project's specific components, external APIs, and deployment setup.",
+            "runs": [
+              {
+                "text": "Update this slide with your own architecture diagram (draw.io / Lucidchart export) showing your project's specific components, external APIs, and deployment setup.",
+                "font": "Calibri",
+                "size": 11.5,
+                "color": "3E5C58"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Text 19",
+        "type": "TEXT_BOX (17)",
+        "left": 457200,
+        "top": 6473952,
+        "width": 5486400,
+        "height": 274320,
+        "fill_type": "BACKGROUND (5)",
+        "text_frame": [
+          {
+            "text": "Architecture",
+            "runs": [
+              {
+                "text": "Architecture",
+                "font": "Calibri",
+                "size": 10.0,
+                "color": "7A8F8C"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Text 20",
+        "type": "TEXT_BOX (17)",
+        "left": 6245352,
+        "top": 6473952,
+        "width": 5486400,
+        "height": 274320,
+        "fill_type": "BACKGROUND (5)",
+        "text_frame": [
+          {
+            "text": "Review 1 & 2  |  MERN Stack Project",
+            "runs": [
+              {
+                "text": "Review 1 & 2  |  MERN Stack Project",
+                "font": "Calibri",
+                "size": 10.0,
+                "color": "7A8F8C"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slide": 4,
+    "shapes": [
+      {
+        "name": "Shape 0",
+        "type": "AUTO_SHAPE (1)",
+        "left": 457200,
+        "top": 457200,
+        "width": 502920,
+        "height": 502920,
+        "fill_type": "SOLID (1)",
+        "fill_color": "00A896",
+        "text_frame": []
+      },
+      {
+        "name": "Text 1",
+        "type": "TEXT_BOX (17)",
+        "left": 457200,
+        "top": 457200,
+        "width": 502920,
+        "height": 502920,
+        "fill_type": "BACKGROUND (5)",
+        "text_frame": [
+          {
+            "text": "03",
+            "runs": [
+              {
+                "text": "03",
+                "font": "Calibri",
+                "size": 14.0,
+                "bold": true,
+                "color": "FFFFFF"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Text 2",
+        "type": "TEXT_BOX (17)",
+        "left": 1097280,
+        "top": 457200,
+        "width": 5486400,
+        "height": 274320,
+        "fill_type": "BACKGROUND (5)",
+        "text_frame": [
+          {
+            "text": "USE CASE",
+            "runs": [
+              {
+                "text": "USE CASE",
+                "font": "Calibri",
+                "size": 12.0,
+                "bold": true,
+                "color": "00A896"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Text 3",
+        "type": "TEXT_BOX (17)",
+        "left": 1097280,
+        "top": 713232,
+        "width": 10515600,
+        "height": 548640,
+        "fill_type": "BACKGROUND (5)",
+        "text_frame": [
+          {
+            "text": "Use Case Diagram",
+            "runs": [
+              {
+                "text": "Use Case Diagram",
+                "font": "Cambria",
+                "size": 28.0,
+                "bold": true,
+                "color": "1B2A2E"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Shape 4",
+        "type": "AUTO_SHAPE (1)",
+        "left": 1097280,
+        "top": 1371600,
+        "width": 10607040,
+        "height": 0,
+        "fill_type": "BACKGROUND (5)",
+        "line_color": "D7E7E5",
+        "text_frame": []
+      },
+      {
+        "name": "Shape 5",
+        "type": "AUTO_SHAPE (1)",
+        "left": 1097280,
+        "top": 1737360,
+        "width": 6035040,
+        "height": 4114800,
+        "fill_type": "SOLID (1)",
+        "fill_color": "F4FAF9",
+        "line_color": "00A896",
+        "text_frame": []
+      },
+      {
+        "name": "Text 6",
+        "type": "TEXT_BOX (17)",
+        "left": 1280160,
+        "top": 3474720,
+        "width": 5669280,
+        "height": 731520,
+        "fill_type": "BACKGROUND (5)",
+        "text_frame": [
+          {
+            "text": "Insert your Use Case Diagram",
+            "runs": [
+              {
+                "text": "Insert your Use Case Diagram",
+                "font": "Calibri",
+                "size": 14.0,
+                "color": "3E5C58"
+              }
+            ]
+          },
+          {
+            "text": "(actors \u2194 system use cases)",
+            "runs": [
+              {
+                "text": "(actors \u2194 system use cases)",
+                "font": "Calibri",
+                "size": 14.0,
+                "color": "3E5C58"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Shape 7",
+        "type": "AUTO_SHAPE (1)",
+        "left": 7406640,
+        "top": 1737360,
+        "width": 3657600,
+        "height": 4114800,
+        "fill_type": "SOLID (1)",
+        "fill_color": "FFFFFF",
+        "line_color": "D7E7E5",
+        "text_frame": []
+      },
+      {
+        "name": "Text 8",
+        "type": "TEXT_BOX (17)",
+        "left": 7635240,
+        "top": 1920240,
+        "width": 3200400,
+        "height": 320040,
+        "fill_type": "BACKGROUND (5)",
+        "text_frame": [
+          {
+            "text": "Include",
+            "runs": [
+              {
+                "text": "Include",
+                "font": "Cambria",
+                "size": 14.0,
+                "bold": true,
+                "color": "028090"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Text 9",
+        "type": "TEXT_BOX (17)",
+        "left": 7635240,
+        "top": 2331720,
+        "width": 3200400,
+        "height": 3383280,
+        "fill_type": "BACKGROUND (5)",
+        "text_frame": [
+          {
+            "text": "Identify all actors (Admin, User, etc.)",
+            "runs": [
+              {
+                "text": "Identify all actors (Admin, User, etc.)",
+                "font": "Calibri",
+                "size": 12.0,
+                "color": "1B2A2E"
+              }
+            ]
+          },
+          {
+            "text": "List each actor's use cases",
+            "runs": [
+              {
+                "text": "List each actor's use cases",
+                "font": "Calibri",
+                "size": 12.0,
+                "color": "1B2A2E"
+              }
+            ]
+          },
+          {
+            "text": "Show include / extend relationships",
+            "runs": [
+              {
+                "text": "Show include / extend relationships",
+                "font": "Calibri",
+                "size": 12.0,
+                "color": "1B2A2E"
+              }
+            ]
+          },
+          {
+            "text": "Keep it to system-level interactions",
+            "runs": [
+              {
+                "text": "Keep it to system-level interactions",
+                "font": "Calibri",
+                "size": 12.0,
+                "color": "1B2A2E"
+              }
+            ]
+          },
+          {
+            "text": "Export as image and paste here",
+            "runs": [
+              {
+                "text": "Export as image and paste here",
+                "font": "Calibri",
+                "size": 12.0,
+                "color": "1B2A2E"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Text 10",
+        "type": "TEXT_BOX (17)",
+        "left": 457200,
+        "top": 6473952,
+        "width": 5486400,
+        "height": 274320,
+        "fill_type": "BACKGROUND (5)",
+        "text_frame": [
+          {
+            "text": "Use Case",
+            "runs": [
+              {
+                "text": "Use Case",
+                "font": "Calibri",
+                "size": 10.0,
+                "color": "7A8F8C"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Text 11",
+        "type": "TEXT_BOX (17)",
+        "left": 6245352,
+        "top": 6473952,
+        "width": 5486400,
+        "height": 274320,
+        "fill_type": "BACKGROUND (5)",
+        "text_frame": [
+          {
+            "text": "Review 1 & 2  |  MERN Stack Project",
+            "runs": [
+              {
+                "text": "Review 1 & 2  |  MERN Stack Project",
+                "font": "Calibri",
+                "size": 10.0,
+                "color": "7A8F8C"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slide": 5,
+    "shapes": [
+      {
+        "name": "Shape 0",
+        "type": "AUTO_SHAPE (1)",
+        "left": 457200,
+        "top": 457200,
+        "width": 502920,
+        "height": 502920,
+        "fill_type": "SOLID (1)",
+        "fill_color": "00A896",
+        "text_frame": []
+      },
+      {
+        "name": "Text 1",
+        "type": "TEXT_BOX (17)",
+        "left": 457200,
+        "top": 457200,
+        "width": 502920,
+        "height": 502920,
+        "fill_type": "BACKGROUND (5)",
+        "text_frame": [
+          {
+            "text": "04",
+            "runs": [
+              {
+                "text": "04",
+                "font": "Calibri",
+                "size": 14.0,
+                "bold": true,
+                "color": "FFFFFF"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Text 2",
+        "type": "TEXT_BOX (17)",
+        "left": 1097280,
+        "top": 457200,
+        "width": 5486400,
+        "height": 274320,
+        "fill_type": "BACKGROUND (5)",
+        "text_frame": [
+          {
+            "text": "ER DIAGRAM",
+            "runs": [
+              {
+                "text": "ER DIAGRAM",
+                "font": "Calibri",
+                "size": 12.0,
+                "bold": true,
+                "color": "00A896"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Text 3",
+        "type": "TEXT_BOX (17)",
+        "left": 1097280,
+        "top": 713232,
+        "width": 10515600,
+        "height": 548640,
+        "fill_type": "BACKGROUND (5)",
+        "text_frame": [
+          {
+            "text": "ER Diagram / Database Design",
+            "runs": [
+              {
+                "text": "ER Diagram / Database Design",
+                "font": "Cambria",
+                "size": 28.0,
+                "bold": true,
+                "color": "1B2A2E"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Shape 4",
+        "type": "AUTO_SHAPE (1)",
+        "left": 1097280,
+        "top": 1371600,
+        "width": 10607040,
+        "height": 0,
+        "fill_type": "BACKGROUND (5)",
+        "line_color": "D7E7E5",
+        "text_frame": []
+      },
+      {
+        "name": "Shape 5",
+        "type": "AUTO_SHAPE (1)",
+        "left": 1097280,
+        "top": 1737360,
+        "width": 6035040,
+        "height": 4114800,
+        "fill_type": "SOLID (1)",
+        "fill_color": "F4FAF9",
+        "line_color": "00A896",
+        "text_frame": []
+      },
+      {
+        "name": "Text 6",
+        "type": "TEXT_BOX (17)",
+        "left": 1280160,
+        "top": 3474720,
+        "width": 5669280,
+        "height": 731520,
+        "fill_type": "BACKGROUND (5)",
+        "text_frame": [
+          {
+            "text": "Insert your ER Diagram",
+            "runs": [
+              {
+                "text": "Insert your ER Diagram",
+                "font": "Calibri",
+                "size": 14.0,
+                "color": "3E5C58"
+              }
+            ]
+          },
+          {
+            "text": "(entities, attributes & relationships)",
+            "runs": [
+              {
+                "text": "(entities, attributes & relationships)",
+                "font": "Calibri",
+                "size": 14.0,
+                "color": "3E5C58"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Shape 7",
+        "type": "AUTO_SHAPE (1)",
+        "left": 7406640,
+        "top": 1737360,
+        "width": 3657600,
+        "height": 4114800,
+        "fill_type": "SOLID (1)",
+        "fill_color": "FFFFFF",
+        "line_color": "D7E7E5",
+        "text_frame": []
+      },
+      {
+        "name": "Text 8",
+        "type": "TEXT_BOX (17)",
+        "left": 7635240,
+        "top": 1920240,
+        "width": 3200400,
+        "height": 320040,
+        "fill_type": "BACKGROUND (5)",
+        "text_frame": [
+          {
+            "text": "Include",
+            "runs": [
+              {
+                "text": "Include",
+                "font": "Cambria",
+                "size": 14.0,
+                "bold": true,
+                "color": "028090"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Text 9",
+        "type": "TEXT_BOX (17)",
+        "left": 7635240,
+        "top": 2331720,
+        "width": 3200400,
+        "height": 3383280,
+        "fill_type": "BACKGROUND (5)",
+        "text_frame": [
+          {
+            "text": "List entities and attributes",
+            "runs": [
+              {
+                "text": "List entities and attributes",
+                "font": "Calibri",
+                "size": 12.0,
+                "color": "1B2A2E"
+              }
+            ]
+          },
+          {
+            "text": "Mark primary & foreign keys",
+            "runs": [
+              {
+                "text": "Mark primary & foreign keys",
+                "font": "Calibri",
+                "size": 12.0,
+                "color": "1B2A2E"
+              }
+            ]
+          },
+          {
+            "text": "Show relationships (1:1, 1:N, N:N)",
+            "runs": [
+              {
+                "text": "Show relationships (1:1, 1:N, N:N)",
+                "font": "Calibri",
+                "size": 12.0,
+                "color": "1B2A2E"
+              }
+            ]
+          },
+          {
+            "text": "Reflect actual MongoDB collections",
+            "runs": [
+              {
+                "text": "Reflect actual MongoDB collections",
+                "font": "Calibri",
+                "size": 12.0,
+                "color": "1B2A2E"
+              }
+            ]
+          },
+          {
+            "text": "Note any embedded vs. referenced docs",
+            "runs": [
+              {
+                "text": "Note any embedded vs. referenced docs",
+                "font": "Calibri",
+                "size": 12.0,
+                "color": "1B2A2E"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Text 10",
+        "type": "TEXT_BOX (17)",
+        "left": 457200,
+        "top": 6473952,
+        "width": 5486400,
+        "height": 274320,
+        "fill_type": "BACKGROUND (5)",
+        "text_frame": [
+          {
+            "text": "ER Diagram",
+            "runs": [
+              {
+                "text": "ER Diagram",
+                "font": "Calibri",
+                "size": 10.0,
+                "color": "7A8F8C"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Text 11",
+        "type": "TEXT_BOX (17)",
+        "left": 6245352,
+        "top": 6473952,
+        "width": 5486400,
+        "height": 274320,
+        "fill_type": "BACKGROUND (5)",
+        "text_frame": [
+          {
+            "text": "Review 1 & 2  |  MERN Stack Project",
+            "runs": [
+              {
+                "text": "Review 1 & 2  |  MERN Stack Project",
+                "font": "Calibri",
+                "size": 10.0,
+                "color": "7A8F8C"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slide": 6,
+    "shapes": [
+      {
+        "name": "Shape 0",
+        "type": "AUTO_SHAPE (1)",
+        "left": 457200,
+        "top": 457200,
+        "width": 502920,
+        "height": 502920,
+        "fill_type": "SOLID (1)",
+        "fill_color": "00A896",
+        "text_frame": []
+      },
+      {
+        "name": "Text 1",
+        "type": "TEXT_BOX (17)",
+        "left": 457200,
+        "top": 457200,
+        "width": 502920,
+        "height": 502920,
+        "fill_type": "BACKGROUND (5)",
+        "text_frame": [
+          {
+            "text": "05",
+            "runs": [
+              {
+                "text": "05",
+                "font": "Calibri",
+                "size": 14.0,
+                "bold": true,
+                "color": "FFFFFF"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Text 2",
+        "type": "TEXT_BOX (17)",
+        "left": 1097280,
+        "top": 457200,
+        "width": 5486400,
+        "height": 274320,
+        "fill_type": "BACKGROUND (5)",
+        "text_frame": [
+          {
+            "text": "MODULES",
+            "runs": [
+              {
+                "text": "MODULES",
+                "font": "Calibri",
+                "size": 12.0,
+                "bold": true,
+                "color": "00A896"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Text 3",
+        "type": "TEXT_BOX (17)",
+        "left": 1097280,
+        "top": 713232,
+        "width": 10515600,
+        "height": 548640,
+        "fill_type": "BACKGROUND (5)",
+        "text_frame": [
+          {
+            "text": "Module Description",
+            "runs": [
+              {
+                "text": "Module Description",
+                "font": "Cambria",
+                "size": 28.0,
+                "bold": true,
+                "color": "1B2A2E"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Shape 4",
+        "type": "AUTO_SHAPE (1)",
+        "left": 1097280,
+        "top": 1371600,
+        "width": 10607040,
+        "height": 0,
+        "fill_type": "BACKGROUND (5)",
+        "line_color": "D7E7E5",
+        "text_frame": []
+      },
+      {
+        "name": "Table 0",
+        "type": "TABLE (19)",
+        "left": 1097280,
+        "top": 1691640,
+        "width": 9966960,
+        "height": 2743200,
+        "table_rows": 6,
+        "table_cols": 3
+      },
+      {
+        "name": "Text 5",
+        "type": "TEXT_BOX (17)",
+        "left": 457200,
+        "top": 6473952,
+        "width": 5486400,
+        "height": 274320,
+        "fill_type": "BACKGROUND (5)",
+        "text_frame": [
+          {
+            "text": "Modules",
+            "runs": [
+              {
+                "text": "Modules",
+                "font": "Calibri",
+                "size": 10.0,
+                "color": "7A8F8C"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Text 6",
+        "type": "TEXT_BOX (17)",
+        "left": 6245352,
+        "top": 6473952,
+        "width": 5486400,
+        "height": 274320,
+        "fill_type": "BACKGROUND (5)",
+        "text_frame": [
+          {
+            "text": "Review 1 & 2  |  MERN Stack Project",
+            "runs": [
+              {
+                "text": "Review 1 & 2  |  MERN Stack Project",
+                "font": "Calibri",
+                "size": 10.0,
+                "color": "7A8F8C"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slide": 7,
+    "shapes": [
+      {
+        "name": "Shape 0",
+        "type": "AUTO_SHAPE (1)",
+        "left": 457200,
+        "top": 457200,
+        "width": 502920,
+        "height": 502920,
+        "fill_type": "SOLID (1)",
+        "fill_color": "00A896",
+        "text_frame": []
+      },
+      {
+        "name": "Text 1",
+        "type": "TEXT_BOX (17)",
+        "left": 457200,
+        "top": 457200,
+        "width": 502920,
+        "height": 502920,
+        "fill_type": "BACKGROUND (5)",
+        "text_frame": [
+          {
+            "text": "06",
+            "runs": [
+              {
+                "text": "06",
+                "font": "Calibri",
+                "size": 14.0,
+                "bold": true,
+                "color": "FFFFFF"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Text 2",
+        "type": "TEXT_BOX (17)",
+        "left": 1097280,
+        "top": 457200,
+        "width": 5486400,
+        "height": 274320,
+        "fill_type": "BACKGROUND (5)",
+        "text_frame": [
+          {
+            "text": "TECH STACK",
+            "runs": [
+              {
+                "text": "TECH STACK",
+                "font": "Calibri",
+                "size": 12.0,
+                "bold": true,
+                "color": "00A896"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Text 3",
+        "type": "TEXT_BOX (17)",
+        "left": 1097280,
+        "top": 713232,
+        "width": 10515600,
+        "height": 548640,
+        "fill_type": "BACKGROUND (5)",
+        "text_frame": [
+          {
+            "text": "Technology Stack",
+            "runs": [
+              {
+                "text": "Technology Stack",
+                "font": "Cambria",
+                "size": 28.0,
+                "bold": true,
+                "color": "1B2A2E"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Shape 4",
+        "type": "AUTO_SHAPE (1)",
+        "left": 1097280,
+        "top": 1371600,
+        "width": 10607040,
+        "height": 0,
+        "fill_type": "BACKGROUND (5)",
+        "line_color": "D7E7E5",
+        "text_frame": []
+      },
+      {
+        "name": "Shape 5",
+        "type": "AUTO_SHAPE (1)",
+        "left": 1097280,
+        "top": 1920240,
+        "width": 2331720,
+        "height": 1737360,
+        "fill_type": "SOLID (1)",
+        "fill_color": "F4FAF9",
+        "line_color": "4C9A5B",
+        "text_frame": []
+      },
+      {
+        "name": "Text 6",
+        "type": "TEXT_BOX (17)",
+        "left": 1097280,
+        "top": 2377440,
+        "width": 2331720,
+        "height": 457200,
+        "fill_type": "BACKGROUND (5)",
+        "text_frame": [
+          {
+            "text": "MongoDB",
+            "runs": [
+              {
+                "text": "MongoDB",
+                "font": "Cambria",
+                "size": 17.0,
+                "bold": true,
+                "color": "4C9A5B"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Text 7",
+        "type": "TEXT_BOX (17)",
+        "left": 1097280,
+        "top": 2880360,
+        "width": 2331720,
+        "height": 457200,
+        "fill_type": "BACKGROUND (5)",
+        "text_frame": [
+          {
+            "text": "NoSQL Database",
+            "runs": [
+              {
+                "text": "NoSQL Database",
+                "font": "Calibri",
+                "size": 11.5,
+                "color": "3E5C58"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Shape 8",
+        "type": "AUTO_SHAPE (1)",
+        "left": 3657600,
+        "top": 1920240,
+        "width": 2331720,
+        "height": 1737360,
+        "fill_type": "SOLID (1)",
+        "fill_color": "F4FAF9",
+        "line_color": "1B2A2E",
+        "text_frame": []
+      },
+      {
+        "name": "Text 9",
+        "type": "TEXT_BOX (17)",
+        "left": 3657600,
+        "top": 2377440,
+        "width": 2331720,
+        "height": 457200,
+        "fill_type": "BACKGROUND (5)",
+        "text_frame": [
+          {
+            "text": "Express.js",
+            "runs": [
+              {
+                "text": "Express.js",
+                "font": "Cambria",
+                "size": 17.0,
+                "bold": true,
+                "color": "1B2A2E"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Text 10",
+        "type": "TEXT_BOX (17)",
+        "left": 3657600,
+        "top": 2880360,
+        "width": 2331720,
+        "height": 457200,
+        "fill_type": "BACKGROUND (5)",
+        "text_frame": [
+          {
+            "text": "Backend Framework",
+            "runs": [
+              {
+                "text": "Backend Framework",
+                "font": "Calibri",
+                "size": 11.5,
+                "color": "3E5C58"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Shape 11",
+        "type": "AUTO_SHAPE (1)",
+        "left": 6217920,
+        "top": 1920240,
+        "width": 2331720,
+        "height": 1737360,
+        "fill_type": "SOLID (1)",
+        "fill_color": "F4FAF9",
+        "line_color": "1C7293",
+        "text_frame": []
+      },
+      {
+        "name": "Text 12",
+        "type": "TEXT_BOX (17)",
+        "left": 6217920,
+        "top": 2377440,
+        "width": 2331720,
+        "height": 457200,
+        "fill_type": "BACKGROUND (5)",
+        "text_frame": [
+          {
+            "text": "React.js",
+            "runs": [
+              {
+                "text": "React.js",
+                "font": "Cambria",
+                "size": 17.0,
+                "bold": true,
+                "color": "1C7293"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Text 13",
+        "type": "TEXT_BOX (17)",
+        "left": 6217920,
+        "top": 2880360,
+        "width": 2331720,
+        "height": 457200,
+        "fill_type": "BACKGROUND (5)",
+        "text_frame": [
+          {
+            "text": "Frontend Library",
+            "runs": [
+              {
+                "text": "Frontend Library",
+                "font": "Calibri",
+                "size": 11.5,
+                "color": "3E5C58"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Shape 14",
+        "type": "AUTO_SHAPE (1)",
+        "left": 8778240,
+        "top": 1920240,
+        "width": 2331720,
+        "height": 1737360,
+        "fill_type": "SOLID (1)",
+        "fill_color": "F4FAF9",
+        "line_color": "4C9A5B",
+        "text_frame": []
+      },
+      {
+        "name": "Text 15",
+        "type": "TEXT_BOX (17)",
+        "left": 8778240,
+        "top": 2377440,
+        "width": 2331720,
+        "height": 457200,
+        "fill_type": "BACKGROUND (5)",
+        "text_frame": [
+          {
+            "text": "Node.js",
+            "runs": [
+              {
+                "text": "Node.js",
+                "font": "Cambria",
+                "size": 17.0,
+                "bold": true,
+                "color": "4C9A5B"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Text 16",
+        "type": "TEXT_BOX (17)",
+        "left": 8778240,
+        "top": 2880360,
+        "width": 2331720,
+        "height": 457200,
+        "fill_type": "BACKGROUND (5)",
+        "text_frame": [
+          {
+            "text": "Runtime Environment",
+            "runs": [
+              {
+                "text": "Runtime Environment",
+                "font": "Calibri",
+                "size": 11.5,
+                "color": "3E5C58"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Text 17",
+        "type": "TEXT_BOX (17)",
+        "left": 1097280,
+        "top": 3977640,
+        "width": 4572000,
+        "height": 365760,
+        "fill_type": "BACKGROUND (5)",
+        "text_frame": [
+          {
+            "text": "Supporting Tools",
+            "runs": [
+              {
+                "text": "Supporting Tools",
+                "font": "Cambria",
+                "size": 15.0,
+                "bold": true,
+                "color": "028090"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Text 18",
+        "type": "TEXT_BOX (17)",
+        "left": 1097280,
+        "top": 4434840,
+        "width": 9966960,
+        "height": 1554480,
+        "fill_type": "BACKGROUND (5)",
+        "text_frame": [
+          {
+            "text": "Mongoose (ODM)",
+            "runs": [
+              {
+                "text": "Mongoose (ODM)",
+                "font": "Calibri",
+                "size": 13.0,
+                "color": "1B2A2E"
+              }
+            ]
+          },
+          {
+            "text": "JWT & bcrypt (auth/security)",
+            "runs": [
+              {
+                "text": "JWT & bcrypt (auth/security)",
+                "font": "Calibri",
+                "size": 13.0,
+                "color": "1B2A2E"
+              }
+            ]
+          },
+          {
+            "text": "Postman (API testing)",
+            "runs": [
+              {
+                "text": "Postman (API testing)",
+                "font": "Calibri",
+                "size": 13.0,
+                "color": "1B2A2E"
+              }
+            ]
+          },
+          {
+            "text": "Git & GitHub (version control)",
+            "runs": [
+              {
+                "text": "Git & GitHub (version control)",
+                "font": "Calibri",
+                "size": 13.0,
+                "color": "1B2A2E"
+              }
+            ]
+          },
+          {
+            "text": "VS Code, npm",
+            "runs": [
+              {
+                "text": "VS Code, npm",
+                "font": "Calibri",
+                "size": 13.0,
+                "color": "1B2A2E"
+              }
+            ]
+          },
+          {
+            "text": "Axios (HTTP client)",
+            "runs": [
+              {
+                "text": "Axios (HTTP client)",
+                "font": "Calibri",
+                "size": 13.0,
+                "color": "1B2A2E"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Text 19",
+        "type": "TEXT_BOX (17)",
+        "left": 457200,
+        "top": 6473952,
+        "width": 5486400,
+        "height": 274320,
+        "fill_type": "BACKGROUND (5)",
+        "text_frame": [
+          {
+            "text": "Tech Stack",
+            "runs": [
+              {
+                "text": "Tech Stack",
+                "font": "Calibri",
+                "size": 10.0,
+                "color": "7A8F8C"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Text 20",
+        "type": "TEXT_BOX (17)",
+        "left": 6245352,
+        "top": 6473952,
+        "width": 5486400,
+        "height": 274320,
+        "fill_type": "BACKGROUND (5)",
+        "text_frame": [
+          {
+            "text": "Review 1 & 2  |  MERN Stack Project",
+            "runs": [
+              {
+                "text": "Review 1 & 2  |  MERN Stack Project",
+                "font": "Calibri",
+                "size": 10.0,
+                "color": "7A8F8C"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slide": 8,
+    "shapes": [
+      {
+        "name": "Shape 0",
+        "type": "AUTO_SHAPE (1)",
+        "left": 457200,
+        "top": 457200,
+        "width": 502920,
+        "height": 502920,
+        "fill_type": "SOLID (1)",
+        "fill_color": "00A896",
+        "text_frame": []
+      },
+      {
+        "name": "Text 1",
+        "type": "TEXT_BOX (17)",
+        "left": 457200,
+        "top": 457200,
+        "width": 502920,
+        "height": 502920,
+        "fill_type": "BACKGROUND (5)",
+        "text_frame": [
+          {
+            "text": "07",
+            "runs": [
+              {
+                "text": "07",
+                "font": "Calibri",
+                "size": 14.0,
+                "bold": true,
+                "color": "FFFFFF"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Text 2",
+        "type": "TEXT_BOX (17)",
+        "left": 1097280,
+        "top": 457200,
+        "width": 5486400,
+        "height": 274320,
+        "fill_type": "BACKGROUND (5)",
+        "text_frame": [
+          {
+            "text": "UI DESIGN",
+            "runs": [
+              {
+                "text": "UI DESIGN",
+                "font": "Calibri",
+                "size": 12.0,
+                "bold": true,
+                "color": "00A896"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Text 3",
+        "type": "TEXT_BOX (17)",
+        "left": 1097280,
+        "top": 713232,
+        "width": 10515600,
+        "height": 548640,
+        "fill_type": "BACKGROUND (5)",
+        "text_frame": [
+          {
+            "text": "UI Design / Wireframes",
+            "runs": [
+              {
+                "text": "UI Design / Wireframes",
+                "font": "Cambria",
+                "size": 28.0,
+                "bold": true,
+                "color": "1B2A2E"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Shape 4",
+        "type": "AUTO_SHAPE (1)",
+        "left": 1097280,
+        "top": 1371600,
+        "width": 10607040,
+        "height": 0,
+        "fill_type": "BACKGROUND (5)",
+        "line_color": "D7E7E5",
+        "text_frame": []
+      },
+      {
+        "name": "Shape 5",
+        "type": "AUTO_SHAPE (1)",
+        "left": 1097280,
+        "top": 1737360,
+        "width": 6035040,
+        "height": 4114800,
+        "fill_type": "SOLID (1)",
+        "fill_color": "F4FAF9",
+        "line_color": "00A896",
+        "text_frame": []
+      },
+      {
+        "name": "Text 6",
+        "type": "TEXT_BOX (17)",
+        "left": 1280160,
+        "top": 3474720,
+        "width": 5669280,
+        "height": 731520,
+        "fill_type": "BACKGROUND (5)",
+        "text_frame": [
+          {
+            "text": "Insert wireframes / mockups",
+            "runs": [
+              {
+                "text": "Insert wireframes / mockups",
+                "font": "Calibri",
+                "size": 14.0,
+                "color": "3E5C58"
+              }
+            ]
+          },
+          {
+            "text": "for key application screens",
+            "runs": [
+              {
+                "text": "for key application screens",
+                "font": "Calibri",
+                "size": 14.0,
+                "color": "3E5C58"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Shape 7",
+        "type": "AUTO_SHAPE (1)",
+        "left": 7406640,
+        "top": 1737360,
+        "width": 3657600,
+        "height": 4114800,
+        "fill_type": "SOLID (1)",
+        "fill_color": "FFFFFF",
+        "line_color": "D7E7E5",
+        "text_frame": []
+      },
+      {
+        "name": "Text 8",
+        "type": "TEXT_BOX (17)",
+        "left": 7635240,
+        "top": 1920240,
+        "width": 3200400,
+        "height": 320040,
+        "fill_type": "BACKGROUND (5)",
+        "text_frame": [
+          {
+            "text": "Include",
+            "runs": [
+              {
+                "text": "Include",
+                "font": "Cambria",
+                "size": 14.0,
+                "bold": true,
+                "color": "028090"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Text 9",
+        "type": "TEXT_BOX (17)",
+        "left": 7635240,
+        "top": 2331720,
+        "width": 3200400,
+        "height": 3383280,
+        "fill_type": "BACKGROUND (5)",
+        "text_frame": [
+          {
+            "text": "Show key screen wireframes",
+            "runs": [
+              {
+                "text": "Show key screen wireframes",
+                "font": "Calibri",
+                "size": 12.0,
+                "color": "1B2A2E"
+              }
+            ]
+          },
+          {
+            "text": "Login/Signup, Dashboard, Core screens",
+            "runs": [
+              {
+                "text": "Login/Signup, Dashboard, Core screens",
+                "font": "Calibri",
+                "size": 12.0,
+                "color": "1B2A2E"
+              }
+            ]
+          },
+          {
+            "text": "Note responsive breakpoints",
+            "runs": [
+              {
+                "text": "Note responsive breakpoints",
+                "font": "Calibri",
+                "size": 12.0,
+                "color": "1B2A2E"
+              }
+            ]
+          },
+          {
+            "text": "Mention design tool used (Figma, etc.)",
+            "runs": [
+              {
+                "text": "Mention design tool used (Figma, etc.)",
+                "font": "Calibri",
+                "size": 12.0,
+                "color": "1B2A2E"
+              }
+            ]
+          },
+          {
+            "text": "Replace with real wireframe images",
+            "runs": [
+              {
+                "text": "Replace with real wireframe images",
+                "font": "Calibri",
+                "size": 12.0,
+                "color": "1B2A2E"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Text 10",
+        "type": "TEXT_BOX (17)",
+        "left": 457200,
+        "top": 6473952,
+        "width": 5486400,
+        "height": 274320,
+        "fill_type": "BACKGROUND (5)",
+        "text_frame": [
+          {
+            "text": "UI Design",
+            "runs": [
+              {
+                "text": "UI Design",
+                "font": "Calibri",
+                "size": 10.0,
+                "color": "7A8F8C"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Text 11",
+        "type": "TEXT_BOX (17)",
+        "left": 6245352,
+        "top": 6473952,
+        "width": 5486400,
+        "height": 274320,
+        "fill_type": "BACKGROUND (5)",
+        "text_frame": [
+          {
+            "text": "Review 1 & 2  |  MERN Stack Project",
+            "runs": [
+              {
+                "text": "Review 1 & 2  |  MERN Stack Project",
+                "font": "Calibri",
+                "size": 10.0,
+                "color": "7A8F8C"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slide": 9,
+    "shapes": [
+      {
+        "name": "Shape 0",
+        "type": "AUTO_SHAPE (1)",
+        "left": 457200,
+        "top": 457200,
+        "width": 502920,
+        "height": 502920,
+        "fill_type": "SOLID (1)",
+        "fill_color": "00A896",
+        "text_frame": []
+      },
+      {
+        "name": "Text 1",
+        "type": "TEXT_BOX (17)",
+        "left": 457200,
+        "top": 457200,
+        "width": 502920,
+        "height": 502920,
+        "fill_type": "BACKGROUND (5)",
+        "text_frame": [
+          {
+            "text": "08",
+            "runs": [
+              {
+                "text": "08",
+                "font": "Calibri",
+                "size": 14.0,
+                "bold": true,
+                "color": "FFFFFF"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Text 2",
+        "type": "TEXT_BOX (17)",
+        "left": 1097280,
+        "top": 457200,
+        "width": 5486400,
+        "height": 274320,
+        "fill_type": "BACKGROUND (5)",
+        "text_frame": [
+          {
+            "text": "FRONTEND",
+            "runs": [
+              {
+                "text": "FRONTEND",
+                "font": "Calibri",
+                "size": 12.0,
+                "bold": true,
+                "color": "00A896"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Text 3",
+        "type": "TEXT_BOX (17)",
+        "left": 1097280,
+        "top": 713232,
+        "width": 10515600,
+        "height": 548640,
+        "fill_type": "BACKGROUND (5)",
+        "text_frame": [
+          {
+            "text": "Frontend Development",
+            "runs": [
+              {
+                "text": "Frontend Development",
+                "font": "Cambria",
+                "size": 28.0,
+                "bold": true,
+                "color": "1B2A2E"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Shape 4",
+        "type": "AUTO_SHAPE (1)",
+        "left": 1097280,
+        "top": 1371600,
+        "width": 10607040,
+        "height": 0,
+        "fill_type": "BACKGROUND (5)",
+        "line_color": "D7E7E5",
+        "text_frame": []
+      },
+      {
+        "name": "Text 5",
+        "type": "TEXT_BOX (17)",
+        "left": 1097280,
+        "top": 1691640,
+        "width": 9875520,
+        "height": 4206240,
+        "fill_type": "BACKGROUND (5)",
+        "text_frame": [
+          {
+            "text": "Built with React.js using functional components & hooks",
+            "runs": [
+              {
+                "text": "Built with React.js using functional components & hooks",
+                "font": "Calibri",
+                "size": 15.0,
+                "color": "1B2A2E"
+              }
+            ]
+          },
+          {
+            "text": "Component-based structure: Navbar, Forms, Cards, Tables, Modals",
+            "runs": [
+              {
+                "text": "Component-based structure: Navbar, Forms, Cards, Tables, Modals",
+                "font": "Calibri",
+                "size": 15.0,
+                "color": "1B2A2E"
+              }
+            ]
+          },
+          {
+            "text": "State management via Context API / Redux",
+            "runs": [
+              {
+                "text": "State management via Context API / Redux",
+                "font": "Calibri",
+                "size": 15.0,
+                "color": "1B2A2E"
+              }
+            ]
+          },
+          {
+            "text": "Client-side routing implemented with React Router",
+            "runs": [
+              {
+                "text": "Client-side routing implemented with React Router",
+                "font": "Calibri",
+                "size": 15.0,
+                "color": "1B2A2E"
+              }
+            ]
+          },
+          {
+            "text": "Axios used to consume backend REST APIs",
+            "runs": [
+              {
+                "text": "Axios used to consume backend REST APIs",
+                "font": "Calibri",
+                "size": 15.0,
+                "color": "1B2A2E"
+              }
+            ]
+          },
+          {
+            "text": "Responsive UI styled with [Tailwind / Bootstrap / CSS Modules]",
+            "runs": [
+              {
+                "text": "Responsive UI styled with [Tailwind / Bootstrap / CSS Modules]",
+                "font": "Calibri",
+                "size": 15.0,
+                "color": "1B2A2E"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Shape 6",
+        "type": "AUTO_SHAPE (1)",
+        "left": 1097280,
+        "top": 5623560,
+        "width": 9966960,
+        "height": 594360,
+        "fill_type": "SOLID (1)",
+        "fill_color": "F4FAF9",
+        "line_color": "D7E7E5",
+        "text_frame": []
+      },
+      {
+        "name": "Text 7",
+        "type": "TEXT_BOX (17)",
+        "left": 1325880,
+        "top": 5623560,
+        "width": 9509760,
+        "height": 594360,
+        "fill_type": "BACKGROUND (5)",
+        "text_frame": [
+          {
+            "text": "Tip: list the actual pages/components completed so far, e.g. Login, Dashboard, Profile, Item List.",
+            "runs": [
+              {
+                "text": "Tip: list the actual pages/components completed so far, e.g. Login, Dashboard, Profile, Item List.",
+                "font": "Calibri",
+                "size": 11.5,
+                "color": "3E5C58"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Text 8",
+        "type": "TEXT_BOX (17)",
+        "left": 457200,
+        "top": 6473952,
+        "width": 5486400,
+        "height": 274320,
+        "fill_type": "BACKGROUND (5)",
+        "text_frame": [
+          {
+            "text": "Frontend",
+            "runs": [
+              {
+                "text": "Frontend",
+                "font": "Calibri",
+                "size": 10.0,
+                "color": "7A8F8C"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Text 9",
+        "type": "TEXT_BOX (17)",
+        "left": 6245352,
+        "top": 6473952,
+        "width": 5486400,
+        "height": 274320,
+        "fill_type": "BACKGROUND (5)",
+        "text_frame": [
+          {
+            "text": "Review 1 & 2  |  MERN Stack Project",
+            "runs": [
+              {
+                "text": "Review 1 & 2  |  MERN Stack Project",
+                "font": "Calibri",
+                "size": 10.0,
+                "color": "7A8F8C"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slide": 10,
+    "shapes": [
+      {
+        "name": "Shape 0",
+        "type": "AUTO_SHAPE (1)",
+        "left": 457200,
+        "top": 457200,
+        "width": 502920,
+        "height": 502920,
+        "fill_type": "SOLID (1)",
+        "fill_color": "00A896",
+        "text_frame": []
+      },
+      {
+        "name": "Text 1",
+        "type": "TEXT_BOX (17)",
+        "left": 457200,
+        "top": 457200,
+        "width": 502920,
+        "height": 502920,
+        "fill_type": "BACKGROUND (5)",
+        "text_frame": [
+          {
+            "text": "09",
+            "runs": [
+              {
+                "text": "09",
+                "font": "Calibri",
+                "size": 14.0,
+                "bold": true,
+                "color": "FFFFFF"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Text 2",
+        "type": "TEXT_BOX (17)",
+        "left": 1097280,
+        "top": 457200,
+        "width": 5486400,
+        "height": 274320,
+        "fill_type": "BACKGROUND (5)",
+        "text_frame": [
+          {
+            "text": "BACKEND",
+            "runs": [
+              {
+                "text": "BACKEND",
+                "font": "Calibri",
+                "size": 12.0,
+                "bold": true,
+                "color": "00A896"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Text 3",
+        "type": "TEXT_BOX (17)",
+        "left": 1097280,
+        "top": 713232,
+        "width": 10515600,
+        "height": 548640,
+        "fill_type": "BACKGROUND (5)",
+        "text_frame": [
+          {
+            "text": "Backend Development",
+            "runs": [
+              {
+                "text": "Backend Development",
+                "font": "Cambria",
+                "size": 28.0,
+                "bold": true,
+                "color": "1B2A2E"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Shape 4",
+        "type": "AUTO_SHAPE (1)",
+        "left": 1097280,
+        "top": 1371600,
+        "width": 10607040,
+        "height": 0,
+        "fill_type": "BACKGROUND (5)",
+        "line_color": "D7E7E5",
+        "text_frame": []
+      },
+      {
+        "name": "Text 5",
+        "type": "TEXT_BOX (17)",
+        "left": 1097280,
+        "top": 1691640,
+        "width": 9875520,
+        "height": 4206240,
+        "fill_type": "BACKGROUND (5)",
+        "text_frame": [
+          {
+            "text": "Node.js + Express.js server with modular route structure",
+            "runs": [
+              {
+                "text": "Node.js + Express.js server with modular route structure",
+                "font": "Calibri",
+                "size": 15.0,
+                "color": "1B2A2E"
+              }
+            ]
+          },
+          {
+            "text": "MVC pattern: separate routes, controllers & models",
+            "runs": [
+              {
+                "text": "MVC pattern: separate routes, controllers & models",
+                "font": "Calibri",
+                "size": 15.0,
+                "color": "1B2A2E"
+              }
+            ]
+          },
+          {
+            "text": "Authentication middleware using JWT",
+            "runs": [
+              {
+                "text": "Authentication middleware using JWT",
+                "font": "Calibri",
+                "size": 15.0,
+                "color": "1B2A2E"
+              }
+            ]
+          },
+          {
+            "text": "Input validation & centralized error handling",
+            "runs": [
+              {
+                "text": "Input validation & centralized error handling",
+                "font": "Calibri",
+                "size": 15.0,
+                "color": "1B2A2E"
+              }
+            ]
+          },
+          {
+            "text": "Environment-based configuration (.env, dotenv)",
+            "runs": [
+              {
+                "text": "Environment-based configuration (.env, dotenv)",
+                "font": "Calibri",
+                "size": 15.0,
+                "color": "1B2A2E"
+              }
+            ]
+          },
+          {
+            "text": "Server tested locally with Postman before integration",
+            "runs": [
+              {
+                "text": "Server tested locally with Postman before integration",
+                "font": "Calibri",
+                "size": 15.0,
+                "color": "1B2A2E"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Shape 6",
+        "type": "AUTO_SHAPE (1)",
+        "left": 1097280,
+        "top": 5623560,
+        "width": 9966960,
+        "height": 594360,
+        "fill_type": "SOLID (1)",
+        "fill_color": "F4FAF9",
+        "line_color": "D7E7E5",
+        "text_frame": []
+      },
+      {
+        "name": "Text 7",
+        "type": "TEXT_BOX (17)",
+        "left": 1325880,
+        "top": 5623560,
+        "width": 9509760,
+        "height": 594360,
+        "fill_type": "BACKGROUND (5)",
+        "text_frame": [
+          {
+            "text": "Tip: mention specific middleware, validation library, or error-handling strategy you used.",
+            "runs": [
+              {
+                "text": "Tip: mention specific middleware, validation library, or error-handling strategy you used.",
+                "font": "Calibri",
+                "size": 11.5,
+                "color": "3E5C58"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Text 8",
+        "type": "TEXT_BOX (17)",
+        "left": 457200,
+        "top": 6473952,
+        "width": 5486400,
+        "height": 274320,
+        "fill_type": "BACKGROUND (5)",
+        "text_frame": [
+          {
+            "text": "Backend",
+            "runs": [
+              {
+                "text": "Backend",
+                "font": "Calibri",
+                "size": 10.0,
+                "color": "7A8F8C"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Text 9",
+        "type": "TEXT_BOX (17)",
+        "left": 6245352,
+        "top": 6473952,
+        "width": 5486400,
+        "height": 274320,
+        "fill_type": "BACKGROUND (5)",
+        "text_frame": [
+          {
+            "text": "Review 1 & 2  |  MERN Stack Project",
+            "runs": [
+              {
+                "text": "Review 1 & 2  |  MERN Stack Project",
+                "font": "Calibri",
+                "size": 10.0,
+                "color": "7A8F8C"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slide": 11,
+    "shapes": [
+      {
+        "name": "Shape 0",
+        "type": "AUTO_SHAPE (1)",
+        "left": 457200,
+        "top": 457200,
+        "width": 502920,
+        "height": 502920,
+        "fill_type": "SOLID (1)",
+        "fill_color": "00A896",
+        "text_frame": []
+      },
+      {
+        "name": "Text 1",
+        "type": "TEXT_BOX (17)",
+        "left": 457200,
+        "top": 457200,
+        "width": 502920,
+        "height": 502920,
+        "fill_type": "BACKGROUND (5)",
+        "text_frame": [
+          {
+            "text": "10",
+            "runs": [
+              {
+                "text": "10",
+                "font": "Calibri",
+                "size": 14.0,
+                "bold": true,
+                "color": "FFFFFF"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Text 2",
+        "type": "TEXT_BOX (17)",
+        "left": 1097280,
+        "top": 457200,
+        "width": 5486400,
+        "height": 274320,
+        "fill_type": "BACKGROUND (5)",
+        "text_frame": [
+          {
+            "text": "DATABASE",
+            "runs": [
+              {
+                "text": "DATABASE",
+                "font": "Calibri",
+                "size": 12.0,
+                "bold": true,
+                "color": "00A896"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Text 3",
+        "type": "TEXT_BOX (17)",
+        "left": 1097280,
+        "top": 713232,
+        "width": 10515600,
+        "height": 548640,
+        "fill_type": "BACKGROUND (5)",
+        "text_frame": [
+          {
+            "text": "Database Integration",
+            "runs": [
+              {
+                "text": "Database Integration",
+                "font": "Cambria",
+                "size": 28.0,
+                "bold": true,
+                "color": "1B2A2E"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Shape 4",
+        "type": "AUTO_SHAPE (1)",
+        "left": 1097280,
+        "top": 1371600,
+        "width": 10607040,
+        "height": 0,
+        "fill_type": "BACKGROUND (5)",
+        "line_color": "D7E7E5",
+        "text_frame": []
+      },
+      {
+        "name": "Text 5",
+        "type": "TEXT_BOX (17)",
+        "left": 1097280,
+        "top": 1691640,
+        "width": 9875520,
+        "height": 4206240,
+        "fill_type": "BACKGROUND (5)",
+        "text_frame": [
+          {
+            "text": "MongoDB Atlas / local MongoDB used as the data store",
+            "runs": [
+              {
+                "text": "MongoDB Atlas / local MongoDB used as the data store",
+                "font": "Calibri",
+                "size": 15.0,
+                "color": "1B2A2E"
+              }
+            ]
+          },
+          {
+            "text": "Mongoose schemas defined for each collection",
+            "runs": [
+              {
+                "text": "Mongoose schemas defined for each collection",
+                "font": "Calibri",
+                "size": 15.0,
+                "color": "1B2A2E"
+              }
+            ]
+          },
+          {
+            "text": "Relationships modeled via referencing / embedding",
+            "runs": [
+              {
+                "text": "Relationships modeled via referencing / embedding",
+                "font": "Calibri",
+                "size": 15.0,
+                "color": "1B2A2E"
+              }
+            ]
+          },
+          {
+            "text": "Indexes added for frequently queried fields",
+            "runs": [
+              {
+                "text": "Indexes added for frequently queried fields",
+                "font": "Calibri",
+                "size": 15.0,
+                "color": "1B2A2E"
+              }
+            ]
+          },
+          {
+            "text": "CRUD operations connected end-to-end with the backend",
+            "runs": [
+              {
+                "text": "CRUD operations connected end-to-end with the backend",
+                "font": "Calibri",
+                "size": 15.0,
+                "color": "1B2A2E"
+              }
+            ]
+          },
+          {
+            "text": "Sample data seeded for testing during development",
+            "runs": [
+              {
+                "text": "Sample data seeded for testing during development",
+                "font": "Calibri",
+                "size": 15.0,
+                "color": "1B2A2E"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Shape 6",
+        "type": "AUTO_SHAPE (1)",
+        "left": 1097280,
+        "top": 5623560,
+        "width": 9966960,
+        "height": 594360,
+        "fill_type": "SOLID (1)",
+        "fill_color": "F4FAF9",
+        "line_color": "D7E7E5",
+        "text_frame": []
+      },
+      {
+        "name": "Text 7",
+        "type": "TEXT_BOX (17)",
+        "left": 1325880,
+        "top": 5623560,
+        "width": 9509760,
+        "height": 594360,
+        "fill_type": "BACKGROUND (5)",
+        "text_frame": [
+          {
+            "text": "Tip: name your actual collections (e.g. Users, Products, Orders) here.",
+            "runs": [
+              {
+                "text": "Tip: name your actual collections (e.g. Users, Products, Orders) here.",
+                "font": "Calibri",
+                "size": 11.5,
+                "color": "3E5C58"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Text 8",
+        "type": "TEXT_BOX (17)",
+        "left": 457200,
+        "top": 6473952,
+        "width": 5486400,
+        "height": 274320,
+        "fill_type": "BACKGROUND (5)",
+        "text_frame": [
+          {
+            "text": "Database",
+            "runs": [
+              {
+                "text": "Database",
+                "font": "Calibri",
+                "size": 10.0,
+                "color": "7A8F8C"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Text 9",
+        "type": "TEXT_BOX (17)",
+        "left": 6245352,
+        "top": 6473952,
+        "width": 5486400,
+        "height": 274320,
+        "fill_type": "BACKGROUND (5)",
+        "text_frame": [
+          {
+            "text": "Review 1 & 2  |  MERN Stack Project",
+            "runs": [
+              {
+                "text": "Review 1 & 2  |  MERN Stack Project",
+                "font": "Calibri",
+                "size": 10.0,
+                "color": "7A8F8C"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slide": 12,
+    "shapes": [
+      {
+        "name": "Shape 0",
+        "type": "AUTO_SHAPE (1)",
+        "left": 457200,
+        "top": 457200,
+        "width": 502920,
+        "height": 502920,
+        "fill_type": "SOLID (1)",
+        "fill_color": "00A896",
+        "text_frame": []
+      },
+      {
+        "name": "Text 1",
+        "type": "TEXT_BOX (17)",
+        "left": 457200,
+        "top": 457200,
+        "width": 502920,
+        "height": 502920,
+        "fill_type": "BACKGROUND (5)",
+        "text_frame": [
+          {
+            "text": "11",
+            "runs": [
+              {
+                "text": "11",
+                "font": "Calibri",
+                "size": 14.0,
+                "bold": true,
+                "color": "FFFFFF"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Text 2",
+        "type": "TEXT_BOX (17)",
+        "left": 1097280,
+        "top": 457200,
+        "width": 5486400,
+        "height": 274320,
+        "fill_type": "BACKGROUND (5)",
+        "text_frame": [
+          {
+            "text": "API",
+            "runs": [
+              {
+                "text": "API",
+                "font": "Calibri",
+                "size": 12.0,
+                "bold": true,
+                "color": "00A896"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Text 3",
+        "type": "TEXT_BOX (17)",
+        "left": 1097280,
+        "top": 713232,
+        "width": 10515600,
+        "height": 548640,
+        "fill_type": "BACKGROUND (5)",
+        "text_frame": [
+          {
+            "text": "API Development",
+            "runs": [
+              {
+                "text": "API Development",
+                "font": "Cambria",
+                "size": 28.0,
+                "bold": true,
+                "color": "1B2A2E"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Shape 4",
+        "type": "AUTO_SHAPE (1)",
+        "left": 1097280,
+        "top": 1371600,
+        "width": 10607040,
+        "height": 0,
+        "fill_type": "BACKGROUND (5)",
+        "line_color": "D7E7E5",
+        "text_frame": []
+      },
+      {
+        "name": "Table 0",
+        "type": "TABLE (19)",
+        "left": 1097280,
+        "top": 1691640,
+        "width": 9966960,
+        "height": 3200400,
+        "table_rows": 7,
+        "table_cols": 3
+      },
+      {
+        "name": "Text 5",
+        "type": "TEXT_BOX (17)",
+        "left": 457200,
+        "top": 6473952,
+        "width": 5486400,
+        "height": 274320,
+        "fill_type": "BACKGROUND (5)",
+        "text_frame": [
+          {
+            "text": "API",
+            "runs": [
+              {
+                "text": "API",
+                "font": "Calibri",
+                "size": 10.0,
+                "color": "7A8F8C"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Text 6",
+        "type": "TEXT_BOX (17)",
+        "left": 6245352,
+        "top": 6473952,
+        "width": 5486400,
+        "height": 274320,
+        "fill_type": "BACKGROUND (5)",
+        "text_frame": [
+          {
+            "text": "Review 1 & 2  |  MERN Stack Project",
+            "runs": [
+              {
+                "text": "Review 1 & 2  |  MERN Stack Project",
+                "font": "Calibri",
+                "size": 10.0,
+                "color": "7A8F8C"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slide": 13,
+    "shapes": [
+      {
+        "name": "Shape 0",
+        "type": "AUTO_SHAPE (1)",
+        "left": 457200,
+        "top": 457200,
+        "width": 502920,
+        "height": 502920,
+        "fill_type": "SOLID (1)",
+        "fill_color": "00A896",
+        "text_frame": []
+      },
+      {
+        "name": "Text 1",
+        "type": "TEXT_BOX (17)",
+        "left": 457200,
+        "top": 457200,
+        "width": 502920,
+        "height": 502920,
+        "fill_type": "BACKGROUND (5)",
+        "text_frame": [
+          {
+            "text": "12",
+            "runs": [
+              {
+                "text": "12",
+                "font": "Calibri",
+                "size": 14.0,
+                "bold": true,
+                "color": "FFFFFF"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Text 2",
+        "type": "TEXT_BOX (17)",
+        "left": 1097280,
+        "top": 457200,
+        "width": 5486400,
+        "height": 274320,
+        "fill_type": "BACKGROUND (5)",
+        "text_frame": [
+          {
+            "text": "STATUS",
+            "runs": [
+              {
+                "text": "STATUS",
+                "font": "Calibri",
+                "size": 12.0,
+                "bold": true,
+                "color": "00A896"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Text 3",
+        "type": "TEXT_BOX (17)",
+        "left": 1097280,
+        "top": 713232,
+        "width": 10515600,
+        "height": 548640,
+        "fill_type": "BACKGROUND (5)",
+        "text_frame": [
+          {
+            "text": "Module-wise Implementation Status",
+            "runs": [
+              {
+                "text": "Module-wise Implementation Status",
+                "font": "Cambria",
+                "size": 28.0,
+                "bold": true,
+                "color": "1B2A2E"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Shape 4",
+        "type": "AUTO_SHAPE (1)",
+        "left": 1097280,
+        "top": 1371600,
+        "width": 10607040,
+        "height": 0,
+        "fill_type": "BACKGROUND (5)",
+        "line_color": "D7E7E5",
+        "text_frame": []
+      },
+      {
+        "name": "Text 5",
+        "type": "TEXT_BOX (17)",
+        "left": 1097280,
+        "top": 1828800,
+        "width": 3291840,
+        "height": 384048,
+        "fill_type": "BACKGROUND (5)",
+        "text_frame": [
+          {
+            "text": "User Authentication",
+            "runs": [
+              {
+                "text": "User Authentication",
+                "font": "Calibri",
+                "size": 13.0,
+                "color": "1B2A2E"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Shape 6",
+        "type": "AUTO_SHAPE (1)",
+        "left": 4572000,
+        "top": 1883664,
+        "width": 5486400,
+        "height": 274320,
+        "fill_type": "SOLID (1)",
+        "fill_color": "F4FAF9",
+        "line_color": "D7E7E5",
+        "text_frame": []
+      },
+      {
+        "name": "Shape 7",
+        "type": "AUTO_SHAPE (1)",
+        "left": 4572000,
+        "top": 1883664,
+        "width": 5486400,
+        "height": 274320,
+        "fill_type": "SOLID (1)",
+        "fill_color": "02C39A",
+        "text_frame": []
+      },
+      {
+        "name": "Text 8",
+        "type": "TEXT_BOX (17)",
+        "left": 10149840,
+        "top": 1828800,
+        "width": 822960,
+        "height": 384048,
+        "fill_type": "BACKGROUND (5)",
+        "text_frame": [
+          {
+            "text": "100%",
+            "runs": [
+              {
+                "text": "100%",
+                "font": "Calibri",
+                "size": 12.5,
+                "bold": true,
+                "color": "028090"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Text 9",
+        "type": "TEXT_BOX (17)",
+        "left": 1097280,
+        "top": 2450592,
+        "width": 3291840,
+        "height": 384048,
+        "fill_type": "BACKGROUND (5)",
+        "text_frame": [
+          {
+            "text": "Frontend UI (Core Screens)",
+            "runs": [
+              {
+                "text": "Frontend UI (Core Screens)",
+                "font": "Calibri",
+                "size": 13.0,
+                "color": "1B2A2E"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Shape 10",
+        "type": "AUTO_SHAPE (1)",
+        "left": 4572000,
+        "top": 2505456,
+        "width": 5486400,
+        "height": 274320,
+        "fill_type": "SOLID (1)",
+        "fill_color": "F4FAF9",
+        "line_color": "D7E7E5",
+        "text_frame": []
+      },
+      {
+        "name": "Shape 11",
+        "type": "AUTO_SHAPE (1)",
+        "left": 4572000,
+        "top": 2505456,
+        "width": 4389120,
+        "height": 274320,
+        "fill_type": "SOLID (1)",
+        "fill_color": "02C39A",
+        "text_frame": []
+      },
+      {
+        "name": "Text 12",
+        "type": "TEXT_BOX (17)",
+        "left": 10149840,
+        "top": 2450592,
+        "width": 822960,
+        "height": 384048,
+        "fill_type": "BACKGROUND (5)",
+        "text_frame": [
+          {
+            "text": "80%",
+            "runs": [
+              {
+                "text": "80%",
+                "font": "Calibri",
+                "size": 12.5,
+                "bold": true,
+                "color": "028090"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Text 13",
+        "type": "TEXT_BOX (17)",
+        "left": 1097280,
+        "top": 3072384,
+        "width": 3291840,
+        "height": 384048,
+        "fill_type": "BACKGROUND (5)",
+        "text_frame": [
+          {
+            "text": "Backend APIs",
+            "runs": [
+              {
+                "text": "Backend APIs",
+                "font": "Calibri",
+                "size": 13.0,
+                "color": "1B2A2E"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Shape 14",
+        "type": "AUTO_SHAPE (1)",
+        "left": 4572000,
+        "top": 3127248,
+        "width": 5486400,
+        "height": 274320,
+        "fill_type": "SOLID (1)",
+        "fill_color": "F4FAF9",
+        "line_color": "D7E7E5",
+        "text_frame": []
+      },
+      {
+        "name": "Shape 15",
+        "type": "AUTO_SHAPE (1)",
+        "left": 4572000,
+        "top": 3127248,
+        "width": 4114800,
+        "height": 274320,
+        "fill_type": "SOLID (1)",
+        "fill_color": "02C39A",
+        "text_frame": []
+      },
+      {
+        "name": "Text 16",
+        "type": "TEXT_BOX (17)",
+        "left": 10149840,
+        "top": 3072384,
+        "width": 822960,
+        "height": 384048,
+        "fill_type": "BACKGROUND (5)",
+        "text_frame": [
+          {
+            "text": "75%",
+            "runs": [
+              {
+                "text": "75%",
+                "font": "Calibri",
+                "size": 12.5,
+                "bold": true,
+                "color": "028090"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Text 17",
+        "type": "TEXT_BOX (17)",
+        "left": 1097280,
+        "top": 3694176,
+        "width": 3291840,
+        "height": 384048,
+        "fill_type": "BACKGROUND (5)",
+        "text_frame": [
+          {
+            "text": "Database Integration",
+            "runs": [
+              {
+                "text": "Database Integration",
+                "font": "Calibri",
+                "size": 13.0,
+                "color": "1B2A2E"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Shape 18",
+        "type": "AUTO_SHAPE (1)",
+        "left": 4572000,
+        "top": 3749040,
+        "width": 5486400,
+        "height": 274320,
+        "fill_type": "SOLID (1)",
+        "fill_color": "F4FAF9",
+        "line_color": "D7E7E5",
+        "text_frame": []
+      },
+      {
+        "name": "Shape 19",
+        "type": "AUTO_SHAPE (1)",
+        "left": 4572000,
+        "top": 3749040,
+        "width": 3840480,
+        "height": 274320,
+        "fill_type": "SOLID (1)",
+        "fill_color": "02C39A",
+        "text_frame": []
+      },
+      {
+        "name": "Text 20",
+        "type": "TEXT_BOX (17)",
+        "left": 10149840,
+        "top": 3694176,
+        "width": 822960,
+        "height": 384048,
+        "fill_type": "BACKGROUND (5)",
+        "text_frame": [
+          {
+            "text": "70%",
+            "runs": [
+              {
+                "text": "70%",
+                "font": "Calibri",
+                "size": 12.5,
+                "bold": true,
+                "color": "028090"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Text 21",
+        "type": "TEXT_BOX (17)",
+        "left": 1097280,
+        "top": 4315968,
+        "width": 3291840,
+        "height": 384048,
+        "fill_type": "BACKGROUND (5)",
+        "text_frame": [
+          {
+            "text": "Admin Module",
+            "runs": [
+              {
+                "text": "Admin Module",
+                "font": "Calibri",
+                "size": 13.0,
+                "color": "1B2A2E"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Shape 22",
+        "type": "AUTO_SHAPE (1)",
+        "left": 4572000,
+        "top": 4370832,
+        "width": 5486400,
+        "height": 274320,
+        "fill_type": "SOLID (1)",
+        "fill_color": "F4FAF9",
+        "line_color": "D7E7E5",
+        "text_frame": []
+      },
+      {
+        "name": "Shape 23",
+        "type": "AUTO_SHAPE (1)",
+        "left": 4572000,
+        "top": 4370832,
+        "width": 2743200,
+        "height": 274320,
+        "fill_type": "SOLID (1)",
+        "fill_color": "00A896",
+        "text_frame": []
+      },
+      {
+        "name": "Text 24",
+        "type": "TEXT_BOX (17)",
+        "left": 10149840,
+        "top": 4315968,
+        "width": 822960,
+        "height": 384048,
+        "fill_type": "BACKGROUND (5)",
+        "text_frame": [
+          {
+            "text": "50%",
+            "runs": [
+              {
+                "text": "50%",
+                "font": "Calibri",
+                "size": 12.5,
+                "bold": true,
+                "color": "028090"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Text 25",
+        "type": "TEXT_BOX (17)",
+        "left": 1097280,
+        "top": 4937760,
+        "width": 3291840,
+        "height": 384048,
+        "fill_type": "BACKGROUND (5)",
+        "text_frame": [
+          {
+            "text": "Notifications",
+            "runs": [
+              {
+                "text": "Notifications",
+                "font": "Calibri",
+                "size": 13.0,
+                "color": "1B2A2E"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Shape 26",
+        "type": "AUTO_SHAPE (1)",
+        "left": 4572000,
+        "top": 4992624,
+        "width": 5486400,
+        "height": 274320,
+        "fill_type": "SOLID (1)",
+        "fill_color": "F4FAF9",
+        "line_color": "D7E7E5",
+        "text_frame": []
+      },
+      {
+        "name": "Shape 27",
+        "type": "AUTO_SHAPE (1)",
+        "left": 4572000,
+        "top": 4992624,
+        "width": 1645920,
+        "height": 274320,
+        "fill_type": "SOLID (1)",
+        "fill_color": "00A896",
+        "text_frame": []
+      },
+      {
+        "name": "Text 28",
+        "type": "TEXT_BOX (17)",
+        "left": 10149840,
+        "top": 4937760,
+        "width": 822960,
+        "height": 384048,
+        "fill_type": "BACKGROUND (5)",
+        "text_frame": [
+          {
+            "text": "30%",
+            "runs": [
+              {
+                "text": "30%",
+                "font": "Calibri",
+                "size": 12.5,
+                "bold": true,
+                "color": "028090"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Text 29",
+        "type": "TEXT_BOX (17)",
+        "left": 457200,
+        "top": 6473952,
+        "width": 5486400,
+        "height": 274320,
+        "fill_type": "BACKGROUND (5)",
+        "text_frame": [
+          {
+            "text": "Status",
+            "runs": [
+              {
+                "text": "Status",
+                "font": "Calibri",
+                "size": 10.0,
+                "color": "7A8F8C"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Text 30",
+        "type": "TEXT_BOX (17)",
+        "left": 6245352,
+        "top": 6473952,
+        "width": 5486400,
+        "height": 274320,
+        "fill_type": "BACKGROUND (5)",
+        "text_frame": [
+          {
+            "text": "Review 1 & 2  |  MERN Stack Project",
+            "runs": [
+              {
+                "text": "Review 1 & 2  |  MERN Stack Project",
+                "font": "Calibri",
+                "size": 10.0,
+                "color": "7A8F8C"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slide": 14,
+    "shapes": [
+      {
+        "name": "Shape 0",
+        "type": "AUTO_SHAPE (1)",
+        "left": 457200,
+        "top": 457200,
+        "width": 502920,
+        "height": 502920,
+        "fill_type": "SOLID (1)",
+        "fill_color": "00A896",
+        "text_frame": []
+      },
+      {
+        "name": "Text 1",
+        "type": "TEXT_BOX (17)",
+        "left": 457200,
+        "top": 457200,
+        "width": 502920,
+        "height": 502920,
+        "fill_type": "BACKGROUND (5)",
+        "text_frame": [
+          {
+            "text": "13",
+            "runs": [
+              {
+                "text": "13",
+                "font": "Calibri",
+                "size": 14.0,
+                "bold": true,
+                "color": "FFFFFF"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Text 2",
+        "type": "TEXT_BOX (17)",
+        "left": 1097280,
+        "top": 457200,
+        "width": 5486400,
+        "height": 274320,
+        "fill_type": "BACKGROUND (5)",
+        "text_frame": [
+          {
+            "text": "SCREENSHOTS",
+            "runs": [
+              {
+                "text": "SCREENSHOTS",
+                "font": "Calibri",
+                "size": 12.0,
+                "bold": true,
+                "color": "00A896"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Text 3",
+        "type": "TEXT_BOX (17)",
+        "left": 1097280,
+        "top": 713232,
+        "width": 10515600,
+        "height": 548640,
+        "fill_type": "BACKGROUND (5)",
+        "text_frame": [
+          {
+            "text": "Screenshots",
+            "runs": [
+              {
+                "text": "Screenshots",
+                "font": "Cambria",
+                "size": 28.0,
+                "bold": true,
+                "color": "1B2A2E"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Shape 4",
+        "type": "AUTO_SHAPE (1)",
+        "left": 1097280,
+        "top": 1371600,
+        "width": 10607040,
+        "height": 0,
+        "fill_type": "BACKGROUND (5)",
+        "line_color": "D7E7E5",
+        "text_frame": []
+      },
+      {
+        "name": "Shape 5",
+        "type": "AUTO_SHAPE (1)",
+        "left": 1097280,
+        "top": 1737360,
+        "width": 4846320,
+        "height": 1783080,
+        "fill_type": "SOLID (1)",
+        "fill_color": "F4FAF9",
+        "line_color": "00A896",
+        "text_frame": []
+      },
+      {
+        "name": "Text 6",
+        "type": "TEXT_BOX (17)",
+        "left": 1097280,
+        "top": 1737360,
+        "width": 4846320,
+        "height": 1783080,
+        "fill_type": "BACKGROUND (5)",
+        "text_frame": [
+          {
+            "text": "[ Login / Signup Page screenshot ]",
+            "runs": [
+              {
+                "text": "[ Login / Signup Page screenshot ]",
+                "font": "Calibri",
+                "size": 13.0,
+                "color": "3E5C58"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Shape 7",
+        "type": "AUTO_SHAPE (1)",
+        "left": 6217920,
+        "top": 1737360,
+        "width": 4846320,
+        "height": 1783080,
+        "fill_type": "SOLID (1)",
+        "fill_color": "F4FAF9",
+        "line_color": "00A896",
+        "text_frame": []
+      },
+      {
+        "name": "Text 8",
+        "type": "TEXT_BOX (17)",
+        "left": 6217920,
+        "top": 1737360,
+        "width": 4846320,
+        "height": 1783080,
+        "fill_type": "BACKGROUND (5)",
+        "text_frame": [
+          {
+            "text": "[ Dashboard screenshot ]",
+            "runs": [
+              {
+                "text": "[ Dashboard screenshot ]",
+                "font": "Calibri",
+                "size": 13.0,
+                "color": "3E5C58"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Shape 9",
+        "type": "AUTO_SHAPE (1)",
+        "left": 1097280,
+        "top": 3794760,
+        "width": 4846320,
+        "height": 1783080,
+        "fill_type": "SOLID (1)",
+        "fill_color": "F4FAF9",
+        "line_color": "00A896",
+        "text_frame": []
+      },
+      {
+        "name": "Text 10",
+        "type": "TEXT_BOX (17)",
+        "left": 1097280,
+        "top": 3794760,
+        "width": 4846320,
+        "height": 1783080,
+        "fill_type": "BACKGROUND (5)",
+        "text_frame": [
+          {
+            "text": "[ Core Feature Screen screenshot ]",
+            "runs": [
+              {
+                "text": "[ Core Feature Screen screenshot ]",
+                "font": "Calibri",
+                "size": 13.0,
+                "color": "3E5C58"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Shape 11",
+        "type": "AUTO_SHAPE (1)",
+        "left": 6217920,
+        "top": 3794760,
+        "width": 4846320,
+        "height": 1783080,
+        "fill_type": "SOLID (1)",
+        "fill_color": "F4FAF9",
+        "line_color": "00A896",
+        "text_frame": []
+      },
+      {
+        "name": "Text 12",
+        "type": "TEXT_BOX (17)",
+        "left": 6217920,
+        "top": 3794760,
+        "width": 4846320,
+        "height": 1783080,
+        "fill_type": "BACKGROUND (5)",
+        "text_frame": [
+          {
+            "text": "[ Admin Panel screenshot ]",
+            "runs": [
+              {
+                "text": "[ Admin Panel screenshot ]",
+                "font": "Calibri",
+                "size": 13.0,
+                "color": "3E5C58"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Text 13",
+        "type": "TEXT_BOX (17)",
+        "left": 457200,
+        "top": 6473952,
+        "width": 5486400,
+        "height": 274320,
+        "fill_type": "BACKGROUND (5)",
+        "text_frame": [
+          {
+            "text": "Screenshots",
+            "runs": [
+              {
+                "text": "Screenshots",
+                "font": "Calibri",
+                "size": 10.0,
+                "color": "7A8F8C"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Text 14",
+        "type": "TEXT_BOX (17)",
+        "left": 6245352,
+        "top": 6473952,
+        "width": 5486400,
+        "height": 274320,
+        "fill_type": "BACKGROUND (5)",
+        "text_frame": [
+          {
+            "text": "Review 1 & 2  |  MERN Stack Project",
+            "runs": [
+              {
+                "text": "Review 1 & 2  |  MERN Stack Project",
+                "font": "Calibri",
+                "size": 10.0,
+                "color": "7A8F8C"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slide": 15,
+    "shapes": [
+      {
+        "name": "Shape 0",
+        "type": "AUTO_SHAPE (1)",
+        "left": 457200,
+        "top": 457200,
+        "width": 502920,
+        "height": 502920,
+        "fill_type": "SOLID (1)",
+        "fill_color": "00A896",
+        "text_frame": []
+      },
+      {
+        "name": "Text 1",
+        "type": "TEXT_BOX (17)",
+        "left": 457200,
+        "top": 457200,
+        "width": 502920,
+        "height": 502920,
+        "fill_type": "BACKGROUND (5)",
+        "text_frame": [
+          {
+            "text": "14",
+            "runs": [
+              {
+                "text": "14",
+                "font": "Calibri",
+                "size": 14.0,
+                "bold": true,
+                "color": "FFFFFF"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Text 2",
+        "type": "TEXT_BOX (17)",
+        "left": 1097280,
+        "top": 457200,
+        "width": 5486400,
+        "height": 274320,
+        "fill_type": "BACKGROUND (5)",
+        "text_frame": [
+          {
+            "text": "CHALLENGES",
+            "runs": [
+              {
+                "text": "CHALLENGES",
+                "font": "Calibri",
+                "size": 12.0,
+                "bold": true,
+                "color": "00A896"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Text 3",
+        "type": "TEXT_BOX (17)",
+        "left": 1097280,
+        "top": 713232,
+        "width": 10515600,
+        "height": 548640,
+        "fill_type": "BACKGROUND (5)",
+        "text_frame": [
+          {
+            "text": "Challenges Faced & Solutions",
+            "runs": [
+              {
+                "text": "Challenges Faced & Solutions",
+                "font": "Cambria",
+                "size": 28.0,
+                "bold": true,
+                "color": "1B2A2E"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Shape 4",
+        "type": "AUTO_SHAPE (1)",
+        "left": 1097280,
+        "top": 1371600,
+        "width": 10607040,
+        "height": 0,
+        "fill_type": "BACKGROUND (5)",
+        "line_color": "D7E7E5",
+        "text_frame": []
+      },
+      {
+        "name": "Table 0",
+        "type": "TABLE (19)",
+        "left": 1097280,
+        "top": 1691640,
+        "width": 9966960,
+        "height": 2286000,
+        "table_rows": 5,
+        "table_cols": 2
+      },
+      {
+        "name": "Text 5",
+        "type": "TEXT_BOX (17)",
+        "left": 457200,
+        "top": 6473952,
+        "width": 5486400,
+        "height": 274320,
+        "fill_type": "BACKGROUND (5)",
+        "text_frame": [
+          {
+            "text": "Challenges",
+            "runs": [
+              {
+                "text": "Challenges",
+                "font": "Calibri",
+                "size": 10.0,
+                "color": "7A8F8C"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Text 6",
+        "type": "TEXT_BOX (17)",
+        "left": 6245352,
+        "top": 6473952,
+        "width": 5486400,
+        "height": 274320,
+        "fill_type": "BACKGROUND (5)",
+        "text_frame": [
+          {
+            "text": "Review 1 & 2  |  MERN Stack Project",
+            "runs": [
+              {
+                "text": "Review 1 & 2  |  MERN Stack Project",
+                "font": "Calibri",
+                "size": 10.0,
+                "color": "7A8F8C"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slide": 16,
+    "shapes": [
+      {
+        "name": "Shape 0",
+        "type": "AUTO_SHAPE (1)",
+        "left": 457200,
+        "top": 457200,
+        "width": 502920,
+        "height": 502920,
+        "fill_type": "SOLID (1)",
+        "fill_color": "00A896",
+        "text_frame": []
+      },
+      {
+        "name": "Text 1",
+        "type": "TEXT_BOX (17)",
+        "left": 457200,
+        "top": 457200,
+        "width": 502920,
+        "height": 502920,
+        "fill_type": "BACKGROUND (5)",
+        "text_frame": [
+          {
+            "text": "15",
+            "runs": [
+              {
+                "text": "15",
+                "font": "Calibri",
+                "size": 14.0,
+                "bold": true,
+                "color": "FFFFFF"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Text 2",
+        "type": "TEXT_BOX (17)",
+        "left": 1097280,
+        "top": 457200,
+        "width": 5486400,
+        "height": 274320,
+        "fill_type": "BACKGROUND (5)",
+        "text_frame": [
+          {
+            "text": "NEXT STEPS",
+            "runs": [
+              {
+                "text": "NEXT STEPS",
+                "font": "Calibri",
+                "size": 12.0,
+                "bold": true,
+                "color": "00A896"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Text 3",
+        "type": "TEXT_BOX (17)",
+        "left": 1097280,
+        "top": 713232,
+        "width": 10515600,
+        "height": 548640,
+        "fill_type": "BACKGROUND (5)",
+        "text_frame": [
+          {
+            "text": "Remaining Work & Plan",
+            "runs": [
+              {
+                "text": "Remaining Work & Plan",
+                "font": "Cambria",
+                "size": 28.0,
+                "bold": true,
+                "color": "1B2A2E"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Shape 4",
+        "type": "AUTO_SHAPE (1)",
+        "left": 1097280,
+        "top": 1371600,
+        "width": 10607040,
+        "height": 0,
+        "fill_type": "BACKGROUND (5)",
+        "line_color": "D7E7E5",
+        "text_frame": []
+      },
+      {
+        "name": "Text 5",
+        "type": "TEXT_BOX (17)",
+        "left": 1097280,
+        "top": 1691640,
+        "width": 9875520,
+        "height": 4206240,
+        "fill_type": "BACKGROUND (5)",
+        "text_frame": [
+          {
+            "text": "Complete Admin Module: analytics dashboard & reports",
+            "runs": [
+              {
+                "text": "Complete Admin Module: analytics dashboard & reports",
+                "font": "Calibri",
+                "size": 15.0,
+                "color": "1B2A2E"
+              }
+            ]
+          },
+          {
+            "text": "Implement Notification Module (email / in-app alerts)",
+            "runs": [
+              {
+                "text": "Implement Notification Module (email / in-app alerts)",
+                "font": "Calibri",
+                "size": 15.0,
+                "color": "1B2A2E"
+              }
+            ]
+          },
+          {
+            "text": "Conduct integration & user-acceptance testing",
+            "runs": [
+              {
+                "text": "Conduct integration & user-acceptance testing",
+                "font": "Calibri",
+                "size": 15.0,
+                "color": "1B2A2E"
+              }
+            ]
+          },
+          {
+            "text": "Improve UI polish, accessibility & responsiveness",
+            "runs": [
+              {
+                "text": "Improve UI polish, accessibility & responsiveness",
+                "font": "Calibri",
+                "size": 15.0,
+                "color": "1B2A2E"
+              }
+            ]
+          },
+          {
+            "text": "Deploy application (Render/Vercel/Netlify + MongoDB Atlas)",
+            "runs": [
+              {
+                "text": "Deploy application (Render/Vercel/Netlify + MongoDB Atlas)",
+                "font": "Calibri",
+                "size": 15.0,
+                "color": "1B2A2E"
+              }
+            ]
+          },
+          {
+            "text": "Prepare final documentation & demo for final review",
+            "runs": [
+              {
+                "text": "Prepare final documentation & demo for final review",
+                "font": "Calibri",
+                "size": 15.0,
+                "color": "1B2A2E"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Text 6",
+        "type": "TEXT_BOX (17)",
+        "left": 457200,
+        "top": 6473952,
+        "width": 5486400,
+        "height": 274320,
+        "fill_type": "BACKGROUND (5)",
+        "text_frame": [
+          {
+            "text": "Next Steps",
+            "runs": [
+              {
+                "text": "Next Steps",
+                "font": "Calibri",
+                "size": 10.0,
+                "color": "7A8F8C"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Text 7",
+        "type": "TEXT_BOX (17)",
+        "left": 6245352,
+        "top": 6473952,
+        "width": 5486400,
+        "height": 274320,
+        "fill_type": "BACKGROUND (5)",
+        "text_frame": [
+          {
+            "text": "Review 1 & 2  |  MERN Stack Project",
+            "runs": [
+              {
+                "text": "Review 1 & 2  |  MERN Stack Project",
+                "font": "Calibri",
+                "size": 10.0,
+                "color": "7A8F8C"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slide": 17,
+    "shapes": [
+      {
+        "name": "Shape 0",
+        "type": "AUTO_SHAPE (1)",
+        "left": 457200,
+        "top": 457200,
+        "width": 502920,
+        "height": 502920,
+        "fill_type": "SOLID (1)",
+        "fill_color": "00A896",
+        "text_frame": []
+      },
+      {
+        "name": "Text 1",
+        "type": "TEXT_BOX (17)",
+        "left": 457200,
+        "top": 457200,
+        "width": 502920,
+        "height": 502920,
+        "fill_type": "BACKGROUND (5)",
+        "text_frame": [
+          {
+            "text": "16",
+            "runs": [
+              {
+                "text": "16",
+                "font": "Calibri",
+                "size": 14.0,
+                "bold": true,
+                "color": "FFFFFF"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Text 2",
+        "type": "TEXT_BOX (17)",
+        "left": 1097280,
+        "top": 457200,
+        "width": 5486400,
+        "height": 274320,
+        "fill_type": "BACKGROUND (5)",
+        "text_frame": [
+          {
+            "text": "NEXT STEPS",
+            "runs": [
+              {
+                "text": "NEXT STEPS",
+                "font": "Calibri",
+                "size": 12.0,
+                "bold": true,
+                "color": "00A896"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Text 3",
+        "type": "TEXT_BOX (17)",
+        "left": 1097280,
+        "top": 713232,
+        "width": 10515600,
+        "height": 548640,
+        "fill_type": "BACKGROUND (5)",
+        "text_frame": [
+          {
+            "text": "References",
+            "runs": [
+              {
+                "text": "References",
+                "font": "Cambria",
+                "size": 28.0,
+                "bold": true,
+                "color": "1B2A2E"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Shape 4",
+        "type": "AUTO_SHAPE (1)",
+        "left": 1097280,
+        "top": 1371600,
+        "width": 10607040,
+        "height": 0,
+        "fill_type": "BACKGROUND (5)",
+        "line_color": "D7E7E5",
+        "text_frame": []
+      },
+      {
+        "name": "Table 0",
+        "type": "TABLE (19)",
+        "left": 1097280,
+        "top": 1691640,
+        "width": 9966960,
+        "height": 2286000,
+        "table_rows": 5,
+        "table_cols": 2
+      },
+      {
+        "name": "Text 5",
+        "type": "TEXT_BOX (17)",
+        "left": 457200,
+        "top": 6473952,
+        "width": 5486400,
+        "height": 274320,
+        "fill_type": "BACKGROUND (5)",
+        "text_frame": [
+          {
+            "text": "Next Steps",
+            "runs": [
+              {
+                "text": "Next Steps",
+                "font": "Calibri",
+                "size": 10.0,
+                "color": "7A8F8C"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Text 6",
+        "type": "TEXT_BOX (17)",
+        "left": 6245352,
+        "top": 6473952,
+        "width": 5486400,
+        "height": 274320,
+        "fill_type": "BACKGROUND (5)",
+        "text_frame": [
+          {
+            "text": "Review 1 & 2  |  MERN Stack Project",
+            "runs": [
+              {
+                "text": "Review 1 & 2  |  MERN Stack Project",
+                "font": "Calibri",
+                "size": 10.0,
+                "color": "7A8F8C"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

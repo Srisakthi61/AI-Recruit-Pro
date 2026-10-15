@@ -1,0 +1,113 @@
+@import "tailwindcss";
+
+@theme {
+  --color-primary: #315B52;
+  --color-primary-hover: #26483F;
+  --color-secondary: #52796F;
+  --color-accent: #84A59D;
+  --color-main-bg: #F5F7F6;
+  --color-secondary-bg: #EDF2F0;
+  --color-card-bg: #FFFFFF;
+  --color-card-hover: #EDF2F0;
+  --color-nav-bg: #FFFFFF;
+  --color-border: #DFE6E2;
+  --color-subtle-divider: #E8EDEA;
+  --color-input-bg: #FFFFFF;
+  --color-input-border: #CFD9D3;
+  --color-input-focus: #52796F;
+  --color-primary-text: #202925;
+  --color-secondary-text: #596760;
+  --color-muted-text: #7A8781;
+  --color-button-text: #FFFFFF;
+
+  --color-success: #34765B;
+  --color-success-bg: #E8F3EC;
+  --color-warning: #946A24;
+  --color-warning-bg: #FBF3E3;
+  --color-error: #B54747;
+  --color-error-bg: #FBECEC;
+  --color-info: #426D8A;
+  --color-info-bg: #EAF1F7;
+
+  --color-slate-950: #202925;
+  --color-slate-900: #2C3833;
+  --color-slate-800: #415049;
+  --color-slate-700: #596760;
+  --color-slate-600: #6B7B74;
+  --color-slate-500: #7A8781;
+  --color-slate-400: #98A6A0;
+  --color-slate-300: #BAC6C0;
+  --color-slate-200: #DFE6E2;
+  --color-slate-100: #EDF2F0;
+  --color-slate-50: #F5F7F6;
+}
+
+@layer base {
+  body {
+    background-color: #F5F7F6;
+    color: #202925;
+    @apply antialiased font-sans min-h-screen;
+    selection-background-color: #315B52;
+    selection-color: #FFFFFF;
+    font-feature-settings: "cv02", "cv03", "cv04", "cv11";
+  }
+
+  /* Custom Scrollbars */
+  ::-webkit-scrollbar {
+    width: 6px;
+    height: 6px;
+  }
+  ::-webkit-scrollbar-track {
+    background: #EDF2F0;
+  }
+  ::-webkit-scrollbar-thumb {
+    background: #CFD9D3;
+    border-radius: 9999px;
+  }
+  ::-webkit-scrollbar-thumb:hover {
+    background: #84A59D;
+  }
+}
+
+.glass-panel {
+  background: #FFFFFF;
+  border: 1px solid #DFE6E2;
+}
+
+.glass-card {
+  background: #FFFFFF;
+  border: 1px solid #DFE6E2;
+}
+
+.glass-card:hover {
+  background: #FFFFFF;
+  border-color: #CFD9D3;
+}
+
+.glass-input {
+  background: #FFFFFF;
+  border: 1px solid #CFD9D3;
+  color: #202925;
+}
+
+.glass-input:focus {
+  border-color: #52796F;
+  outline: none;
+  box-shadow: 0 0 0 2px rgba(82, 121, 111, 0.2);
+}
+
+/* Shimmer animation */
+@keyframes shimmer {
+  0% {
+    background-position: -200% 0;
+  }
+  100% {
+    background-position: 200% 0;
+  }
+}
+
+.animate-shimmer {
+  background: linear-gradient(90deg, rgba(245,247,246,0) 0%, rgba(132, 165, 157, 0.12) 50%, rgba(245,247,246,0) 100%);
+  background-size: 200% 100%;
+  animation: shimmer 2.5s infinite;
+}

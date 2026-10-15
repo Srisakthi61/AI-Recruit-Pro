@@ -1,0 +1,185 @@
+=== SLIDE 1 ===
+  TXT: AGENDA
+  TXT: Scope of This Review
+  TXT: Requirements (Functional & Non-Functional) // Detailed System Architecture // Use Case & ER Diagrams // Module Description & Tech Stack // UI Design, Frontend & Backend Build // Database & API Integration // Progress (70%), Screenshots & Challenges
+  TXT: Agenda
+  TXT: Review 1 & 2  |  MERN Stack Project
+=== SLIDE 2 ===
+  TXT: 01
+  TXT: REQUIREMENTS
+  TXT: Functional & Non-Functional Requirements
+  TXT: Functional Requirements
+  TXT: User registration & authentication // Role-based dashboards // Core feature: [add/search/manage records] // CRUD operations via REST APIs // Search, filter & sort functionality // Notifications / status updates
+  TXT: Non-Functional Requirements
+  TXT: Performance: response < 2 seconds // Scalability: handle concurrent users // Security: JWT auth, password hashing // Usability: responsive, mobile-friendly UI // Availability & reliable data storage // Maintainability: modular MERN codebase
+  TXT: Requirements
+  TXT: Review 1 & 2  |  MERN Stack Project
+=== SLIDE 3 ===
+  TXT: 02
+  TXT: ARCHITECTURE
+  TXT: System Architecture (Detailed)
+  TXT: CLIENT TIER
+  TXT: React.js, Redux/Context, // Axios, Tailwind/CSS
+  TXT: ⇄
+  TXT: APPLICATION TIER
+  TXT: Node.js + Express.js // REST API, Middleware, JWT Auth
+  TXT: ⇄
+  TXT: DATA TIER
+  TXT: MongoDB + Mongoose // Collections & Schemas
+  TXT: HTTP / HTTPS requests flow from the client, through Express REST endpoints, to MongoDB — with JSON responses returned along the same path.
+  TXT: Update this slide with your own architecture diagram (draw.io / Lucidchart export) showing your project's specific components, external APIs, and deployment setup.
+  TXT: Architecture
+  TXT: Review 1 & 2  |  MERN Stack Project
+=== SLIDE 4 ===
+  TXT: 03
+  TXT: USE CASE
+  TXT: Use Case Diagram
+  TXT: Insert your Use Case Diagram // (actors ↔ system use cases)
+  TXT: Include
+  TXT: Identify all actors (Admin, User, etc.) // List each actor's use cases // Show include / extend relationships // Keep it to system-level interactions // Export as image and paste here
+  TXT: Use Case
+  TXT: Review 1 & 2  |  MERN Stack Project
+=== SLIDE 5 ===
+  TXT: 04
+  TXT: ER DIAGRAM
+  TXT: ER Diagram / Database Design
+  TXT: Insert your ER Diagram // (entities, attributes & relationships)
+  TXT: Include
+  TXT: List entities and attributes // Mark primary & foreign keys // Show relationships (1:1, 1:N, N:N) // Reflect actual MongoDB collections // Note any embedded vs. referenced docs
+  TXT: ER Diagram
+  TXT: Review 1 & 2  |  MERN Stack Project
+=== SLIDE 6 ===
+  TXT: 05
+  TXT: MODULES
+  TXT: Module Description
+  TABLE (6 rows):
+    | Module | Description | Key Functions
+    | User Management | Registration, login & role handling | Signup, Login, JWT Auth
+    | Core Module 1 | [Project-specific main feature] | Create, View, Update
+    | Core Module 2 | [Project-specific supporting feature] | Search, Filter, Sort
+    | Admin Module | Manage users & records | Approve, Delete, Reports
+    | Notification Module | Alerts & status updates | Email / In-app alerts
+  TXT: Modules
+  TXT: Review 1 & 2  |  MERN Stack Project
+=== SLIDE 7 ===
+  TXT: 06
+  TXT: TECH STACK
+  TXT: Technology Stack
+  TXT: MongoDB
+  TXT: NoSQL Database
+  TXT: Express.js
+  TXT: Backend Framework
+  TXT: React.js
+  TXT: Frontend Library
+  TXT: Node.js
+  TXT: Runtime Environment
+  TXT: Supporting Tools
+  TXT: Mongoose (ODM) // JWT & bcrypt (auth/security) // Postman (API testing) // Git & GitHub (version control) // VS Code, npm // Axios (HTTP client)
+  TXT: Tech Stack
+  TXT: Review 1 & 2  |  MERN Stack Project
+=== SLIDE 8 ===
+  TXT: 07
+  TXT: UI DESIGN
+  TXT: UI Design / Wireframes
+  TXT: Insert wireframes / mockups // for key application screens
+  TXT: Include
+  TXT: Show key screen wireframes // Login/Signup, Dashboard, Core screens // Note responsive breakpoints // Mention design tool used (Figma, etc.) // Replace with real wireframe images
+  TXT: UI Design
+  TXT: Review 1 & 2  |  MERN Stack Project
+=== SLIDE 9 ===
+  TXT: 08
+  TXT: FRONTEND
+  TXT: Frontend Development
+  TXT: Built with React.js using functional components & hooks // Component-based structure: Navbar, Forms, Cards, Tables, Modals // State management via Context API / Redux // Client-side routing implemented with React Router // Axios used to consume backend REST APIs // Responsive UI styled with [Tailwind / Bootstrap / CSS Modules]
+  TXT: Tip: list the actual pages/components completed so far, e.g. Login, Dashboard, Profile, Item List.
+  TXT: Frontend
+  TXT: Review 1 & 2  |  MERN Stack Project
+=== SLIDE 10 ===
+  TXT: 09
+  TXT: BACKEND
+  TXT: Backend Development
+  TXT: Node.js + Express.js server with modular route structure // MVC pattern: separate routes, controllers & models // Authentication middleware using JWT // Input validation & centralized error handling // Environment-based configuration (.env, dotenv) // Server tested locally with Postman before integration
+  TXT: Tip: mention specific middleware, validation library, or error-handling strategy you used.
+  TXT: Backend
+  TXT: Review 1 & 2  |  MERN Stack Project
+=== SLIDE 11 ===
+  TXT: 10
+  TXT: DATABASE
+  TXT: Database Integration
+  TXT: MongoDB Atlas / local MongoDB used as the data store // Mongoose schemas defined for each collection // Relationships modeled via referencing / embedding // Indexes added for frequently queried fields // CRUD operations connected end-to-end with the backend // Sample data seeded for testing during development
+  TXT: Tip: name your actual collections (e.g. Users, Products, Orders) here.
+  TXT: Database
+  TXT: Review 1 & 2  |  MERN Stack Project
+=== SLIDE 12 ===
+  TXT: 11
+  TXT: API
+  TXT: API Development
+  TABLE (7 rows):
+    | Method | Endpoint | Description
+    | POST | /api/auth/register | Register a new user
+    | POST | /api/auth/login | Authenticate & issue JWT
+    | GET | /api/items | Fetch all records
+    | POST | /api/items | Create a new record
+    | PUT | /api/items/:id | Update an existing record
+    | DELETE | /api/items/:id | Delete a record
+  TXT: API
+  TXT: Review 1 & 2  |  MERN Stack Project
+=== SLIDE 13 ===
+  TXT: 12
+  TXT: STATUS
+  TXT: Module-wise Implementation Status
+  TXT: User Authentication
+  TXT: 100%
+  TXT: Frontend UI (Core Screens)
+  TXT: 80%
+  TXT: Backend APIs
+  TXT: 75%
+  TXT: Database Integration
+  TXT: 70%
+  TXT: Admin Module
+  TXT: 50%
+  TXT: Notifications
+  TXT: 30%
+  TXT: Status
+  TXT: Review 1 & 2  |  MERN Stack Project
+=== SLIDE 14 ===
+  TXT: 13
+  TXT: SCREENSHOTS
+  TXT: Screenshots
+  TXT: [ Login / Signup Page screenshot ]
+  TXT: [ Dashboard screenshot ]
+  TXT: [ Core Feature Screen screenshot ]
+  TXT: [ Admin Panel screenshot ]
+  TXT: Screenshots
+  TXT: Review 1 & 2  |  MERN Stack Project
+=== SLIDE 15 ===
+  TXT: 14
+  TXT: CHALLENGES
+  TXT: Challenges Faced & Solutions
+  TABLE (5 rows):
+    | Challenge | Solution Adopted
+    | CORS errors during API integration | Configured CORS middleware in Express
+    | JWT token expiry handling | Implemented refresh-token / re-login flow
+    | State sync between components | Adopted Context API for shared state
+    | Slow query performance | Added MongoDB indexes on key fields
+  TXT: Challenges
+  TXT: Review 1 & 2  |  MERN Stack Project
+=== SLIDE 16 ===
+  TXT: 15
+  TXT: NEXT STEPS
+  TXT: Remaining Work & Plan
+  TXT: Complete Admin Module: analytics dashboard & reports // Implement Notification Module (email / in-app alerts) // Conduct integration & user-acceptance testing // Improve UI polish, accessibility & responsiveness // Deploy application (Render/Vercel/Netlify + MongoDB Atlas) // Prepare final documentation & demo for final review
+  TXT: Next Steps
+  TXT: Review 1 & 2  |  MERN Stack Project
+=== SLIDE 17 ===
+  TXT: 16
+  TXT: NEXT STEPS
+  TXT: References
+  TABLE (5 rows):
+    | # | Reference
+    | 1 | MongoDB, Express, React, Node.js — Official Documentation
+    | 2 | IEEE / journal papers cited in the literature survey (Review 0)
+    | 3 | Relevant textbooks / course material used
+    | 4 | Any third-party APIs or libraries used in the project
+  TXT: Next Steps
+  TXT: Review 1 & 2  |  MERN Stack Project

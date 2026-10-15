@@ -1,0 +1,2677 @@
+[
+  {
+    "slide_num": 1,
+    "shapes": [
+      {
+        "shape_idx": 0,
+        "name": "Text 0",
+        "left": 1097280,
+        "top": 457200,
+        "width": 5486400,
+        "height": 274320,
+        "type": "TEXT_BOX (17)",
+        "text": [
+          "AGENDA"
+        ]
+      },
+      {
+        "shape_idx": 1,
+        "name": "Text 1",
+        "left": 1097280,
+        "top": 713232,
+        "width": 10058400,
+        "height": 548640,
+        "type": "TEXT_BOX (17)",
+        "text": [
+          "Scope of This Review"
+        ]
+      },
+      {
+        "shape_idx": 2,
+        "name": "Shape 2",
+        "left": 1097280,
+        "top": 1371600,
+        "width": 10607040,
+        "height": 0,
+        "type": "AUTO_SHAPE (1)",
+        "text": []
+      },
+      {
+        "shape_idx": 3,
+        "name": "Shape 6",
+        "left": 998144,
+        "top": 1700059,
+        "width": 5029200,
+        "height": 3713907,
+        "type": "AUTO_SHAPE (1)",
+        "text": []
+      },
+      {
+        "shape_idx": 4,
+        "name": "Text 8",
+        "left": 1371600,
+        "top": 2130643,
+        "width": 4572000,
+        "height": 2814903,
+        "type": "TEXT_BOX (17)",
+        "text": [
+          "Requirements (Functional & Non-Functional)",
+          "Detailed System Architecture",
+          "Use Case & ER Diagrams",
+          "Module Description & Tech Stack",
+          "UI Design, Frontend & Backend Build",
+          "Database & API Integration",
+          "Progress (70%), Screenshots & Challenges"
+        ]
+      },
+      {
+        "shape_idx": 5,
+        "name": "Text 9",
+        "left": 457200,
+        "top": 6473952,
+        "width": 5486400,
+        "height": 274320,
+        "type": "TEXT_BOX (17)",
+        "text": [
+          "Agenda"
+        ]
+      },
+      {
+        "shape_idx": 6,
+        "name": "Text 10",
+        "left": 6245352,
+        "top": 6473952,
+        "width": 5486400,
+        "height": 274320,
+        "type": "TEXT_BOX (17)",
+        "text": [
+          "Review 1 & 2  |  MERN Stack Project"
+        ]
+      }
+    ]
+  },
+  {
+    "slide_num": 2,
+    "shapes": [
+      {
+        "shape_idx": 0,
+        "name": "Shape 0",
+        "left": 457200,
+        "top": 457200,
+        "width": 502920,
+        "height": 502920,
+        "type": "AUTO_SHAPE (1)",
+        "text": []
+      },
+      {
+        "shape_idx": 1,
+        "name": "Text 1",
+        "left": 457200,
+        "top": 457200,
+        "width": 502920,
+        "height": 502920,
+        "type": "TEXT_BOX (17)",
+        "text": [
+          "01"
+        ]
+      },
+      {
+        "shape_idx": 2,
+        "name": "Text 2",
+        "left": 1097280,
+        "top": 457200,
+        "width": 5486400,
+        "height": 274320,
+        "type": "TEXT_BOX (17)",
+        "text": [
+          "REQUIREMENTS"
+        ]
+      },
+      {
+        "shape_idx": 3,
+        "name": "Text 3",
+        "left": 1097280,
+        "top": 713232,
+        "width": 10515600,
+        "height": 548640,
+        "type": "TEXT_BOX (17)",
+        "text": [
+          "Functional & Non-Functional Requirements"
+        ]
+      },
+      {
+        "shape_idx": 4,
+        "name": "Shape 4",
+        "left": 1097280,
+        "top": 1371600,
+        "width": 10607040,
+        "height": 0,
+        "type": "AUTO_SHAPE (1)",
+        "text": []
+      },
+      {
+        "shape_idx": 5,
+        "name": "Shape 5",
+        "left": 1097280,
+        "top": 1737360,
+        "width": 5029200,
+        "height": 4114800,
+        "type": "AUTO_SHAPE (1)",
+        "text": []
+      },
+      {
+        "shape_idx": 6,
+        "name": "Text 6",
+        "left": 1371600,
+        "top": 1920240,
+        "width": 4572000,
+        "height": 365760,
+        "type": "TEXT_BOX (17)",
+        "text": [
+          "Functional Requirements"
+        ]
+      },
+      {
+        "shape_idx": 7,
+        "name": "Text 7",
+        "left": 1371600,
+        "top": 2423160,
+        "width": 4572000,
+        "height": 3291840,
+        "type": "TEXT_BOX (17)",
+        "text": [
+          "User registration & authentication",
+          "Role-based dashboards",
+          "Core feature: [add/search/manage records]",
+          "CRUD operations via REST APIs",
+          "Search, filter & sort functionality",
+          "Notifications / status updates"
+        ]
+      },
+      {
+        "shape_idx": 8,
+        "name": "Shape 8",
+        "left": 6400800,
+        "top": 1737360,
+        "width": 5029200,
+        "height": 4114800,
+        "type": "AUTO_SHAPE (1)",
+        "text": []
+      },
+      {
+        "shape_idx": 9,
+        "name": "Text 9",
+        "left": 6675120,
+        "top": 1920240,
+        "width": 4572000,
+        "height": 365760,
+        "type": "TEXT_BOX (17)",
+        "text": [
+          "Non-Functional Requirements"
+        ]
+      },
+      {
+        "shape_idx": 10,
+        "name": "Text 10",
+        "left": 6675120,
+        "top": 2423160,
+        "width": 4572000,
+        "height": 3291840,
+        "type": "TEXT_BOX (17)",
+        "text": [
+          "Performance: response < 2 seconds",
+          "Scalability: handle concurrent users",
+          "Security: JWT auth, password hashing",
+          "Usability: responsive, mobile-friendly UI",
+          "Availability & reliable data storage",
+          "Maintainability: modular MERN codebase"
+        ]
+      },
+      {
+        "shape_idx": 11,
+        "name": "Text 11",
+        "left": 457200,
+        "top": 6473952,
+        "width": 5486400,
+        "height": 274320,
+        "type": "TEXT_BOX (17)",
+        "text": [
+          "Requirements"
+        ]
+      },
+      {
+        "shape_idx": 12,
+        "name": "Text 12",
+        "left": 6245352,
+        "top": 6473952,
+        "width": 5486400,
+        "height": 274320,
+        "type": "TEXT_BOX (17)",
+        "text": [
+          "Review 1 & 2  |  MERN Stack Project"
+        ]
+      }
+    ]
+  },
+  {
+    "slide_num": 3,
+    "shapes": [
+      {
+        "shape_idx": 0,
+        "name": "Shape 0",
+        "left": 457200,
+        "top": 457200,
+        "width": 502920,
+        "height": 502920,
+        "type": "AUTO_SHAPE (1)",
+        "text": []
+      },
+      {
+        "shape_idx": 1,
+        "name": "Text 1",
+        "left": 457200,
+        "top": 457200,
+        "width": 502920,
+        "height": 502920,
+        "type": "TEXT_BOX (17)",
+        "text": [
+          "02"
+        ]
+      },
+      {
+        "shape_idx": 2,
+        "name": "Text 2",
+        "left": 1097280,
+        "top": 457200,
+        "width": 5486400,
+        "height": 274320,
+        "type": "TEXT_BOX (17)",
+        "text": [
+          "ARCHITECTURE"
+        ]
+      },
+      {
+        "shape_idx": 3,
+        "name": "Text 3",
+        "left": 1097280,
+        "top": 713232,
+        "width": 10515600,
+        "height": 548640,
+        "type": "TEXT_BOX (17)",
+        "text": [
+          "System Architecture (Detailed)"
+        ]
+      },
+      {
+        "shape_idx": 4,
+        "name": "Shape 4",
+        "left": 1097280,
+        "top": 1371600,
+        "width": 10607040,
+        "height": 0,
+        "type": "AUTO_SHAPE (1)",
+        "text": []
+      },
+      {
+        "shape_idx": 5,
+        "name": "Shape 5",
+        "left": 1097280,
+        "top": 2377440,
+        "width": 3017520,
+        "height": 1828800,
+        "type": "AUTO_SHAPE (1)",
+        "text": []
+      },
+      {
+        "shape_idx": 6,
+        "name": "Text 6",
+        "left": 1280160,
+        "top": 2606040,
+        "width": 2651760,
+        "height": 365760,
+        "type": "TEXT_BOX (17)",
+        "text": [
+          "CLIENT TIER"
+        ]
+      },
+      {
+        "shape_idx": 7,
+        "name": "Text 7",
+        "left": 1280160,
+        "top": 3063240,
+        "width": 2651760,
+        "height": 1005840,
+        "type": "TEXT_BOX (17)",
+        "text": [
+          "React.js, Redux/Context,",
+          "Axios, Tailwind/CSS"
+        ]
+      },
+      {
+        "shape_idx": 8,
+        "name": "Text 8",
+        "left": 4114800,
+        "top": 3017520,
+        "width": 502920,
+        "height": 548640,
+        "type": "TEXT_BOX (17)",
+        "text": [
+          "⇄"
+        ]
+      },
+      {
+        "shape_idx": 9,
+        "name": "Shape 9",
+        "left": 4617720,
+        "top": 2377440,
+        "width": 3017520,
+        "height": 1828800,
+        "type": "AUTO_SHAPE (1)",
+        "text": []
+      },
+      {
+        "shape_idx": 10,
+        "name": "Text 10",
+        "left": 4800600,
+        "top": 2606040,
+        "width": 2651760,
+        "height": 365760,
+        "type": "TEXT_BOX (17)",
+        "text": [
+          "APPLICATION TIER"
+        ]
+      },
+      {
+        "shape_idx": 11,
+        "name": "Text 11",
+        "left": 4800600,
+        "top": 3063240,
+        "width": 2651760,
+        "height": 1005840,
+        "type": "TEXT_BOX (17)",
+        "text": [
+          "Node.js + Express.js",
+          "REST API, Middleware, JWT Auth"
+        ]
+      },
+      {
+        "shape_idx": 12,
+        "name": "Text 12",
+        "left": 7635240,
+        "top": 3017520,
+        "width": 502920,
+        "height": 548640,
+        "type": "TEXT_BOX (17)",
+        "text": [
+          "⇄"
+        ]
+      },
+      {
+        "shape_idx": 13,
+        "name": "Shape 13",
+        "left": 8138160,
+        "top": 2377440,
+        "width": 3017520,
+        "height": 1828800,
+        "type": "AUTO_SHAPE (1)",
+        "text": []
+      },
+      {
+        "shape_idx": 14,
+        "name": "Text 14",
+        "left": 8321040,
+        "top": 2606040,
+        "width": 2651760,
+        "height": 365760,
+        "type": "TEXT_BOX (17)",
+        "text": [
+          "DATA TIER"
+        ]
+      },
+      {
+        "shape_idx": 15,
+        "name": "Text 15",
+        "left": 8321040,
+        "top": 3063240,
+        "width": 2651760,
+        "height": 1005840,
+        "type": "TEXT_BOX (17)",
+        "text": [
+          "MongoDB + Mongoose",
+          "Collections & Schemas"
+        ]
+      },
+      {
+        "shape_idx": 16,
+        "name": "Text 16",
+        "left": 1097280,
+        "top": 4572000,
+        "width": 9966960,
+        "height": 548640,
+        "type": "TEXT_BOX (17)",
+        "text": [
+          "HTTP / HTTPS requests flow from the client, through Express REST endpoints, to MongoDB — with JSON responses returned along the same path."
+        ]
+      },
+      {
+        "shape_idx": 17,
+        "name": "Shape 17",
+        "left": 1097280,
+        "top": 5257800,
+        "width": 9966960,
+        "height": 777240,
+        "type": "AUTO_SHAPE (1)",
+        "text": []
+      },
+      {
+        "shape_idx": 18,
+        "name": "Text 18",
+        "left": 1325880,
+        "top": 5257800,
+        "width": 9509760,
+        "height": 777240,
+        "type": "TEXT_BOX (17)",
+        "text": [
+          "Update this slide with your own architecture diagram (draw.io / Lucidchart export) showing your project's specific components, external APIs, and deployment setup."
+        ]
+      },
+      {
+        "shape_idx": 19,
+        "name": "Text 19",
+        "left": 457200,
+        "top": 6473952,
+        "width": 5486400,
+        "height": 274320,
+        "type": "TEXT_BOX (17)",
+        "text": [
+          "Architecture"
+        ]
+      },
+      {
+        "shape_idx": 20,
+        "name": "Text 20",
+        "left": 6245352,
+        "top": 6473952,
+        "width": 5486400,
+        "height": 274320,
+        "type": "TEXT_BOX (17)",
+        "text": [
+          "Review 1 & 2  |  MERN Stack Project"
+        ]
+      }
+    ]
+  },
+  {
+    "slide_num": 4,
+    "shapes": [
+      {
+        "shape_idx": 0,
+        "name": "Shape 0",
+        "left": 457200,
+        "top": 457200,
+        "width": 502920,
+        "height": 502920,
+        "type": "AUTO_SHAPE (1)",
+        "text": []
+      },
+      {
+        "shape_idx": 1,
+        "name": "Text 1",
+        "left": 457200,
+        "top": 457200,
+        "width": 502920,
+        "height": 502920,
+        "type": "TEXT_BOX (17)",
+        "text": [
+          "03"
+        ]
+      },
+      {
+        "shape_idx": 2,
+        "name": "Text 2",
+        "left": 1097280,
+        "top": 457200,
+        "width": 5486400,
+        "height": 274320,
+        "type": "TEXT_BOX (17)",
+        "text": [
+          "USE CASE"
+        ]
+      },
+      {
+        "shape_idx": 3,
+        "name": "Text 3",
+        "left": 1097280,
+        "top": 713232,
+        "width": 10515600,
+        "height": 548640,
+        "type": "TEXT_BOX (17)",
+        "text": [
+          "Use Case Diagram"
+        ]
+      },
+      {
+        "shape_idx": 4,
+        "name": "Shape 4",
+        "left": 1097280,
+        "top": 1371600,
+        "width": 10607040,
+        "height": 0,
+        "type": "AUTO_SHAPE (1)",
+        "text": []
+      },
+      {
+        "shape_idx": 5,
+        "name": "Shape 5",
+        "left": 1097280,
+        "top": 1737360,
+        "width": 6035040,
+        "height": 4114800,
+        "type": "AUTO_SHAPE (1)",
+        "text": []
+      },
+      {
+        "shape_idx": 6,
+        "name": "Text 6",
+        "left": 1280160,
+        "top": 3474720,
+        "width": 5669280,
+        "height": 731520,
+        "type": "TEXT_BOX (17)",
+        "text": [
+          "Insert your Use Case Diagram",
+          "(actors ↔ system use cases)"
+        ]
+      },
+      {
+        "shape_idx": 7,
+        "name": "Shape 7",
+        "left": 7406640,
+        "top": 1737360,
+        "width": 3657600,
+        "height": 4114800,
+        "type": "AUTO_SHAPE (1)",
+        "text": []
+      },
+      {
+        "shape_idx": 8,
+        "name": "Text 8",
+        "left": 7635240,
+        "top": 1920240,
+        "width": 3200400,
+        "height": 320040,
+        "type": "TEXT_BOX (17)",
+        "text": [
+          "Include"
+        ]
+      },
+      {
+        "shape_idx": 9,
+        "name": "Text 9",
+        "left": 7635240,
+        "top": 2331720,
+        "width": 3200400,
+        "height": 3383280,
+        "type": "TEXT_BOX (17)",
+        "text": [
+          "Identify all actors (Admin, User, etc.)",
+          "List each actor's use cases",
+          "Show include / extend relationships",
+          "Keep it to system-level interactions",
+          "Export as image and paste here"
+        ]
+      },
+      {
+        "shape_idx": 10,
+        "name": "Text 10",
+        "left": 457200,
+        "top": 6473952,
+        "width": 5486400,
+        "height": 274320,
+        "type": "TEXT_BOX (17)",
+        "text": [
+          "Use Case"
+        ]
+      },
+      {
+        "shape_idx": 11,
+        "name": "Text 11",
+        "left": 6245352,
+        "top": 6473952,
+        "width": 5486400,
+        "height": 274320,
+        "type": "TEXT_BOX (17)",
+        "text": [
+          "Review 1 & 2  |  MERN Stack Project"
+        ]
+      }
+    ]
+  },
+  {
+    "slide_num": 5,
+    "shapes": [
+      {
+        "shape_idx": 0,
+        "name": "Shape 0",
+        "left": 457200,
+        "top": 457200,
+        "width": 502920,
+        "height": 502920,
+        "type": "AUTO_SHAPE (1)",
+        "text": []
+      },
+      {
+        "shape_idx": 1,
+        "name": "Text 1",
+        "left": 457200,
+        "top": 457200,
+        "width": 502920,
+        "height": 502920,
+        "type": "TEXT_BOX (17)",
+        "text": [
+          "04"
+        ]
+      },
+      {
+        "shape_idx": 2,
+        "name": "Text 2",
+        "left": 1097280,
+        "top": 457200,
+        "width": 5486400,
+        "height": 274320,
+        "type": "TEXT_BOX (17)",
+        "text": [
+          "ER DIAGRAM"
+        ]
+      },
+      {
+        "shape_idx": 3,
+        "name": "Text 3",
+        "left": 1097280,
+        "top": 713232,
+        "width": 10515600,
+        "height": 548640,
+        "type": "TEXT_BOX (17)",
+        "text": [
+          "ER Diagram / Database Design"
+        ]
+      },
+      {
+        "shape_idx": 4,
+        "name": "Shape 4",
+        "left": 1097280,
+        "top": 1371600,
+        "width": 10607040,
+        "height": 0,
+        "type": "AUTO_SHAPE (1)",
+        "text": []
+      },
+      {
+        "shape_idx": 5,
+        "name": "Shape 5",
+        "left": 1097280,
+        "top": 1737360,
+        "width": 6035040,
+        "height": 4114800,
+        "type": "AUTO_SHAPE (1)",
+        "text": []
+      },
+      {
+        "shape_idx": 6,
+        "name": "Text 6",
+        "left": 1280160,
+        "top": 3474720,
+        "width": 5669280,
+        "height": 731520,
+        "type": "TEXT_BOX (17)",
+        "text": [
+          "Insert your ER Diagram",
+          "(entities, attributes & relationships)"
+        ]
+      },
+      {
+        "shape_idx": 7,
+        "name": "Shape 7",
+        "left": 7406640,
+        "top": 1737360,
+        "width": 3657600,
+        "height": 4114800,
+        "type": "AUTO_SHAPE (1)",
+        "text": []
+      },
+      {
+        "shape_idx": 8,
+        "name": "Text 8",
+        "left": 7635240,
+        "top": 1920240,
+        "width": 3200400,
+        "height": 320040,
+        "type": "TEXT_BOX (17)",
+        "text": [
+          "Include"
+        ]
+      },
+      {
+        "shape_idx": 9,
+        "name": "Text 9",
+        "left": 7635240,
+        "top": 2331720,
+        "width": 3200400,
+        "height": 3383280,
+        "type": "TEXT_BOX (17)",
+        "text": [
+          "List entities and attributes",
+          "Mark primary & foreign keys",
+          "Show relationships (1:1, 1:N, N:N)",
+          "Reflect actual MongoDB collections",
+          "Note any embedded vs. referenced docs"
+        ]
+      },
+      {
+        "shape_idx": 10,
+        "name": "Text 10",
+        "left": 457200,
+        "top": 6473952,
+        "width": 5486400,
+        "height": 274320,
+        "type": "TEXT_BOX (17)",
+        "text": [
+          "ER Diagram"
+        ]
+      },
+      {
+        "shape_idx": 11,
+        "name": "Text 11",
+        "left": 6245352,
+        "top": 6473952,
+        "width": 5486400,
+        "height": 274320,
+        "type": "TEXT_BOX (17)",
+        "text": [
+          "Review 1 & 2  |  MERN Stack Project"
+        ]
+      }
+    ]
+  },
+  {
+    "slide_num": 6,
+    "shapes": [
+      {
+        "shape_idx": 0,
+        "name": "Shape 0",
+        "left": 457200,
+        "top": 457200,
+        "width": 502920,
+        "height": 502920,
+        "type": "AUTO_SHAPE (1)",
+        "text": []
+      },
+      {
+        "shape_idx": 1,
+        "name": "Text 1",
+        "left": 457200,
+        "top": 457200,
+        "width": 502920,
+        "height": 502920,
+        "type": "TEXT_BOX (17)",
+        "text": [
+          "05"
+        ]
+      },
+      {
+        "shape_idx": 2,
+        "name": "Text 2",
+        "left": 1097280,
+        "top": 457200,
+        "width": 5486400,
+        "height": 274320,
+        "type": "TEXT_BOX (17)",
+        "text": [
+          "MODULES"
+        ]
+      },
+      {
+        "shape_idx": 3,
+        "name": "Text 3",
+        "left": 1097280,
+        "top": 713232,
+        "width": 10515600,
+        "height": 548640,
+        "type": "TEXT_BOX (17)",
+        "text": [
+          "Module Description"
+        ]
+      },
+      {
+        "shape_idx": 4,
+        "name": "Shape 4",
+        "left": 1097280,
+        "top": 1371600,
+        "width": 10607040,
+        "height": 0,
+        "type": "AUTO_SHAPE (1)",
+        "text": []
+      },
+      {
+        "shape_idx": 5,
+        "name": "Table 0",
+        "left": 1097280,
+        "top": 1691640,
+        "width": 9966960,
+        "height": 2743200,
+        "type": "TABLE (19)",
+        "table": [
+          [
+            "Module",
+            "Description",
+            "Key Functions"
+          ],
+          [
+            "User Management",
+            "Registration, login & role handling",
+            "Signup, Login, JWT Auth"
+          ],
+          [
+            "Core Module 1",
+            "[Project-specific main feature]",
+            "Create, View, Update"
+          ],
+          [
+            "Core Module 2",
+            "[Project-specific supporting feature]",
+            "Search, Filter, Sort"
+          ],
+          [
+            "Admin Module",
+            "Manage users & records",
+            "Approve, Delete, Reports"
+          ],
+          [
+            "Notification Module",
+            "Alerts & status updates",
+            "Email / In-app alerts"
+          ]
+        ]
+      },
+      {
+        "shape_idx": 6,
+        "name": "Text 5",
+        "left": 457200,
+        "top": 6473952,
+        "width": 5486400,
+        "height": 274320,
+        "type": "TEXT_BOX (17)",
+        "text": [
+          "Modules"
+        ]
+      },
+      {
+        "shape_idx": 7,
+        "name": "Text 6",
+        "left": 6245352,
+        "top": 6473952,
+        "width": 5486400,
+        "height": 274320,
+        "type": "TEXT_BOX (17)",
+        "text": [
+          "Review 1 & 2  |  MERN Stack Project"
+        ]
+      }
+    ]
+  },
+  {
+    "slide_num": 7,
+    "shapes": [
+      {
+        "shape_idx": 0,
+        "name": "Shape 0",
+        "left": 457200,
+        "top": 457200,
+        "width": 502920,
+        "height": 502920,
+        "type": "AUTO_SHAPE (1)",
+        "text": []
+      },
+      {
+        "shape_idx": 1,
+        "name": "Text 1",
+        "left": 457200,
+        "top": 457200,
+        "width": 502920,
+        "height": 502920,
+        "type": "TEXT_BOX (17)",
+        "text": [
+          "06"
+        ]
+      },
+      {
+        "shape_idx": 2,
+        "name": "Text 2",
+        "left": 1097280,
+        "top": 457200,
+        "width": 5486400,
+        "height": 274320,
+        "type": "TEXT_BOX (17)",
+        "text": [
+          "TECH STACK"
+        ]
+      },
+      {
+        "shape_idx": 3,
+        "name": "Text 3",
+        "left": 1097280,
+        "top": 713232,
+        "width": 10515600,
+        "height": 548640,
+        "type": "TEXT_BOX (17)",
+        "text": [
+          "Technology Stack"
+        ]
+      },
+      {
+        "shape_idx": 4,
+        "name": "Shape 4",
+        "left": 1097280,
+        "top": 1371600,
+        "width": 10607040,
+        "height": 0,
+        "type": "AUTO_SHAPE (1)",
+        "text": []
+      },
+      {
+        "shape_idx": 5,
+        "name": "Shape 5",
+        "left": 1097280,
+        "top": 1920240,
+        "width": 2331720,
+        "height": 1737360,
+        "type": "AUTO_SHAPE (1)",
+        "text": []
+      },
+      {
+        "shape_idx": 6,
+        "name": "Text 6",
+        "left": 1097280,
+        "top": 2377440,
+        "width": 2331720,
+        "height": 457200,
+        "type": "TEXT_BOX (17)",
+        "text": [
+          "MongoDB"
+        ]
+      },
+      {
+        "shape_idx": 7,
+        "name": "Text 7",
+        "left": 1097280,
+        "top": 2880360,
+        "width": 2331720,
+        "height": 457200,
+        "type": "TEXT_BOX (17)",
+        "text": [
+          "NoSQL Database"
+        ]
+      },
+      {
+        "shape_idx": 8,
+        "name": "Shape 8",
+        "left": 3657600,
+        "top": 1920240,
+        "width": 2331720,
+        "height": 1737360,
+        "type": "AUTO_SHAPE (1)",
+        "text": []
+      },
+      {
+        "shape_idx": 9,
+        "name": "Text 9",
+        "left": 3657600,
+        "top": 2377440,
+        "width": 2331720,
+        "height": 457200,
+        "type": "TEXT_BOX (17)",
+        "text": [
+          "Express.js"
+        ]
+      },
+      {
+        "shape_idx": 10,
+        "name": "Text 10",
+        "left": 3657600,
+        "top": 2880360,
+        "width": 2331720,
+        "height": 457200,
+        "type": "TEXT_BOX (17)",
+        "text": [
+          "Backend Framework"
+        ]
+      },
+      {
+        "shape_idx": 11,
+        "name": "Shape 11",
+        "left": 6217920,
+        "top": 1920240,
+        "width": 2331720,
+        "height": 1737360,
+        "type": "AUTO_SHAPE (1)",
+        "text": []
+      },
+      {
+        "shape_idx": 12,
+        "name": "Text 12",
+        "left": 6217920,
+        "top": 2377440,
+        "width": 2331720,
+        "height": 457200,
+        "type": "TEXT_BOX (17)",
+        "text": [
+          "React.js"
+        ]
+      },
+      {
+        "shape_idx": 13,
+        "name": "Text 13",
+        "left": 6217920,
+        "top": 2880360,
+        "width": 2331720,
+        "height": 457200,
+        "type": "TEXT_BOX (17)",
+        "text": [
+          "Frontend Library"
+        ]
+      },
+      {
+        "shape_idx": 14,
+        "name": "Shape 14",
+        "left": 8778240,
+        "top": 1920240,
+        "width": 2331720,
+        "height": 1737360,
+        "type": "AUTO_SHAPE (1)",
+        "text": []
+      },
+      {
+        "shape_idx": 15,
+        "name": "Text 15",
+        "left": 8778240,
+        "top": 2377440,
+        "width": 2331720,
+        "height": 457200,
+        "type": "TEXT_BOX (17)",
+        "text": [
+          "Node.js"
+        ]
+      },
+      {
+        "shape_idx": 16,
+        "name": "Text 16",
+        "left": 8778240,
+        "top": 2880360,
+        "width": 2331720,
+        "height": 457200,
+        "type": "TEXT_BOX (17)",
+        "text": [
+          "Runtime Environment"
+        ]
+      },
+      {
+        "shape_idx": 17,
+        "name": "Text 17",
+        "left": 1097280,
+        "top": 3977640,
+        "width": 4572000,
+        "height": 365760,
+        "type": "TEXT_BOX (17)",
+        "text": [
+          "Supporting Tools"
+        ]
+      },
+      {
+        "shape_idx": 18,
+        "name": "Text 18",
+        "left": 1097280,
+        "top": 4434840,
+        "width": 9966960,
+        "height": 1554480,
+        "type": "TEXT_BOX (17)",
+        "text": [
+          "Mongoose (ODM)",
+          "JWT & bcrypt (auth/security)",
+          "Postman (API testing)",
+          "Git & GitHub (version control)",
+          "VS Code, npm",
+          "Axios (HTTP client)"
+        ]
+      },
+      {
+        "shape_idx": 19,
+        "name": "Text 19",
+        "left": 457200,
+        "top": 6473952,
+        "width": 5486400,
+        "height": 274320,
+        "type": "TEXT_BOX (17)",
+        "text": [
+          "Tech Stack"
+        ]
+      },
+      {
+        "shape_idx": 20,
+        "name": "Text 20",
+        "left": 6245352,
+        "top": 6473952,
+        "width": 5486400,
+        "height": 274320,
+        "type": "TEXT_BOX (17)",
+        "text": [
+          "Review 1 & 2  |  MERN Stack Project"
+        ]
+      }
+    ]
+  },
+  {
+    "slide_num": 8,
+    "shapes": [
+      {
+        "shape_idx": 0,
+        "name": "Shape 0",
+        "left": 457200,
+        "top": 457200,
+        "width": 502920,
+        "height": 502920,
+        "type": "AUTO_SHAPE (1)",
+        "text": []
+      },
+      {
+        "shape_idx": 1,
+        "name": "Text 1",
+        "left": 457200,
+        "top": 457200,
+        "width": 502920,
+        "height": 502920,
+        "type": "TEXT_BOX (17)",
+        "text": [
+          "07"
+        ]
+      },
+      {
+        "shape_idx": 2,
+        "name": "Text 2",
+        "left": 1097280,
+        "top": 457200,
+        "width": 5486400,
+        "height": 274320,
+        "type": "TEXT_BOX (17)",
+        "text": [
+          "UI DESIGN"
+        ]
+      },
+      {
+        "shape_idx": 3,
+        "name": "Text 3",
+        "left": 1097280,
+        "top": 713232,
+        "width": 10515600,
+        "height": 548640,
+        "type": "TEXT_BOX (17)",
+        "text": [
+          "UI Design / Wireframes"
+        ]
+      },
+      {
+        "shape_idx": 4,
+        "name": "Shape 4",
+        "left": 1097280,
+        "top": 1371600,
+        "width": 10607040,
+        "height": 0,
+        "type": "AUTO_SHAPE (1)",
+        "text": []
+      },
+      {
+        "shape_idx": 5,
+        "name": "Shape 5",
+        "left": 1097280,
+        "top": 1737360,
+        "width": 6035040,
+        "height": 4114800,
+        "type": "AUTO_SHAPE (1)",
+        "text": []
+      },
+      {
+        "shape_idx": 6,
+        "name": "Text 6",
+        "left": 1280160,
+        "top": 3474720,
+        "width": 5669280,
+        "height": 731520,
+        "type": "TEXT_BOX (17)",
+        "text": [
+          "Insert wireframes / mockups",
+          "for key application screens"
+        ]
+      },
+      {
+        "shape_idx": 7,
+        "name": "Shape 7",
+        "left": 7406640,
+        "top": 1737360,
+        "width": 3657600,
+        "height": 4114800,
+        "type": "AUTO_SHAPE (1)",
+        "text": []
+      },
+      {
+        "shape_idx": 8,
+        "name": "Text 8",
+        "left": 7635240,
+        "top": 1920240,
+        "width": 3200400,
+        "height": 320040,
+        "type": "TEXT_BOX (17)",
+        "text": [
+          "Include"
+        ]
+      },
+      {
+        "shape_idx": 9,
+        "name": "Text 9",
+        "left": 7635240,
+        "top": 2331720,
+        "width": 3200400,
+        "height": 3383280,
+        "type": "TEXT_BOX (17)",
+        "text": [
+          "Show key screen wireframes",
+          "Login/Signup, Dashboard, Core screens",
+          "Note responsive breakpoints",
+          "Mention design tool used (Figma, etc.)",
+          "Replace with real wireframe images"
+        ]
+      },
+      {
+        "shape_idx": 10,
+        "name": "Text 10",
+        "left": 457200,
+        "top": 6473952,
+        "width": 5486400,
+        "height": 274320,
+        "type": "TEXT_BOX (17)",
+        "text": [
+          "UI Design"
+        ]
+      },
+      {
+        "shape_idx": 11,
+        "name": "Text 11",
+        "left": 6245352,
+        "top": 6473952,
+        "width": 5486400,
+        "height": 274320,
+        "type": "TEXT_BOX (17)",
+        "text": [
+          "Review 1 & 2  |  MERN Stack Project"
+        ]
+      }
+    ]
+  },
+  {
+    "slide_num": 9,
+    "shapes": [
+      {
+        "shape_idx": 0,
+        "name": "Shape 0",
+        "left": 457200,
+        "top": 457200,
+        "width": 502920,
+        "height": 502920,
+        "type": "AUTO_SHAPE (1)",
+        "text": []
+      },
+      {
+        "shape_idx": 1,
+        "name": "Text 1",
+        "left": 457200,
+        "top": 457200,
+        "width": 502920,
+        "height": 502920,
+        "type": "TEXT_BOX (17)",
+        "text": [
+          "08"
+        ]
+      },
+      {
+        "shape_idx": 2,
+        "name": "Text 2",
+        "left": 1097280,
+        "top": 457200,
+        "width": 5486400,
+        "height": 274320,
+        "type": "TEXT_BOX (17)",
+        "text": [
+          "FRONTEND"
+        ]
+      },
+      {
+        "shape_idx": 3,
+        "name": "Text 3",
+        "left": 1097280,
+        "top": 713232,
+        "width": 10515600,
+        "height": 548640,
+        "type": "TEXT_BOX (17)",
+        "text": [
+          "Frontend Development"
+        ]
+      },
+      {
+        "shape_idx": 4,
+        "name": "Shape 4",
+        "left": 1097280,
+        "top": 1371600,
+        "width": 10607040,
+        "height": 0,
+        "type": "AUTO_SHAPE (1)",
+        "text": []
+      },
+      {
+        "shape_idx": 5,
+        "name": "Text 5",
+        "left": 1097280,
+        "top": 1691640,
+        "width": 9875520,
+        "height": 4206240,
+        "type": "TEXT_BOX (17)",
+        "text": [
+          "Built with React.js using functional components & hooks",
+          "Component-based structure: Navbar, Forms, Cards, Tables, Modals",
+          "State management via Context API / Redux",
+          "Client-side routing implemented with React Router",
+          "Axios used to consume backend REST APIs",
+          "Responsive UI styled with [Tailwind / Bootstrap / CSS Modules]"
+        ]
+      },
+      {
+        "shape_idx": 6,
+        "name": "Shape 6",
+        "left": 1097280,
+        "top": 5623560,
+        "width": 9966960,
+        "height": 594360,
+        "type": "AUTO_SHAPE (1)",
+        "text": []
+      },
+      {
+        "shape_idx": 7,
+        "name": "Text 7",
+        "left": 1325880,
+        "top": 5623560,
+        "width": 9509760,
+        "height": 594360,
+        "type": "TEXT_BOX (17)",
+        "text": [
+          "Tip: list the actual pages/components completed so far, e.g. Login, Dashboard, Profile, Item List."
+        ]
+      },
+      {
+        "shape_idx": 8,
+        "name": "Text 8",
+        "left": 457200,
+        "top": 6473952,
+        "width": 5486400,
+        "height": 274320,
+        "type": "TEXT_BOX (17)",
+        "text": [
+          "Frontend"
+        ]
+      },
+      {
+        "shape_idx": 9,
+        "name": "Text 9",
+        "left": 6245352,
+        "top": 6473952,
+        "width": 5486400,
+        "height": 274320,
+        "type": "TEXT_BOX (17)",
+        "text": [
+          "Review 1 & 2  |  MERN Stack Project"
+        ]
+      }
+    ]
+  },
+  {
+    "slide_num": 10,
+    "shapes": [
+      {
+        "shape_idx": 0,
+        "name": "Shape 0",
+        "left": 457200,
+        "top": 457200,
+        "width": 502920,
+        "height": 502920,
+        "type": "AUTO_SHAPE (1)",
+        "text": []
+      },
+      {
+        "shape_idx": 1,
+        "name": "Text 1",
+        "left": 457200,
+        "top": 457200,
+        "width": 502920,
+        "height": 502920,
+        "type": "TEXT_BOX (17)",
+        "text": [
+          "09"
+        ]
+      },
+      {
+        "shape_idx": 2,
+        "name": "Text 2",
+        "left": 1097280,
+        "top": 457200,
+        "width": 5486400,
+        "height": 274320,
+        "type": "TEXT_BOX (17)",
+        "text": [
+          "BACKEND"
+        ]
+      },
+      {
+        "shape_idx": 3,
+        "name": "Text 3",
+        "left": 1097280,
+        "top": 713232,
+        "width": 10515600,
+        "height": 548640,
+        "type": "TEXT_BOX (17)",
+        "text": [
+          "Backend Development"
+        ]
+      },
+      {
+        "shape_idx": 4,
+        "name": "Shape 4",
+        "left": 1097280,
+        "top": 1371600,
+        "width": 10607040,
+        "height": 0,
+        "type": "AUTO_SHAPE (1)",
+        "text": []
+      },
+      {
+        "shape_idx": 5,
+        "name": "Text 5",
+        "left": 1097280,
+        "top": 1691640,
+        "width": 9875520,
+        "height": 4206240,
+        "type": "TEXT_BOX (17)",
+        "text": [
+          "Node.js + Express.js server with modular route structure",
+          "MVC pattern: separate routes, controllers & models",
+          "Authentication middleware using JWT",
+          "Input validation & centralized error handling",
+          "Environment-based configuration (.env, dotenv)",
+          "Server tested locally with Postman before integration"
+        ]
+      },
+      {
+        "shape_idx": 6,
+        "name": "Shape 6",
+        "left": 1097280,
+        "top": 5623560,
+        "width": 9966960,
+        "height": 594360,
+        "type": "AUTO_SHAPE (1)",
+        "text": []
+      },
+      {
+        "shape_idx": 7,
+        "name": "Text 7",
+        "left": 1325880,
+        "top": 5623560,
+        "width": 9509760,
+        "height": 594360,
+        "type": "TEXT_BOX (17)",
+        "text": [
+          "Tip: mention specific middleware, validation library, or error-handling strategy you used."
+        ]
+      },
+      {
+        "shape_idx": 8,
+        "name": "Text 8",
+        "left": 457200,
+        "top": 6473952,
+        "width": 5486400,
+        "height": 274320,
+        "type": "TEXT_BOX (17)",
+        "text": [
+          "Backend"
+        ]
+      },
+      {
+        "shape_idx": 9,
+        "name": "Text 9",
+        "left": 6245352,
+        "top": 6473952,
+        "width": 5486400,
+        "height": 274320,
+        "type": "TEXT_BOX (17)",
+        "text": [
+          "Review 1 & 2  |  MERN Stack Project"
+        ]
+      }
+    ]
+  },
+  {
+    "slide_num": 11,
+    "shapes": [
+      {
+        "shape_idx": 0,
+        "name": "Shape 0",
+        "left": 457200,
+        "top": 457200,
+        "width": 502920,
+        "height": 502920,
+        "type": "AUTO_SHAPE (1)",
+        "text": []
+      },
+      {
+        "shape_idx": 1,
+        "name": "Text 1",
+        "left": 457200,
+        "top": 457200,
+        "width": 502920,
+        "height": 502920,
+        "type": "TEXT_BOX (17)",
+        "text": [
+          "10"
+        ]
+      },
+      {
+        "shape_idx": 2,
+        "name": "Text 2",
+        "left": 1097280,
+        "top": 457200,
+        "width": 5486400,
+        "height": 274320,
+        "type": "TEXT_BOX (17)",
+        "text": [
+          "DATABASE"
+        ]
+      },
+      {
+        "shape_idx": 3,
+        "name": "Text 3",
+        "left": 1097280,
+        "top": 713232,
+        "width": 10515600,
+        "height": 548640,
+        "type": "TEXT_BOX (17)",
+        "text": [
+          "Database Integration"
+        ]
+      },
+      {
+        "shape_idx": 4,
+        "name": "Shape 4",
+        "left": 1097280,
+        "top": 1371600,
+        "width": 10607040,
+        "height": 0,
+        "type": "AUTO_SHAPE (1)",
+        "text": []
+      },
+      {
+        "shape_idx": 5,
+        "name": "Text 5",
+        "left": 1097280,
+        "top": 1691640,
+        "width": 9875520,
+        "height": 4206240,
+        "type": "TEXT_BOX (17)",
+        "text": [
+          "MongoDB Atlas / local MongoDB used as the data store",
+          "Mongoose schemas defined for each collection",
+          "Relationships modeled via referencing / embedding",
+          "Indexes added for frequently queried fields",
+          "CRUD operations connected end-to-end with the backend",
+          "Sample data seeded for testing during development"
+        ]
+      },
+      {
+        "shape_idx": 6,
+        "name": "Shape 6",
+        "left": 1097280,
+        "top": 5623560,
+        "width": 9966960,
+        "height": 594360,
+        "type": "AUTO_SHAPE (1)",
+        "text": []
+      },
+      {
+        "shape_idx": 7,
+        "name": "Text 7",
+        "left": 1325880,
+        "top": 5623560,
+        "width": 9509760,
+        "height": 594360,
+        "type": "TEXT_BOX (17)",
+        "text": [
+          "Tip: name your actual collections (e.g. Users, Products, Orders) here."
+        ]
+      },
+      {
+        "shape_idx": 8,
+        "name": "Text 8",
+        "left": 457200,
+        "top": 6473952,
+        "width": 5486400,
+        "height": 274320,
+        "type": "TEXT_BOX (17)",
+        "text": [
+          "Database"
+        ]
+      },
+      {
+        "shape_idx": 9,
+        "name": "Text 9",
+        "left": 6245352,
+        "top": 6473952,
+        "width": 5486400,
+        "height": 274320,
+        "type": "TEXT_BOX (17)",
+        "text": [
+          "Review 1 & 2  |  MERN Stack Project"
+        ]
+      }
+    ]
+  },
+  {
+    "slide_num": 12,
+    "shapes": [
+      {
+        "shape_idx": 0,
+        "name": "Shape 0",
+        "left": 457200,
+        "top": 457200,
+        "width": 502920,
+        "height": 502920,
+        "type": "AUTO_SHAPE (1)",
+        "text": []
+      },
+      {
+        "shape_idx": 1,
+        "name": "Text 1",
+        "left": 457200,
+        "top": 457200,
+        "width": 502920,
+        "height": 502920,
+        "type": "TEXT_BOX (17)",
+        "text": [
+          "11"
+        ]
+      },
+      {
+        "shape_idx": 2,
+        "name": "Text 2",
+        "left": 1097280,
+        "top": 457200,
+        "width": 5486400,
+        "height": 274320,
+        "type": "TEXT_BOX (17)",
+        "text": [
+          "API"
+        ]
+      },
+      {
+        "shape_idx": 3,
+        "name": "Text 3",
+        "left": 1097280,
+        "top": 713232,
+        "width": 10515600,
+        "height": 548640,
+        "type": "TEXT_BOX (17)",
+        "text": [
+          "API Development"
+        ]
+      },
+      {
+        "shape_idx": 4,
+        "name": "Shape 4",
+        "left": 1097280,
+        "top": 1371600,
+        "width": 10607040,
+        "height": 0,
+        "type": "AUTO_SHAPE (1)",
+        "text": []
+      },
+      {
+        "shape_idx": 5,
+        "name": "Table 0",
+        "left": 1097280,
+        "top": 1691640,
+        "width": 9966960,
+        "height": 3200400,
+        "type": "TABLE (19)",
+        "table": [
+          [
+            "Method",
+            "Endpoint",
+            "Description"
+          ],
+          [
+            "POST",
+            "/api/auth/register",
+            "Register a new user"
+          ],
+          [
+            "POST",
+            "/api/auth/login",
+            "Authenticate & issue JWT"
+          ],
+          [
+            "GET",
+            "/api/items",
+            "Fetch all records"
+          ],
+          [
+            "POST",
+            "/api/items",
+            "Create a new record"
+          ],
+          [
+            "PUT",
+            "/api/items/:id",
+            "Update an existing record"
+          ],
+          [
+            "DELETE",
+            "/api/items/:id",
+            "Delete a record"
+          ]
+        ]
+      },
+      {
+        "shape_idx": 6,
+        "name": "Text 5",
+        "left": 457200,
+        "top": 6473952,
+        "width": 5486400,
+        "height": 274320,
+        "type": "TEXT_BOX (17)",
+        "text": [
+          "API"
+        ]
+      },
+      {
+        "shape_idx": 7,
+        "name": "Text 6",
+        "left": 6245352,
+        "top": 6473952,
+        "width": 5486400,
+        "height": 274320,
+        "type": "TEXT_BOX (17)",
+        "text": [
+          "Review 1 & 2  |  MERN Stack Project"
+        ]
+      }
+    ]
+  },
+  {
+    "slide_num": 13,
+    "shapes": [
+      {
+        "shape_idx": 0,
+        "name": "Shape 0",
+        "left": 457200,
+        "top": 457200,
+        "width": 502920,
+        "height": 502920,
+        "type": "AUTO_SHAPE (1)",
+        "text": []
+      },
+      {
+        "shape_idx": 1,
+        "name": "Text 1",
+        "left": 457200,
+        "top": 457200,
+        "width": 502920,
+        "height": 502920,
+        "type": "TEXT_BOX (17)",
+        "text": [
+          "12"
+        ]
+      },
+      {
+        "shape_idx": 2,
+        "name": "Text 2",
+        "left": 1097280,
+        "top": 457200,
+        "width": 5486400,
+        "height": 274320,
+        "type": "TEXT_BOX (17)",
+        "text": [
+          "STATUS"
+        ]
+      },
+      {
+        "shape_idx": 3,
+        "name": "Text 3",
+        "left": 1097280,
+        "top": 713232,
+        "width": 10515600,
+        "height": 548640,
+        "type": "TEXT_BOX (17)",
+        "text": [
+          "Module-wise Implementation Status"
+        ]
+      },
+      {
+        "shape_idx": 4,
+        "name": "Shape 4",
+        "left": 1097280,
+        "top": 1371600,
+        "width": 10607040,
+        "height": 0,
+        "type": "AUTO_SHAPE (1)",
+        "text": []
+      },
+      {
+        "shape_idx": 5,
+        "name": "Text 5",
+        "left": 1097280,
+        "top": 1828800,
+        "width": 3291840,
+        "height": 384048,
+        "type": "TEXT_BOX (17)",
+        "text": [
+          "User Authentication"
+        ]
+      },
+      {
+        "shape_idx": 6,
+        "name": "Shape 6",
+        "left": 4572000,
+        "top": 1883664,
+        "width": 5486400,
+        "height": 274320,
+        "type": "AUTO_SHAPE (1)",
+        "text": []
+      },
+      {
+        "shape_idx": 7,
+        "name": "Shape 7",
+        "left": 4572000,
+        "top": 1883664,
+        "width": 5486400,
+        "height": 274320,
+        "type": "AUTO_SHAPE (1)",
+        "text": []
+      },
+      {
+        "shape_idx": 8,
+        "name": "Text 8",
+        "left": 10149840,
+        "top": 1828800,
+        "width": 822960,
+        "height": 384048,
+        "type": "TEXT_BOX (17)",
+        "text": [
+          "100%"
+        ]
+      },
+      {
+        "shape_idx": 9,
+        "name": "Text 9",
+        "left": 1097280,
+        "top": 2450592,
+        "width": 3291840,
+        "height": 384048,
+        "type": "TEXT_BOX (17)",
+        "text": [
+          "Frontend UI (Core Screens)"
+        ]
+      },
+      {
+        "shape_idx": 10,
+        "name": "Shape 10",
+        "left": 4572000,
+        "top": 2505456,
+        "width": 5486400,
+        "height": 274320,
+        "type": "AUTO_SHAPE (1)",
+        "text": []
+      },
+      {
+        "shape_idx": 11,
+        "name": "Shape 11",
+        "left": 4572000,
+        "top": 2505456,
+        "width": 4389120,
+        "height": 274320,
+        "type": "AUTO_SHAPE (1)",
+        "text": []
+      },
+      {
+        "shape_idx": 12,
+        "name": "Text 12",
+        "left": 10149840,
+        "top": 2450592,
+        "width": 822960,
+        "height": 384048,
+        "type": "TEXT_BOX (17)",
+        "text": [
+          "80%"
+        ]
+      },
+      {
+        "shape_idx": 13,
+        "name": "Text 13",
+        "left": 1097280,
+        "top": 3072384,
+        "width": 3291840,
+        "height": 384048,
+        "type": "TEXT_BOX (17)",
+        "text": [
+          "Backend APIs"
+        ]
+      },
+      {
+        "shape_idx": 14,
+        "name": "Shape 14",
+        "left": 4572000,
+        "top": 3127248,
+        "width": 5486400,
+        "height": 274320,
+        "type": "AUTO_SHAPE (1)",
+        "text": []
+      },
+      {
+        "shape_idx": 15,
+        "name": "Shape 15",
+        "left": 4572000,
+        "top": 3127248,
+        "width": 4114800,
+        "height": 274320,
+        "type": "AUTO_SHAPE (1)",
+        "text": []
+      },
+      {
+        "shape_idx": 16,
+        "name": "Text 16",
+        "left": 10149840,
+        "top": 3072384,
+        "width": 822960,
+        "height": 384048,
+        "type": "TEXT_BOX (17)",
+        "text": [
+          "75%"
+        ]
+      },
+      {
+        "shape_idx": 17,
+        "name": "Text 17",
+        "left": 1097280,
+        "top": 3694176,
+        "width": 3291840,
+        "height": 384048,
+        "type": "TEXT_BOX (17)",
+        "text": [
+          "Database Integration"
+        ]
+      },
+      {
+        "shape_idx": 18,
+        "name": "Shape 18",
+        "left": 4572000,
+        "top": 3749040,
+        "width": 5486400,
+        "height": 274320,
+        "type": "AUTO_SHAPE (1)",
+        "text": []
+      },
+      {
+        "shape_idx": 19,
+        "name": "Shape 19",
+        "left": 4572000,
+        "top": 3749040,
+        "width": 3840480,
+        "height": 274320,
+        "type": "AUTO_SHAPE (1)",
+        "text": []
+      },
+      {
+        "shape_idx": 20,
+        "name": "Text 20",
+        "left": 10149840,
+        "top": 3694176,
+        "width": 822960,
+        "height": 384048,
+        "type": "TEXT_BOX (17)",
+        "text": [
+          "70%"
+        ]
+      },
+      {
+        "shape_idx": 21,
+        "name": "Text 21",
+        "left": 1097280,
+        "top": 4315968,
+        "width": 3291840,
+        "height": 384048,
+        "type": "TEXT_BOX (17)",
+        "text": [
+          "Admin Module"
+        ]
+      },
+      {
+        "shape_idx": 22,
+        "name": "Shape 22",
+        "left": 4572000,
+        "top": 4370832,
+        "width": 5486400,
+        "height": 274320,
+        "type": "AUTO_SHAPE (1)",
+        "text": []
+      },
+      {
+        "shape_idx": 23,
+        "name": "Shape 23",
+        "left": 4572000,
+        "top": 4370832,
+        "width": 2743200,
+        "height": 274320,
+        "type": "AUTO_SHAPE (1)",
+        "text": []
+      },
+      {
+        "shape_idx": 24,
+        "name": "Text 24",
+        "left": 10149840,
+        "top": 4315968,
+        "width": 822960,
+        "height": 384048,
+        "type": "TEXT_BOX (17)",
+        "text": [
+          "50%"
+        ]
+      },
+      {
+        "shape_idx": 25,
+        "name": "Text 25",
+        "left": 1097280,
+        "top": 4937760,
+        "width": 3291840,
+        "height": 384048,
+        "type": "TEXT_BOX (17)",
+        "text": [
+          "Notifications"
+        ]
+      },
+      {
+        "shape_idx": 26,
+        "name": "Shape 26",
+        "left": 4572000,
+        "top": 4992624,
+        "width": 5486400,
+        "height": 274320,
+        "type": "AUTO_SHAPE (1)",
+        "text": []
+      },
+      {
+        "shape_idx": 27,
+        "name": "Shape 27",
+        "left": 4572000,
+        "top": 4992624,
+        "width": 1645920,
+        "height": 274320,
+        "type": "AUTO_SHAPE (1)",
+        "text": []
+      },
+      {
+        "shape_idx": 28,
+        "name": "Text 28",
+        "left": 10149840,
+        "top": 4937760,
+        "width": 822960,
+        "height": 384048,
+        "type": "TEXT_BOX (17)",
+        "text": [
+          "30%"
+        ]
+      },
+      {
+        "shape_idx": 29,
+        "name": "Text 29",
+        "left": 457200,
+        "top": 6473952,
+        "width": 5486400,
+        "height": 274320,
+        "type": "TEXT_BOX (17)",
+        "text": [
+          "Status"
+        ]
+      },
+      {
+        "shape_idx": 30,
+        "name": "Text 30",
+        "left": 6245352,
+        "top": 6473952,
+        "width": 5486400,
+        "height": 274320,
+        "type": "TEXT_BOX (17)",
+        "text": [
+          "Review 1 & 2  |  MERN Stack Project"
+        ]
+      }
+    ]
+  },
+  {
+    "slide_num": 14,
+    "shapes": [
+      {
+        "shape_idx": 0,
+        "name": "Shape 0",
+        "left": 457200,
+        "top": 457200,
+        "width": 502920,
+        "height": 502920,
+        "type": "AUTO_SHAPE (1)",
+        "text": []
+      },
+      {
+        "shape_idx": 1,
+        "name": "Text 1",
+        "left": 457200,
+        "top": 457200,
+        "width": 502920,
+        "height": 502920,
+        "type": "TEXT_BOX (17)",
+        "text": [
+          "13"
+        ]
+      },
+      {
+        "shape_idx": 2,
+        "name": "Text 2",
+        "left": 1097280,
+        "top": 457200,
+        "width": 5486400,
+        "height": 274320,
+        "type": "TEXT_BOX (17)",
+        "text": [
+          "SCREENSHOTS"
+        ]
+      },
+      {
+        "shape_idx": 3,
+        "name": "Text 3",
+        "left": 1097280,
+        "top": 713232,
+        "width": 10515600,
+        "height": 548640,
+        "type": "TEXT_BOX (17)",
+        "text": [
+          "Screenshots"
+        ]
+      },
+      {
+        "shape_idx": 4,
+        "name": "Shape 4",
+        "left": 1097280,
+        "top": 1371600,
+        "width": 10607040,
+        "height": 0,
+        "type": "AUTO_SHAPE (1)",
+        "text": []
+      },
+      {
+        "shape_idx": 5,
+        "name": "Shape 5",
+        "left": 1097280,
+        "top": 1737360,
+        "width": 4846320,
+        "height": 1783080,
+        "type": "AUTO_SHAPE (1)",
+        "text": []
+      },
+      {
+        "shape_idx": 6,
+        "name": "Text 6",
+        "left": 1097280,
+        "top": 1737360,
+        "width": 4846320,
+        "height": 1783080,
+        "type": "TEXT_BOX (17)",
+        "text": [
+          "[ Login / Signup Page screenshot ]"
+        ]
+      },
+      {
+        "shape_idx": 7,
+        "name": "Shape 7",
+        "left": 6217920,
+        "top": 1737360,
+        "width": 4846320,
+        "height": 1783080,
+        "type": "AUTO_SHAPE (1)",
+        "text": []
+      },
+      {
+        "shape_idx": 8,
+        "name": "Text 8",
+        "left": 6217920,
+        "top": 1737360,
+        "width": 4846320,
+        "height": 1783080,
+        "type": "TEXT_BOX (17)",
+        "text": [
+          "[ Dashboard screenshot ]"
+        ]
+      },
+      {
+        "shape_idx": 9,
+        "name": "Shape 9",
+        "left": 1097280,
+        "top": 3794760,
+        "width": 4846320,
+        "height": 1783080,
+        "type": "AUTO_SHAPE (1)",
+        "text": []
+      },
+      {
+        "shape_idx": 10,
+        "name": "Text 10",
+        "left": 1097280,
+        "top": 3794760,
+        "width": 4846320,
+        "height": 1783080,
+        "type": "TEXT_BOX (17)",
+        "text": [
+          "[ Core Feature Screen screenshot ]"
+        ]
+      },
+      {
+        "shape_idx": 11,
+        "name": "Shape 11",
+        "left": 6217920,
+        "top": 3794760,
+        "width": 4846320,
+        "height": 1783080,
+        "type": "AUTO_SHAPE (1)",
+        "text": []
+      },
+      {
+        "shape_idx": 12,
+        "name": "Text 12",
+        "left": 6217920,
+        "top": 3794760,
+        "width": 4846320,
+        "height": 1783080,
+        "type": "TEXT_BOX (17)",
+        "text": [
+          "[ Admin Panel screenshot ]"
+        ]
+      },
+      {
+        "shape_idx": 13,
+        "name": "Text 13",
+        "left": 457200,
+        "top": 6473952,
+        "width": 5486400,
+        "height": 274320,
+        "type": "TEXT_BOX (17)",
+        "text": [
+          "Screenshots"
+        ]
+      },
+      {
+        "shape_idx": 14,
+        "name": "Text 14",
+        "left": 6245352,
+        "top": 6473952,
+        "width": 5486400,
+        "height": 274320,
+        "type": "TEXT_BOX (17)",
+        "text": [
+          "Review 1 & 2  |  MERN Stack Project"
+        ]
+      }
+    ]
+  },
+  {
+    "slide_num": 15,
+    "shapes": [
+      {
+        "shape_idx": 0,
+        "name": "Shape 0",
+        "left": 457200,
+        "top": 457200,
+        "width": 502920,
+        "height": 502920,
+        "type": "AUTO_SHAPE (1)",
+        "text": []
+      },
+      {
+        "shape_idx": 1,
+        "name": "Text 1",
+        "left": 457200,
+        "top": 457200,
+        "width": 502920,
+        "height": 502920,
+        "type": "TEXT_BOX (17)",
+        "text": [
+          "14"
+        ]
+      },
+      {
+        "shape_idx": 2,
+        "name": "Text 2",
+        "left": 1097280,
+        "top": 457200,
+        "width": 5486400,
+        "height": 274320,
+        "type": "TEXT_BOX (17)",
+        "text": [
+          "CHALLENGES"
+        ]
+      },
+      {
+        "shape_idx": 3,
+        "name": "Text 3",
+        "left": 1097280,
+        "top": 713232,
+        "width": 10515600,
+        "height": 548640,
+        "type": "TEXT_BOX (17)",
+        "text": [
+          "Challenges Faced & Solutions"
+        ]
+      },
+      {
+        "shape_idx": 4,
+        "name": "Shape 4",
+        "left": 1097280,
+        "top": 1371600,
+        "width": 10607040,
+        "height": 0,
+        "type": "AUTO_SHAPE (1)",
+        "text": []
+      },
+      {
+        "shape_idx": 5,
+        "name": "Table 0",
+        "left": 1097280,
+        "top": 1691640,
+        "width": 9966960,
+        "height": 2286000,
+        "type": "TABLE (19)",
+        "table": [
+          [
+            "Challenge",
+            "Solution Adopted"
+          ],
+          [
+            "CORS errors during API integration",
+            "Configured CORS middleware in Express"
+          ],
+          [
+            "JWT token expiry handling",
+            "Implemented refresh-token / re-login flow"
+          ],
+          [
+            "State sync between components",
+            "Adopted Context API for shared state"
+          ],
+          [
+            "Slow query performance",
+            "Added MongoDB indexes on key fields"
+          ]
+        ]
+      },
+      {
+        "shape_idx": 6,
+        "name": "Text 5",
+        "left": 457200,
+        "top": 6473952,
+        "width": 5486400,
+        "height": 274320,
+        "type": "TEXT_BOX (17)",
+        "text": [
+          "Challenges"
+        ]
+      },
+      {
+        "shape_idx": 7,
+        "name": "Text 6",
+        "left": 6245352,
+        "top": 6473952,
+        "width": 5486400,
+        "height": 274320,
+        "type": "TEXT_BOX (17)",
+        "text": [
+          "Review 1 & 2  |  MERN Stack Project"
+        ]
+      }
+    ]
+  },
+  {
+    "slide_num": 16,
+    "shapes": [
+      {
+        "shape_idx": 0,
+        "name": "Shape 0",
+        "left": 457200,
+        "top": 457200,
+        "width": 502920,
+        "height": 502920,
+        "type": "AUTO_SHAPE (1)",
+        "text": []
+      },
+      {
+        "shape_idx": 1,
+        "name": "Text 1",
+        "left": 457200,
+        "top": 457200,
+        "width": 502920,
+        "height": 502920,
+        "type": "TEXT_BOX (17)",
+        "text": [
+          "15"
+        ]
+      },
+      {
+        "shape_idx": 2,
+        "name": "Text 2",
+        "left": 1097280,
+        "top": 457200,
+        "width": 5486400,
+        "height": 274320,
+        "type": "TEXT_BOX (17)",
+        "text": [
+          "NEXT STEPS"
+        ]
+      },
+      {
+        "shape_idx": 3,
+        "name": "Text 3",
+        "left": 1097280,
+        "top": 713232,
+        "width": 10515600,
+        "height": 548640,
+        "type": "TEXT_BOX (17)",
+        "text": [
+          "Remaining Work & Plan"
+        ]
+      },
+      {
+        "shape_idx": 4,
+        "name": "Shape 4",
+        "left": 1097280,
+        "top": 1371600,
+        "width": 10607040,
+        "height": 0,
+        "type": "AUTO_SHAPE (1)",
+        "text": []
+      },
+      {
+        "shape_idx": 5,
+        "name": "Text 5",
+        "left": 1097280,
+        "top": 1691640,
+        "width": 9875520,
+        "height": 4206240,
+        "type": "TEXT_BOX (17)",
+        "text": [
+          "Complete Admin Module: analytics dashboard & reports",
+          "Implement Notification Module (email / in-app alerts)",
+          "Conduct integration & user-acceptance testing",
+          "Improve UI polish, accessibility & responsiveness",
+          "Deploy application (Render/Vercel/Netlify + MongoDB Atlas)",
+          "Prepare final documentation & demo for final review"
+        ]
+      },
+      {
+        "shape_idx": 6,
+        "name": "Text 6",
+        "left": 457200,
+        "top": 6473952,
+        "width": 5486400,
+        "height": 274320,
+        "type": "TEXT_BOX (17)",
+        "text": [
+          "Next Steps"
+        ]
+      },
+      {
+        "shape_idx": 7,
+        "name": "Text 7",
+        "left": 6245352,
+        "top": 6473952,
+        "width": 5486400,
+        "height": 274320,
+        "type": "TEXT_BOX (17)",
+        "text": [
+          "Review 1 & 2  |  MERN Stack Project"
+        ]
+      }
+    ]
+  },
+  {
+    "slide_num": 17,
+    "shapes": [
+      {
+        "shape_idx": 0,
+        "name": "Shape 0",
+        "left": 457200,
+        "top": 457200,
+        "width": 502920,
+        "height": 502920,
+        "type": "AUTO_SHAPE (1)",
+        "text": []
+      },
+      {
+        "shape_idx": 1,
+        "name": "Text 1",
+        "left": 457200,
+        "top": 457200,
+        "width": 502920,
+        "height": 502920,
+        "type": "TEXT_BOX (17)",
+        "text": [
+          "16"
+        ]
+      },
+      {
+        "shape_idx": 2,
+        "name": "Text 2",
+        "left": 1097280,
+        "top": 457200,
+        "width": 5486400,
+        "height": 274320,
+        "type": "TEXT_BOX (17)",
+        "text": [
+          "NEXT STEPS"
+        ]
+      },
+      {
+        "shape_idx": 3,
+        "name": "Text 3",
+        "left": 1097280,
+        "top": 713232,
+        "width": 10515600,
+        "height": 548640,
+        "type": "TEXT_BOX (17)",
+        "text": [
+          "References"
+        ]
+      },
+      {
+        "shape_idx": 4,
+        "name": "Shape 4",
+        "left": 1097280,
+        "top": 1371600,
+        "width": 10607040,
+        "height": 0,
+        "type": "AUTO_SHAPE (1)",
+        "text": []
+      },
+      {
+        "shape_idx": 5,
+        "name": "Table 0",
+        "left": 1097280,
+        "top": 1691640,
+        "width": 9966960,
+        "height": 2286000,
+        "type": "TABLE (19)",
+        "table": [
+          [
+            "#",
+            "Reference"
+          ],
+          [
+            "1",
+            "MongoDB, Express, React, Node.js — Official Documentation"
+          ],
+          [
+            "2",
+            "IEEE / journal papers cited in the literature survey (Review 0)"
+          ],
+          [
+            "3",
+            "Relevant textbooks / course material used"
+          ],
+          [
+            "4",
+            "Any third-party APIs or libraries used in the project"
+          ]
+        ]
+      },
+      {
+        "shape_idx": 6,
+        "name": "Text 5",
+        "left": 457200,
+        "top": 6473952,
+        "width": 5486400,
+        "height": 274320,
+        "type": "TEXT_BOX (17)",
+        "text": [
+          "Next Steps"
+        ]
+      },
+      {
+        "shape_idx": 7,
+        "name": "Text 6",
+        "left": 6245352,
+        "top": 6473952,
+        "width": 5486400,
+        "height": 274320,
+        "type": "TEXT_BOX (17)",
+        "text": [
+          "Review 1 & 2  |  MERN Stack Project"
+        ]
+      }
+    ]
+  }
+]

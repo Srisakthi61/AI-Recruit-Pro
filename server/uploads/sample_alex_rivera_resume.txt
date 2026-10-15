@@ -1,0 +1,33 @@
+ALEX RIVERA
+Senior Full Stack Engineer
+Email: alex.dev@example.com | Phone: +1 (555) 345-6789 | Location: San Francisco, CA (Remote)
+GitHub: https://github.com/alexrivera-dev | LinkedIn: https://linkedin.com/in/alex-rivera-pro
+
+PROFESSIONAL SUMMARY
+Seasoned Full-Stack Software Engineer with 6+ years of experience designing, architecting, and deploying resilient web services, microservices, and React frontends at scale. Passionate about clean architectures, test-driven development, and cloud scalability.
+
+TECHNICAL SKILLS
+Languages: JavaScript, TypeScript, Python, SQL, HTML5, CSS3
+Frontend: React, Next.js, Redux Toolkit, Tailwind CSS, Material UI, Vite
+Backend: Node.js, Express.js, GraphQL, REST APIs, Microservices, NestJS
+Databases: MongoDB, Mongoose, PostgreSQL, Redis
+Cloud & DevOps: Docker, Kubernetes, AWS (ECS, S3, Lambda, CloudWatch), CI/CD, GitHub Actions, Jest, Supertest
+
+WORK EXPERIENCE
+Senior Full Stack Engineer | NextGen Cloud Systems | San Francisco, CA (2021 – Present)
+- Designed and maintained React/Node.js web application handling 50k+ daily active users with 99.9% uptime.
+- Spearheaded transition to TypeScript and Dockerized microservices deployed on AWS ECS.
+- Mentored 4 junior engineers, conducted technical interviews, and led weekly architecture design reviews.
+
+Full Stack Developer | Vanguard Web Apps | Austin, TX (2018 – 2021)
+- Built RESTful APIs and UI components using Express and React.
+- Optimized database queries in MongoDB and PostgreSQL, reducing latency by 35%.
+- Implemented automated test pipelines using Jest and GitHub Actions.
+
+EDUCATION
+Master of Science in Computer Science | University of Washington (2016 – 2018)
+Bachelor of Science in Software Engineering | University of California, Davis (2012 – 2016)
+
+CERTIFICATIONS
+- AWS Certified Solutions Architect - Associate
+- MongoDB Certified Developer

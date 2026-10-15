@@ -1,0 +1,389 @@
+
+================ SLIDE 1 ================
+  Text 0          ( 1.20,  0.50,  6.00,  0.30) fill=None     line=None     
+      Text: AGENDA
+  Text 1          ( 1.20,  0.78, 11.00,  0.60) fill=None     line=None     
+      Text: Scope of This Review
+  Shape 2         ( 1.20,  1.50, 11.60,  0.00) fill=None     line=D7E7E5   
+  Shape 6         ( 1.09,  1.86,  5.50,  4.06) fill=028090   line=None     
+  Text 8          ( 1.50,  2.33,  5.00,  3.08) fill=None     line=None     
+      Text: Requirements (Functional & Non-Functional) | Detailed System Architecture | Use Case & ER Diagrams | Module Description & Tech Stack | UI Design, Frontend & Backend Build | Database & API Integration | Progress (70%), Screenshots & Challenges
+  Text 9          ( 0.50,  7.08,  6.00,  0.30) fill=None     line=None     
+      Text: Agenda
+  Text 10         ( 6.83,  7.08,  6.00,  0.30) fill=None     line=None     
+      Text: Review 1 & 2  |  MERN Stack Project
+
+================ SLIDE 2 ================
+  Shape 0         ( 0.50,  0.50,  0.55,  0.55) fill=00A896   line=None     
+  Text 1          ( 0.50,  0.50,  0.55,  0.55) fill=None     line=None     
+      Text: 01
+  Text 2          ( 1.20,  0.50,  6.00,  0.30) fill=None     line=None     
+      Text: REQUIREMENTS
+  Text 3          ( 1.20,  0.78, 11.50,  0.60) fill=None     line=None     
+      Text: Functional & Non-Functional Requirements
+  Shape 4         ( 1.20,  1.50, 11.60,  0.00) fill=None     line=D7E7E5   
+  Shape 5         ( 1.20,  1.90,  5.50,  4.50) fill=F4FAF9   line=D7E7E5   
+  Text 6          ( 1.50,  2.10,  5.00,  0.40) fill=None     line=None     
+      Text: Functional Requirements
+  Text 7          ( 1.50,  2.65,  5.00,  3.60) fill=None     line=None     
+      Text: User registration & authentication | Role-based dashboards | Core feature: [add/search/manage records] | CRUD operations via REST APIs | Search, filter & sort functionality | Notifications / status updates
+  Shape 8         ( 7.00,  1.90,  5.50,  4.50) fill=F4FAF9   line=D7E7E5   
+  Text 9          ( 7.30,  2.10,  5.00,  0.40) fill=None     line=None     
+      Text: Non-Functional Requirements
+  Text 10         ( 7.30,  2.65,  5.00,  3.60) fill=None     line=None     
+      Text: Performance: response < 2 seconds | Scalability: handle concurrent users | Security: JWT auth, password hashing | Usability: responsive, mobile-friendly UI | Availability & reliable data storage | Maintainability: modular MERN codebase
+  Text 11         ( 0.50,  7.08,  6.00,  0.30) fill=None     line=None     
+      Text: Requirements
+  Text 12         ( 6.83,  7.08,  6.00,  0.30) fill=None     line=None     
+      Text: Review 1 & 2  |  MERN Stack Project
+
+================ SLIDE 3 ================
+  Shape 0         ( 0.50,  0.50,  0.55,  0.55) fill=00A896   line=None     
+  Text 1          ( 0.50,  0.50,  0.55,  0.55) fill=None     line=None     
+      Text: 02
+  Text 2          ( 1.20,  0.50,  6.00,  0.30) fill=None     line=None     
+      Text: ARCHITECTURE
+  Text 3          ( 1.20,  0.78, 11.50,  0.60) fill=None     line=None     
+      Text: System Architecture (Detailed)
+  Shape 4         ( 1.20,  1.50, 11.60,  0.00) fill=None     line=D7E7E5   
+  Shape 5         ( 1.20,  2.60,  3.30,  2.00) fill=00A896   line=None     
+  Text 6          ( 1.40,  2.85,  2.90,  0.40) fill=None     line=None     
+      Text: CLIENT TIER
+  Text 7          ( 1.40,  3.35,  2.90,  1.10) fill=None     line=None     
+      Text: React.js, Redux/Context, | Axios, Tailwind/CSS
+  Text 8          ( 4.50,  3.30,  0.55,  0.60) fill=None     line=None     
+      Text: ⇄
+  Shape 9         ( 5.05,  2.60,  3.30,  2.00) fill=028090   line=None     
+  Text 10         ( 5.25,  2.85,  2.90,  0.40) fill=None     line=None     
+      Text: APPLICATION TIER
+  Text 11         ( 5.25,  3.35,  2.90,  1.10) fill=None     line=None     
+      Text: Node.js + Express.js | REST API, Middleware, JWT Auth
+  Text 12         ( 8.35,  3.30,  0.55,  0.60) fill=None     line=None     
+      Text: ⇄
+  Shape 13        ( 8.90,  2.60,  3.30,  2.00) fill=1B2A2E   line=None     
+  Text 14         ( 9.10,  2.85,  2.90,  0.40) fill=None     line=None     
+      Text: DATA TIER
+  Text 15         ( 9.10,  3.35,  2.90,  1.10) fill=None     line=None     
+      Text: MongoDB + Mongoose | Collections & Schemas
+  Text 16         ( 1.20,  5.00, 10.90,  0.60) fill=None     line=None     
+      Text: HTTP / HTTPS requests flow from the client, through Express REST endpoints, to MongoDB — with JSON responses returned along the same path.
+  Shape 17        ( 1.20,  5.75, 10.90,  0.85) fill=F4FAF9   line=D7E7E5   
+  Text 18         ( 1.45,  5.75, 10.40,  0.85) fill=None     line=None     
+      Text: Update this slide with your own architecture diagram (draw.io / Lucidchart export) showing your project's specific components, external APIs, and deployment setup.
+  Text 19         ( 0.50,  7.08,  6.00,  0.30) fill=None     line=None     
+      Text: Architecture
+  Text 20         ( 6.83,  7.08,  6.00,  0.30) fill=None     line=None     
+      Text: Review 1 & 2  |  MERN Stack Project
+
+================ SLIDE 4 ================
+  Shape 0         ( 0.50,  0.50,  0.55,  0.55) fill=00A896   line=None     
+  Text 1          ( 0.50,  0.50,  0.55,  0.55) fill=None     line=None     
+      Text: 03
+  Text 2          ( 1.20,  0.50,  6.00,  0.30) fill=None     line=None     
+      Text: USE CASE
+  Text 3          ( 1.20,  0.78, 11.50,  0.60) fill=None     line=None     
+      Text: Use Case Diagram
+  Shape 4         ( 1.20,  1.50, 11.60,  0.00) fill=None     line=D7E7E5   
+  Shape 5         ( 1.20,  1.90,  6.60,  4.50) fill=F4FAF9   line=00A896   
+  Text 6          ( 1.40,  3.80,  6.20,  0.80) fill=None     line=None     
+      Text: Insert your Use Case Diagram | (actors ↔ system use cases)
+  Shape 7         ( 8.10,  1.90,  4.00,  4.50) fill=FFFFFF   line=D7E7E5   
+  Text 8          ( 8.35,  2.10,  3.50,  0.35) fill=None     line=None     
+      Text: Include
+  Text 9          ( 8.35,  2.55,  3.50,  3.70) fill=None     line=None     
+      Text: Identify all actors (Admin, User, etc.) | List each actor's use cases | Show include / extend relationships | Keep it to system-level interactions | Export as image and paste here
+  Text 10         ( 0.50,  7.08,  6.00,  0.30) fill=None     line=None     
+      Text: Use Case
+  Text 11         ( 6.83,  7.08,  6.00,  0.30) fill=None     line=None     
+      Text: Review 1 & 2  |  MERN Stack Project
+
+================ SLIDE 5 ================
+  Shape 0         ( 0.50,  0.50,  0.55,  0.55) fill=00A896   line=None     
+  Text 1          ( 0.50,  0.50,  0.55,  0.55) fill=None     line=None     
+      Text: 04
+  Text 2          ( 1.20,  0.50,  6.00,  0.30) fill=None     line=None     
+      Text: ER DIAGRAM
+  Text 3          ( 1.20,  0.78, 11.50,  0.60) fill=None     line=None     
+      Text: ER Diagram / Database Design
+  Shape 4         ( 1.20,  1.50, 11.60,  0.00) fill=None     line=D7E7E5   
+  Shape 5         ( 1.20,  1.90,  6.60,  4.50) fill=F4FAF9   line=00A896   
+  Text 6          ( 1.40,  3.80,  6.20,  0.80) fill=None     line=None     
+      Text: Insert your ER Diagram | (entities, attributes & relationships)
+  Shape 7         ( 8.10,  1.90,  4.00,  4.50) fill=FFFFFF   line=D7E7E5   
+  Text 8          ( 8.35,  2.10,  3.50,  0.35) fill=None     line=None     
+      Text: Include
+  Text 9          ( 8.35,  2.55,  3.50,  3.70) fill=None     line=None     
+      Text: List entities and attributes | Mark primary & foreign keys | Show relationships (1:1, 1:N, N:N) | Reflect actual MongoDB collections | Note any embedded vs. referenced docs
+  Text 10         ( 0.50,  7.08,  6.00,  0.30) fill=None     line=None     
+      Text: ER Diagram
+  Text 11         ( 6.83,  7.08,  6.00,  0.30) fill=None     line=None     
+      Text: Review 1 & 2  |  MERN Stack Project
+
+================ SLIDE 6 ================
+  Shape 0         ( 0.50,  0.50,  0.55,  0.55) fill=00A896   line=None     
+  Text 1          ( 0.50,  0.50,  0.55,  0.55) fill=None     line=None     
+      Text: 05
+  Text 2          ( 1.20,  0.50,  6.00,  0.30) fill=None     line=None     
+      Text: MODULES
+  Text 3          ( 1.20,  0.78, 11.50,  0.60) fill=None     line=None     
+      Text: Module Description
+  Shape 4         ( 1.20,  1.50, 11.60,  0.00) fill=None     line=D7E7E5   
+  Table 0         ( 1.20,  1.85, 10.90,  3.00) fill=None     line=None     tbl(6x3)
+  Text 5          ( 0.50,  7.08,  6.00,  0.30) fill=None     line=None     
+      Text: Modules
+  Text 6          ( 6.83,  7.08,  6.00,  0.30) fill=None     line=None     
+      Text: Review 1 & 2  |  MERN Stack Project
+
+================ SLIDE 7 ================
+  Shape 0         ( 0.50,  0.50,  0.55,  0.55) fill=00A896   line=None     
+  Text 1          ( 0.50,  0.50,  0.55,  0.55) fill=None     line=None     
+      Text: 06
+  Text 2          ( 1.20,  0.50,  6.00,  0.30) fill=None     line=None     
+      Text: TECH STACK
+  Text 3          ( 1.20,  0.78, 11.50,  0.60) fill=None     line=None     
+      Text: Technology Stack
+  Shape 4         ( 1.20,  1.50, 11.60,  0.00) fill=None     line=D7E7E5   
+  Shape 5         ( 1.20,  2.10,  2.55,  1.90) fill=F4FAF9   line=4C9A5B   
+  Text 6          ( 1.20,  2.60,  2.55,  0.50) fill=None     line=None     
+      Text: MongoDB
+  Text 7          ( 1.20,  3.15,  2.55,  0.50) fill=None     line=None     
+      Text: NoSQL Database
+  Shape 8         ( 4.00,  2.10,  2.55,  1.90) fill=F4FAF9   line=1B2A2E   
+  Text 9          ( 4.00,  2.60,  2.55,  0.50) fill=None     line=None     
+      Text: Express.js
+  Text 10         ( 4.00,  3.15,  2.55,  0.50) fill=None     line=None     
+      Text: Backend Framework
+  Shape 11        ( 6.80,  2.10,  2.55,  1.90) fill=F4FAF9   line=1C7293   
+  Text 12         ( 6.80,  2.60,  2.55,  0.50) fill=None     line=None     
+      Text: React.js
+  Text 13         ( 6.80,  3.15,  2.55,  0.50) fill=None     line=None     
+      Text: Frontend Library
+  Shape 14        ( 9.60,  2.10,  2.55,  1.90) fill=F4FAF9   line=4C9A5B   
+  Text 15         ( 9.60,  2.60,  2.55,  0.50) fill=None     line=None     
+      Text: Node.js
+  Text 16         ( 9.60,  3.15,  2.55,  0.50) fill=None     line=None     
+      Text: Runtime Environment
+  Text 17         ( 1.20,  4.35,  5.00,  0.40) fill=None     line=None     
+      Text: Supporting Tools
+  Text 18         ( 1.20,  4.85, 10.90,  1.70) fill=None     line=None     
+      Text: Mongoose (ODM) | JWT & bcrypt (auth/security) | Postman (API testing) | Git & GitHub (version control) | VS Code, npm | Axios (HTTP client)
+  Text 19         ( 0.50,  7.08,  6.00,  0.30) fill=None     line=None     
+      Text: Tech Stack
+  Text 20         ( 6.83,  7.08,  6.00,  0.30) fill=None     line=None     
+      Text: Review 1 & 2  |  MERN Stack Project
+
+================ SLIDE 8 ================
+  Shape 0         ( 0.50,  0.50,  0.55,  0.55) fill=00A896   line=None     
+  Text 1          ( 0.50,  0.50,  0.55,  0.55) fill=None     line=None     
+      Text: 07
+  Text 2          ( 1.20,  0.50,  6.00,  0.30) fill=None     line=None     
+      Text: UI DESIGN
+  Text 3          ( 1.20,  0.78, 11.50,  0.60) fill=None     line=None     
+      Text: UI Design / Wireframes
+  Shape 4         ( 1.20,  1.50, 11.60,  0.00) fill=None     line=D7E7E5   
+  Shape 5         ( 1.20,  1.90,  6.60,  4.50) fill=F4FAF9   line=00A896   
+  Text 6          ( 1.40,  3.80,  6.20,  0.80) fill=None     line=None     
+      Text: Insert wireframes / mockups | for key application screens
+  Shape 7         ( 8.10,  1.90,  4.00,  4.50) fill=FFFFFF   line=D7E7E5   
+  Text 8          ( 8.35,  2.10,  3.50,  0.35) fill=None     line=None     
+      Text: Include
+  Text 9          ( 8.35,  2.55,  3.50,  3.70) fill=None     line=None     
+      Text: Show key screen wireframes | Login/Signup, Dashboard, Core screens | Note responsive breakpoints | Mention design tool used (Figma, etc.) | Replace with real wireframe images
+  Text 10         ( 0.50,  7.08,  6.00,  0.30) fill=None     line=None     
+      Text: UI Design
+  Text 11         ( 6.83,  7.08,  6.00,  0.30) fill=None     line=None     
+      Text: Review 1 & 2  |  MERN Stack Project
+
+================ SLIDE 9 ================
+  Shape 0         ( 0.50,  0.50,  0.55,  0.55) fill=00A896   line=None     
+  Text 1          ( 0.50,  0.50,  0.55,  0.55) fill=None     line=None     
+      Text: 08
+  Text 2          ( 1.20,  0.50,  6.00,  0.30) fill=None     line=None     
+      Text: FRONTEND
+  Text 3          ( 1.20,  0.78, 11.50,  0.60) fill=None     line=None     
+      Text: Frontend Development
+  Shape 4         ( 1.20,  1.50, 11.60,  0.00) fill=None     line=D7E7E5   
+  Text 5          ( 1.20,  1.85, 10.80,  4.60) fill=None     line=None     
+      Text: Built with React.js using functional components & hooks | Component-based structure: Navbar, Forms, Cards, Tables, Modals | State management via Context API / Redux | Client-side routing implemented with React Router | Axios used to consume backend REST APIs | Responsive UI styled with [Tailwind / Bootstrap / CSS Modules]
+  Shape 6         ( 1.20,  6.15, 10.90,  0.65) fill=F4FAF9   line=D7E7E5   
+  Text 7          ( 1.45,  6.15, 10.40,  0.65) fill=None     line=None     
+      Text: Tip: list the actual pages/components completed so far, e.g. Login, Dashboard, Profile, Item List.
+  Text 8          ( 0.50,  7.08,  6.00,  0.30) fill=None     line=None     
+      Text: Frontend
+  Text 9          ( 6.83,  7.08,  6.00,  0.30) fill=None     line=None     
+      Text: Review 1 & 2  |  MERN Stack Project
+
+================ SLIDE 10 ================
+  Shape 0         ( 0.50,  0.50,  0.55,  0.55) fill=00A896   line=None     
+  Text 1          ( 0.50,  0.50,  0.55,  0.55) fill=None     line=None     
+      Text: 09
+  Text 2          ( 1.20,  0.50,  6.00,  0.30) fill=None     line=None     
+      Text: BACKEND
+  Text 3          ( 1.20,  0.78, 11.50,  0.60) fill=None     line=None     
+      Text: Backend Development
+  Shape 4         ( 1.20,  1.50, 11.60,  0.00) fill=None     line=D7E7E5   
+  Text 5          ( 1.20,  1.85, 10.80,  4.60) fill=None     line=None     
+      Text: Node.js + Express.js server with modular route structure | MVC pattern: separate routes, controllers & models | Authentication middleware using JWT | Input validation & centralized error handling | Environment-based configuration (.env, dotenv) | Server tested locally with Postman before integration
+  Shape 6         ( 1.20,  6.15, 10.90,  0.65) fill=F4FAF9   line=D7E7E5   
+  Text 7          ( 1.45,  6.15, 10.40,  0.65) fill=None     line=None     
+      Text: Tip: mention specific middleware, validation library, or error-handling strategy you used.
+  Text 8          ( 0.50,  7.08,  6.00,  0.30) fill=None     line=None     
+      Text: Backend
+  Text 9          ( 6.83,  7.08,  6.00,  0.30) fill=None     line=None     
+      Text: Review 1 & 2  |  MERN Stack Project
+
+================ SLIDE 11 ================
+  Shape 0         ( 0.50,  0.50,  0.55,  0.55) fill=00A896   line=None     
+  Text 1          ( 0.50,  0.50,  0.55,  0.55) fill=None     line=None     
+      Text: 10
+  Text 2          ( 1.20,  0.50,  6.00,  0.30) fill=None     line=None     
+      Text: DATABASE
+  Text 3          ( 1.20,  0.78, 11.50,  0.60) fill=None     line=None     
+      Text: Database Integration
+  Shape 4         ( 1.20,  1.50, 11.60,  0.00) fill=None     line=D7E7E5   
+  Text 5          ( 1.20,  1.85, 10.80,  4.60) fill=None     line=None     
+      Text: MongoDB Atlas / local MongoDB used as the data store | Mongoose schemas defined for each collection | Relationships modeled via referencing / embedding | Indexes added for frequently queried fields | CRUD operations connected end-to-end with the backend | Sample data seeded for testing during development
+  Shape 6         ( 1.20,  6.15, 10.90,  0.65) fill=F4FAF9   line=D7E7E5   
+  Text 7          ( 1.45,  6.15, 10.40,  0.65) fill=None     line=None     
+      Text: Tip: name your actual collections (e.g. Users, Products, Orders) here.
+  Text 8          ( 0.50,  7.08,  6.00,  0.30) fill=None     line=None     
+      Text: Database
+  Text 9          ( 6.83,  7.08,  6.00,  0.30) fill=None     line=None     
+      Text: Review 1 & 2  |  MERN Stack Project
+
+================ SLIDE 12 ================
+  Shape 0         ( 0.50,  0.50,  0.55,  0.55) fill=00A896   line=None     
+  Text 1          ( 0.50,  0.50,  0.55,  0.55) fill=None     line=None     
+      Text: 11
+  Text 2          ( 1.20,  0.50,  6.00,  0.30) fill=None     line=None     
+      Text: API
+  Text 3          ( 1.20,  0.78, 11.50,  0.60) fill=None     line=None     
+      Text: API Development
+  Shape 4         ( 1.20,  1.50, 11.60,  0.00) fill=None     line=D7E7E5   
+  Table 0         ( 1.20,  1.85, 10.90,  3.50) fill=None     line=None     tbl(7x3)
+  Text 5          ( 0.50,  7.08,  6.00,  0.30) fill=None     line=None     
+      Text: API
+  Text 6          ( 6.83,  7.08,  6.00,  0.30) fill=None     line=None     
+      Text: Review 1 & 2  |  MERN Stack Project
+
+================ SLIDE 13 ================
+  Shape 0         ( 0.50,  0.50,  0.55,  0.55) fill=00A896   line=None     
+  Text 1          ( 0.50,  0.50,  0.55,  0.55) fill=None     line=None     
+      Text: 12
+  Text 2          ( 1.20,  0.50,  6.00,  0.30) fill=None     line=None     
+      Text: STATUS
+  Text 3          ( 1.20,  0.78, 11.50,  0.60) fill=None     line=None     
+      Text: Module-wise Implementation Status
+  Shape 4         ( 1.20,  1.50, 11.60,  0.00) fill=None     line=D7E7E5   
+  Text 5          ( 1.20,  2.00,  3.60,  0.42) fill=None     line=None     
+      Text: User Authentication
+  Shape 6         ( 5.00,  2.06,  6.00,  0.30) fill=F4FAF9   line=D7E7E5   
+  Shape 7         ( 5.00,  2.06,  6.00,  0.30) fill=02C39A   line=None     
+  Text 8          (11.10,  2.00,  0.90,  0.42) fill=None     line=None     
+      Text: 100%
+  Text 9          ( 1.20,  2.68,  3.60,  0.42) fill=None     line=None     
+      Text: Frontend UI (Core Screens)
+  Shape 10        ( 5.00,  2.74,  6.00,  0.30) fill=F4FAF9   line=D7E7E5   
+  Shape 11        ( 5.00,  2.74,  4.80,  0.30) fill=02C39A   line=None     
+  Text 12         (11.10,  2.68,  0.90,  0.42) fill=None     line=None     
+      Text: 80%
+  Text 13         ( 1.20,  3.36,  3.60,  0.42) fill=None     line=None     
+      Text: Backend APIs
+  Shape 14        ( 5.00,  3.42,  6.00,  0.30) fill=F4FAF9   line=D7E7E5   
+  Shape 15        ( 5.00,  3.42,  4.50,  0.30) fill=02C39A   line=None     
+  Text 16         (11.10,  3.36,  0.90,  0.42) fill=None     line=None     
+      Text: 75%
+  Text 17         ( 1.20,  4.04,  3.60,  0.42) fill=None     line=None     
+      Text: Database Integration
+  Shape 18        ( 5.00,  4.10,  6.00,  0.30) fill=F4FAF9   line=D7E7E5   
+  Shape 19        ( 5.00,  4.10,  4.20,  0.30) fill=02C39A   line=None     
+  Text 20         (11.10,  4.04,  0.90,  0.42) fill=None     line=None     
+      Text: 70%
+  Text 21         ( 1.20,  4.72,  3.60,  0.42) fill=None     line=None     
+      Text: Admin Module
+  Shape 22        ( 5.00,  4.78,  6.00,  0.30) fill=F4FAF9   line=D7E7E5   
+  Shape 23        ( 5.00,  4.78,  3.00,  0.30) fill=00A896   line=None     
+  Text 24         (11.10,  4.72,  0.90,  0.42) fill=None     line=None     
+      Text: 50%
+  Text 25         ( 1.20,  5.40,  3.60,  0.42) fill=None     line=None     
+      Text: Notifications
+  Shape 26        ( 5.00,  5.46,  6.00,  0.30) fill=F4FAF9   line=D7E7E5   
+  Shape 27        ( 5.00,  5.46,  1.80,  0.30) fill=00A896   line=None     
+  Text 28         (11.10,  5.40,  0.90,  0.42) fill=None     line=None     
+      Text: 30%
+  Text 29         ( 0.50,  7.08,  6.00,  0.30) fill=None     line=None     
+      Text: Status
+  Text 30         ( 6.83,  7.08,  6.00,  0.30) fill=None     line=None     
+      Text: Review 1 & 2  |  MERN Stack Project
+
+================ SLIDE 14 ================
+  Shape 0         ( 0.50,  0.50,  0.55,  0.55) fill=00A896   line=None     
+  Text 1          ( 0.50,  0.50,  0.55,  0.55) fill=None     line=None     
+      Text: 13
+  Text 2          ( 1.20,  0.50,  6.00,  0.30) fill=None     line=None     
+      Text: SCREENSHOTS
+  Text 3          ( 1.20,  0.78, 11.50,  0.60) fill=None     line=None     
+      Text: Screenshots
+  Shape 4         ( 1.20,  1.50, 11.60,  0.00) fill=None     line=D7E7E5   
+  Shape 5         ( 1.20,  1.90,  5.30,  1.95) fill=F4FAF9   line=00A896   
+  Text 6          ( 1.20,  1.90,  5.30,  1.95) fill=None     line=None     
+      Text: [ Login / Signup Page screenshot ]
+  Shape 7         ( 6.80,  1.90,  5.30,  1.95) fill=F4FAF9   line=00A896   
+  Text 8          ( 6.80,  1.90,  5.30,  1.95) fill=None     line=None     
+      Text: [ Dashboard screenshot ]
+  Shape 9         ( 1.20,  4.15,  5.30,  1.95) fill=F4FAF9   line=00A896   
+  Text 10         ( 1.20,  4.15,  5.30,  1.95) fill=None     line=None     
+      Text: [ Core Feature Screen screenshot ]
+  Shape 11        ( 6.80,  4.15,  5.30,  1.95) fill=F4FAF9   line=00A896   
+  Text 12         ( 6.80,  4.15,  5.30,  1.95) fill=None     line=None     
+      Text: [ Admin Panel screenshot ]
+  Text 13         ( 0.50,  7.08,  6.00,  0.30) fill=None     line=None     
+      Text: Screenshots
+  Text 14         ( 6.83,  7.08,  6.00,  0.30) fill=None     line=None     
+      Text: Review 1 & 2  |  MERN Stack Project
+
+================ SLIDE 15 ================
+  Shape 0         ( 0.50,  0.50,  0.55,  0.55) fill=00A896   line=None     
+  Text 1          ( 0.50,  0.50,  0.55,  0.55) fill=None     line=None     
+      Text: 14
+  Text 2          ( 1.20,  0.50,  6.00,  0.30) fill=None     line=None     
+      Text: CHALLENGES
+  Text 3          ( 1.20,  0.78, 11.50,  0.60) fill=None     line=None     
+      Text: Challenges Faced & Solutions
+  Shape 4         ( 1.20,  1.50, 11.60,  0.00) fill=None     line=D7E7E5   
+  Table 0         ( 1.20,  1.85, 10.90,  2.50) fill=None     line=None     tbl(5x2)
+  Text 5          ( 0.50,  7.08,  6.00,  0.30) fill=None     line=None     
+      Text: Challenges
+  Text 6          ( 6.83,  7.08,  6.00,  0.30) fill=None     line=None     
+      Text: Review 1 & 2  |  MERN Stack Project
+
+================ SLIDE 16 ================
+  Shape 0         ( 0.50,  0.50,  0.55,  0.55) fill=00A896   line=None     
+  Text 1          ( 0.50,  0.50,  0.55,  0.55) fill=None     line=None     
+      Text: 15
+  Text 2          ( 1.20,  0.50,  6.00,  0.30) fill=None     line=None     
+      Text: NEXT STEPS
+  Text 3          ( 1.20,  0.78, 11.50,  0.60) fill=None     line=None     
+      Text: Remaining Work & Plan
+  Shape 4         ( 1.20,  1.50, 11.60,  0.00) fill=None     line=D7E7E5   
+  Text 5          ( 1.20,  1.85, 10.80,  4.60) fill=None     line=None     
+      Text: Complete Admin Module: analytics dashboard & reports | Implement Notification Module (email / in-app alerts) | Conduct integration & user-acceptance testing | Improve UI polish, accessibility & responsiveness | Deploy application (Render/Vercel/Netlify + MongoDB Atlas) | Prepare final documentation & demo for final review
+  Text 6          ( 0.50,  7.08,  6.00,  0.30) fill=None     line=None     
+      Text: Next Steps
+  Text 7          ( 6.83,  7.08,  6.00,  0.30) fill=None     line=None     
+      Text: Review 1 & 2  |  MERN Stack Project
+
+================ SLIDE 17 ================
+  Shape 0         ( 0.50,  0.50,  0.55,  0.55) fill=00A896   line=None     
+  Text 1          ( 0.50,  0.50,  0.55,  0.55) fill=None     line=None     
+      Text: 16
+  Text 2          ( 1.20,  0.50,  6.00,  0.30) fill=None     line=None     
+      Text: NEXT STEPS
+  Text 3          ( 1.20,  0.78, 11.50,  0.60) fill=None     line=None     
+      Text: References
+  Shape 4         ( 1.20,  1.50, 11.60,  0.00) fill=None     line=D7E7E5   
+  Table 0         ( 1.20,  1.85, 10.90,  2.50) fill=None     line=None     tbl(5x2)
+  Text 5          ( 0.50,  7.08,  6.00,  0.30) fill=None     line=None     
+      Text: Next Steps
+  Text 6          ( 6.83,  7.08,  6.00,  0.30) fill=None     line=None     
+      Text: Review 1 & 2  |  MERN Stack Project
